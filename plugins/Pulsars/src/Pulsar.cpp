@@ -30,6 +30,7 @@
 #include "StelProjector.hpp"
 #include "StelLocaleMgr.hpp"
 #include "StelTranslator.hpp"
+#include "Planet.hpp"
 
 #include <QTextStream>
 #include <QDebug>
@@ -423,7 +424,7 @@ void Pulsar::draw(StelCore* core, StelPainter *painter)
 {
 	Vec3d win;
 	// Check visibility of pulsar
-	if (!(painter->getProjector()->projectCheck(XYZ, win)))
+	if (!(painter->getProjector()->projectCheck(getJ2000EquatorialPos(core), win)))
 		return;
 
 	float mag = getVMagnitudeWithExtinction(core);
@@ -444,14 +445,30 @@ void Pulsar::draw(StelCore* core, StelPainter *painter)
 		else
 			painter->setColor(markerColor, 1.f);
 		painter->setBlending(true, GL_ONE, GL_ONE);
-		painter->drawSprite2dMode(XYZ, distributionMode ? 4.f : 5.f);
+		painter->drawSprite2dMode(getJ2000EquatorialPos(core), distributionMode ? 4.f : 5.f);
 
 		if (labelsFader.getInterstate()<=0.f && !distributionMode && (mag+2.f)<mlimit)
 		{
 			QString name = getDesignation();
 			if (!getNameI18n().isEmpty())
 				name = getNameI18n();
-			painter->drawText(XYZ, name, 0, shift, shift, false);
+			painter->drawText(getJ2000EquatorialPos(core), name, 0, shift, shift, false);
 		}
+	}
+}
+
+Vec3d Pulsar::getJ2000EquatorialPos(const StelCore* core) const
+{
+	if ((core) && (core->getUseAberration()) && (core->getCurrentPlanet()))
+	{
+		Vec3d vel=core->getCurrentPlanet()->getHeliocentricEclipticVelocity();
+		vel=StelCore::matVsop87ToJ2000*vel*core->getAberrationFactor()*(AU/(86400.0*SPEED_OF_LIGHT));
+		Vec3d pos=XYZ+vel;
+		pos.normalize();
+		return pos;
+	}
+	else
+	{
+		return XYZ;
 	}
 }

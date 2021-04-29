@@ -90,10 +90,7 @@ public:
 	//! Return a map like StelObject::getInfoMap(), but with a few extra tags also available in getMap(), except for designation, RA and DE fields.
 	virtual QVariantMap getInfoMap(const StelCore *core) const;
 	virtual Vec3f getInfoColor(void) const;
-	virtual Vec3d getJ2000EquatorialPos(const StelCore*) const
-	{
-		return XYZ;
-	}
+	virtual Vec3d getJ2000EquatorialPos(const StelCore* core) const;
 	//! Get the visual magnitude of pulsar
 	virtual float getVMagnitude(const StelCore* core) const;
 	virtual float getVMagnitudeWithExtinction(const StelCore *core) const;
