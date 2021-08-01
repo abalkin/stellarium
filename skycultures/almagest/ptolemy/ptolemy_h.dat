@@ -1,0 +1,1037 @@
+   1 UMi  1  2 00 10 +66 00 3   L'étoile qui est à l'extrémité de la queue
+   2 UMi  2  2 02 30 +70 00 4   Celle qui est après sur la queue
+   3 UMi  3  2 16 00 +74 20 4   L'étoile voisine avant la naissance de la queue
+             2 10 30
+   4 UMi  4  2 29 40 +75 40 4   La méridionale du côté occidental du quadrilatère
+   5 UMi  5  3 03 40 +77 40 4   La boréale du même côté
+   6 UMi  6  3 17 30 +72 50 2   La méridionale de celles qui sont dans le côté oriental
+             3 17 20
+   7 UMi  7  3 26 10 +74 50 2   La boréale du même côté
+   8 UMi~ 1  3 13 00 +71 10 4   L'étoile de 4e grandeur, la plus méridionale, en ligne droite avec celles du côté oriental
+   9 UMa  1  2 25 20 +39 50 4   L'étoile au bout du museau
+  10 UMa  2  2 25 50 +43 00 5   L'occidentale des deux des yeux
+  11 UMa  3  2 26 20 +43 00 5   L'orientale
+  12 UMa  4  2 26 30 +47 10 5   La précédente ou occidentale des deux du front
+  13 UMa  5  2 26 40 +47 00 5   La suivante ou orientale
+             2 27 40
+  14 UMa  6  2 28 10 +50 30 5   L'étoile à l'extrémité de l'oreille occidentale
+             2 28 30
+  15 UMa  7  3 00 30 +47 50 4   La précédente ou occidentale des deux du col
+                     +43 50
+  16 UMa  8  3 02 30 +44 20 4   La suivante ou orientale
+  17 UMa  9  3 09 00 +42 00 4   La plus boréale des deux de la poitrine
+  18 UMa 10  3 11 00 +44 00 4   La plus méridionale
+  19 UMa 11  3 10 40 +35 00 3   L'étoile sur le genou gauche
+  20 UMa 12  3 05 30 +29 20 3   La boréale à l'extrémité du pied gauche de devant
+  21 UMa 13  3 06 20 +28 20 3   La plus méridionale d'entr'elles
+  22 UMa 14  3 05 40 +30 10 4   L'étoile au-dessus du genou droit
+  23 UMa 15  3 05 50 +30 20 4   L'étoile au-dessous du genou droit
+  24 UMa 16  3 17 40 +49 00 2   Celle du dos dans le quadrilatère
+  25 UMa 17  3 22 30 +44 30 2   Celle de ces étoiles qui est sur la cuisse
+  26 UMa 18  4 03 30 +51 00 3   L'étoile de la racine de la queue
+  27 UMa 19  4 03 00 +46 30 2   L'étoile restante qui est sur la cuisse gauche de derrière
+  28 UMa 20  3 22 40 +29 20 3   Celle qui précède, à l'extrémité du pied gauche de derrière
+  29 UMa 21  3 21 10 +28 15 3   L'étoile qui suit
+             3 24 10
+  30 UMa 22  4 01 40 +35 15 4   Celle qui est à l'articulation du jarret gauche
+  31 UMa 23  4 09 50 +25 50 3   La plus boréale de celles de l'extr. du pied droit de derrière
+  32 UMa 24  4 10 20 +25 00 3   La plus méridionale de ces étoiles
+  33 UMa 25  4 12 10 +53 30 2   La première des trois après la racine de la queue
+  34 UMa 26  4 18 00 +55 40 2   Celle du milieu de ces étoiles
+  35 UMa 27  4 29 50 +54 00 2   La troisième et au bout de la queue
+  36 UMa~ 1  4 27 50 +39 45 3   L'étoile au midi loin de la queue
+  37 UMa~ 2  4 20 10 +41 20 5   L'étoile plus obscure qui la précède
+  38 UMa~ 3  3 15 00 +17 15 4   La plus méridionale de celles qui sont entre les pieds de devant de l'ourse et la tête du lion
+  39 UMa~ 4  3 13 20 +19 10 4   L'étoile plus boréale que celle-là
+  40 UMa~ 5  3 16 10 +20 00 obs La suivante des trois restantes et obscures
+  41 UMa~ 6  3 12 10 +22 50 obs La précédente de celle-ci
+  42 UMa~ 7  3 11 10 +23 00 obs Celle encore qui précède celle-ci
+  43 UMa~ 8  3 00 00 +22 15 obs L'étoile entre les pieds de devant et les gémeaux
+  44 Dra  1  6 26 40 +76 30 4   L'étoile sur la langue
+  45 Dra  2  7 11 50 +78 30 4   L'étoile dans la gueule
+  46 Dra  3  7 13 10 +75 40 3   L'étoile au-dessus de l'œil
+  47 Dra  4  7 27 20 +80 20 4   Celle de la mâchoire
+  48 Dra  5  7 29 40 +75 30 3   Celle au-dessus de la tête
+  49 Dra  6  8 24 40 +82 20 4   La boréale des trois en lig. droite dans la 1re courb. du col.
+  50 Dra  7  9 02 20 +78 15 4   La méridionale de ces étoiles
+  51 Dra  8  8 28 50 +80 20 4   Celle du milieu de ces étoiles
+  52 Dra  9  9 19 30 +81 30 4   L'étoile suivante de celles-là du côté de l'orient
+  53 Dra 10 11 08 00 +81 40 4   La méridionale du côté occidental du quadrilatère qui est dans le repli suivant
+  54 Dra 11 11 20 30 +83 00 4   La plus boréale du côté occidental du quadrilatère
+  55 Dra 12  0 07 40 +78 50 4   La boréale du côté suivant
+  56 Dra 13 11 22 50 +77 50 4   La méridionale du côté suivant
+  57 Dra 14  0 10 40 +80 30 5   La méridionale du triangle dans la courbure qui suit
+  58 Dra 15  0 21 20 +81 20 5   La précédente des deux restantes du triangle
+  59 Dra 16  0 21 30 +80 15 5   La suivante, orientale, de ces étoiles
+  60 Dra 17  2 13 20 +84 30 4   La suivante des trois dans le triangle de suite et précédent
+  61 Dra 18  1 20 20 +87 30 4   La méridionale des deux étoiles qui restent de ce triangle
+  62 Dra 19  1 11 50 +84 50 4   La plus boréale des deux restantes
+  63 Dra 20  3 28 40 +87 30 6   La suivante des deux étoiles qui sont à l'occid. du triangle
+  64 Dra 21  3 21 40 +86 50 6   La précédente, occidentale, de ces étoiles
+  65 Dra 22  5 09 00 +81 15 5   La plus méridionale des trois qui suivent en ligne droite
+  66 Dra 23  5 09 20 +80 20 5   Celle du milieu de ces trois
+  67 Dra 24  5 08 20 +84 50 3   La plus boréale de ces trois étoiles
+  68 Dra 25  5 10 00 +78 00 3   La plus boréale des deux qui suivent vers l'occident
+  69 Dra 26  5 10 20 +74 40 4   La plus méridionale d'entr'elles
+  70 Dra 27  5 12 40 +70 00 3   Celle de ces étoiles à l'occid. dans le pli proche de la queue
+  71 Dra 28  4 07 20 +64 40 4   La précédente des deux assez éloignées de celle-là
+  72 Dra 29  4 11 10 +65 30 3   La suivante de ces deux
+  73 Dra 30  3 19 10 +61 15 3   L'étoile qui les touche près de la queue
+  74 Dra 31  3 13 10 +56 15 3   La dernière au bout de la queue
+  75 Cep  1  1 09 00 +75 40 4   L'étoile sur le pied droit
+  76 Cep  2  1 03 00 +64 15 4   Celle du pied gauche
+  77 Cep  3  0 07 20 +71 10 4   Celle de la ceinture au côté droit
+  78 Cep  4 11 16 40 +69 00 3   Celle qui touche l'épaule droite en dessus
+  79 Cep  5 11 09 20 +72 00 4   Celle qui touche en dessus le coude droit
+  80 Cep  6 11 10 00 +74 00 4   Celle qui touche aussi le même coude, mais en dessous
+  81 Cep  7 11 28 30 +65 30 5   Celle qui est dans la poitrine
+  82 Cep  8  0 07 30 +62 30 4   Celle qui est dans le bras gauche
+  83 Cep  9 11 16 20 +60 15 5   La méridionale des trois qui sont sur la tiare
+  84 Cep 10 11 17 20 +61 15 4   Celle des trois qui est au milieu
+  85 Cep 11 11 19 00 +61 20 5   La plus boréale des trois
+  86 Cep~ 1 11 13 40 +64 00 5   La précédente de la tiare
+  87 Cep~ 2 11 21 20 +59 30 4   La suivante de la tiare
+  88 Boo  1  5 02 20 +58 40 5   La précédente des trois qui sont dans la main gauche
+  89 Boo  2  5 04 10 +58 20 5   La méridionale et mitoyenne des trois
+  90 Boo  3  5 09 40 +60 10 5   La suivante, orientale, des trois
+  91 Boo  4  5 09 40 +54 40 5   Celle qui est sur le coude gauche
+  92 Boo  5  5 19 40 +49 00 3   Celle de l'épaule gauche
+  93 Boo  6  5 26 40 +57 50 4   Celle sur la tête
+  94 Boo  7  6 05 40 +48 40 4   Celle qui est sur l'épaule droite
+  95 Boo  8  6 05 40 +53 15 4   La plus boréale de ces étoiles et sur la houlette
+  96 Boo  9  6 05 00 +57 30 4   Celle qui est plus bor. que celle-ci et au bout de la houlette
+  97 Boo 10  6 07 40 +46 30 4   La plus boréale des deux sous l'épaule dans la massue
+  98 Boo 11  6 08 30 +45 30 5   L'étoile plus méridionale que celles-ci
+  99 Boo 12  6 08 10 +41 40 5   Celle qui est à l'extrémité de la main droite
+ 100 Boo 13  6 06 40 +41 40 5   L'étoile occidentale des deux du poignet
+ 101 Boo 14  6 07 00 +42 30 5   La suivante, orientale, de ces étoiles
+ 102 Boo 15  6 07 40 +40 20 5   L'étoile qui est au bout de la poignée de la houlette
+ 103 Boo 16  6 00 00 +40 15 3   L'étoile sur la cuisse droite dans la ceinture
+ 104 Boo 17  5 25 40 +41 40 4   La suivante des deux de la ceinture
+ 105 Boo 18  5 25 00 +42 10 4   La précédente, occidentale, de ces étoiles
+ 106 Boo 19  6 05 20 +28 00 3   L'étoile sur le talon droit
+ 107 Boo 20  5 21 20 +28 00 3   La plus boréale des trois de la jambe gauche
+ 108 Boo 21  5 20 30 +26 30 4   Celle du milieu de ces trois
+ 109 Boo 22  5 21 20 +25 00 4   La méridionale de ces étoiles
+ 110 Boo~ 1  5 27 00 +31 30 1   L'étoile couleur de feu nommée Arcturus, entre les cuisses
+ 111 CrB  1  6 14 40 +44 30 2   La brillante qui est dans la couronne
+ 112 CrB  2  6 11 40 +46 30 4   La plus occidentale de toutes
+ 113 CrB  3  6 11 50 +48 00 5   La suivante de celle-ci et plus boréale
+ 114 CrB  4  6 13 40 +50 30 6   Celle encore qui suit celle-ci et plus boréale
+ 115 CrB  5  6 17 10 +44 45 4   Celle qui suit la brillante du côté du midi
+ 116 CrB  6  6 19 10 +44 50 4   Celle qui suit de près celle-ci
+ 117 CrB  7  6 21 20 +46 10 4   Celle qui vient encore après celles-ci
+ 118 CrB  8  6 21 40 +49 20 4   La plus orientale de toutes les étoiles de la couronne
+ 119 Her  1  7 17 40 +37 30 3   L'étoile qui est sur la tête
+ 120 Her  2  7 03 40 +43 00 3   Celle de l'épaule droite près de l'aisselle
+ 121 Her  3  7 01 40 +40 10 3   Celle qui est sur le bras droit
+ 122 Her  4  6 28 00 +37 10 4   Celle qui est sur le coude droit
+ 123 Her  5  7 16 40 +48 00 3   Celle de l'épaule gauche
+ 124 Her  6  7 22 00 +49 30 4   L'étoile qui est sur le bras gauche
+ 125 Her  7  7 27 40 +52 00 4   L'étoile qui est sur le coude gauche
+ 126 Her  8  8 05 30 +52 50 4   La suivante des trois du poignet gauche
+ 127 Her  9  8 01 40 +54 00 4   La boréale des deux restantes
+ 128 Her 10  8 01 30 +53 00 4   La plus méridionale de ces étoiles
+ 129 Her 11  7 03 40 +50 40 4   L'étoile dans le côté droit
+ 130 Her 12  7 10 10 +53 30 5   L'étoile dans le côté gauche
+ 131 Her 13  7 10 00 +56 30 5   Celle qui est plus boréale que celle-ci sur la fesse gauche
+ 132 Her 14  7 14 00 +59 50 4   La précédente des trois qui sont dans la cuisse gauche
+ 133 Her 15  7 11 10 +58 30 3   Celle qui est sur l'articulation de la même cuisse
+ 134 Her 16  7 15 20 +63 00 4   Celle qui la suit
+ 135 Her 17  7 16 20 +61 15 4   Celle qui vient après celle-ci
+ 136 Her 18  8 00 50 +61 00 4   L'étoile qui est sur le genou gauche
+ 137 Her 19  7 22 10 +69 20 4   L'étoile qui est sur le devant de la jambe gauche
+ 138 Her 20  7 15 20 +70 15 6   La précédente des trois du bout du pied gauche
+ 139 Her 21  7 16 50 +71 15 6   La mitoyenne des trois
+ 140 Her 22  7 19 40 +72 15 6   L'orientale de ces étoiles
+ 141 Her 23  7 00 40 +64 00 4   Celle qui est sur la naissance de la cuisse droite
+ 142 Her 24  6 25 20 +63 00 4   L'étoile plus boréale que celle-ci et dans la même cuisse
+ 143 Her 25  6 15 40 +65 30 4   Celle qui est sur le genou droit
+ 144 Her 26  6 13 40 +63 40 4   La plus méridionale des deux qui sont sous le genou droit
+ 145 Her 27  6 10 10 +64 15 4   La plus boréale de ces étoiles
+ 146 Her 28  6 11 10 +60 00 4   Celle qui est dans la jambe droite
+ 147 Her 29  6 05 00 +57 30 4   Celle qui est au bout du pied droit, laquelle est la même que celle du bout de la houlette
+ 148 Her~ 1  7 02 40 +38 10 5   L'étoile plus méridionale que celle du bras droit
+ 149 Lyr  1  8 17 20 +62 00 1   La brillante appelée la lyre sur la coquille
+ 150 Lyr  2  8 20 20 +62 40 4   La boréale des deux qui sont immédiatement proches d'elle
+ 151 Lyr  3  8 20 20 +61 00 4   La plus méridionale de celles-ci
+ 152 Lyr  4  8 23 40 +60 00 4   Celle qui les suit et qui est au milieu de la naissance des cornes
+ 153 Lyr  5  9 02 00 +61 20 4   La bor. des deux qui se suivent au côté orient. de la coquille
+ 154 Lyr  6  9 01 40 +60 20 4   La plus méridionale de celles-ci
+ 155 Lyr  7  8 21 00 +56 10 3   La boréale des deux occidentales dans la barre
+ 156 Lyr  8  8 20 50 +55 00 4   La plus méridionale de celles-ci
+ 157 Lyr  9  8 24 10 +55 20 3   La plus boréale des deux suivantes dans la barre
+ 158 Lyr 10  8 21 00 +54 45 4   La plus méridionale de celles-ci
+ 159 Cyg  1  9 04 00 +49 00 3   L'étoile qui est au bec
+ 160 Cyg  2  9 09 00 +50 30 5   La suivante de celle-ci sur la tête
+ 161 Cyg  3  9 16 20 +54 30 4   Celle du milieu du col
+ 162 Cyg  4  9 28 30 +57 20 3   Celle qui est dans la poitrine
+ 163 Cyg  5 10 09 10 +60 00 2   La brillante de la queue
+ 164 Cyg  6  9 19 20 +64 40 3   Celle qui est dans le coude de l'aîle droite
+ 165 Cyg  7  9 22 30 +69 40 4   La méridionale des trois qui sont dans le tarse droit
+ 166 Cyg  8  9 21 10 +71 30 4   L'étoile du milieu des trois
+ 167 Cyg  9  9 16 40 +74 00 4   La boréale de celle-ci et au bout du tarse
+ 168 Cyg 10  9 00 50 +49 30 3   Celle de la jointure de l'aîle gauche
+ 169 Cyg 11 10 03 50 +52 10 4   La plus boréale de celles-ci et au milieu de la même aîle
+ 170 Cyg 12 10 06 40 +44 00 3   Celle qui est à l'extrémité du tarse de l'aîle gauche
+ 171 Cyg 13 10 10 00 +55 10 4   Celle qui est sur le pied gauche
+ 172 Cyg 14 10 14 30 +57 00 4   Celle qui est sur le genou gauche
+ 173 Cyg 15 10 01 10 +64 00 4   La précédente des deux dans le pied droit
+ 174 Cyg 16 10 02 40 +64 30 4   La suivante de ces deux
+ 175 Cyg 17 10 12 10 +64 45 5   La nébuleuse sur le genou droit
+ 176 Cyg~ 1 10 10 40 +49 40 4   La plus méridionale des deux qui sont sous l'aîle gauche
+ 177 Cyg~ 2 10 13 50 +51 40 4   La plus boréale de celles-ci
+ 178 Cas  1  0 07 50 +45 20 4   L'étoile qui est sur la tête
+ 179 Cas  2  0 10 50 +46 45 3   Celle qui est dans la poitrine
+ 180 Cas  3  0 13 00 +47 50 4   L'étoile qui est plus boréale et sur la ceinture
+ 181 Cas  4  0 16 40 +49 00 3   Celle qui est au-dessus de la chaise près des cuisses
+ 182 Cas  5  0 20 40 +45 30 3   Celle qui est dans les genoux
+ 183 Cas  6  0 27 00 +47 45 4   L'étoile sur la jambe
+ 184 Cas  7  1 01 40 +47 20 4   Celle du bout du pied
+ 185 Cas  8  0 14 40 +44 20 4   Celle du bras gauche
+ 186 Cas  9  0 17 40 +45 00 5   L'étoile au-dessous du coude gauche
+ 187 Cas 10  0 02 20 +50 00 6   Celle qui est sur le coude droit
+ 188 Cas 11  0 15 00 +52 40 4   Celle qui est au-dessus du pied du trône
+ 189 Cas 12  0 07 50 +51 40 3   Celle du milieu du siége
+ 190 Cas 13  0 03 20 +51 40 6   Celle qui est au bout du siége
+ 191 Per  1  0 26 40 +40 30 neb Le groupe nébuleux qui est à l'extrémité de la main droite
+ 192 Per  2  1 01 10 +37 45 4   L'étoile sur le coude droit
+ 193 Per  3  1 02 40 +34 30 3   Celle qui est sur l'épaule droite
+ 194 Per  4  0 27 30 +32 20 4   Celle de l'épaule gauche
+ 195 Per  5  1 00 40 +34 30 4   Celle qui est sur la tête
+ 196 Per  6  1 01 30 +31 10 4   L'étoile qui est à l'occiput
+ 197 Per  7  1 04 50 +30 00 2   La brillante au côté droit
+ 198 Per  8  1 05 20 +27 50 4   La précédente des trois après celle de ce côté
+ 199 Per  9  1 07 00 +27 40 4   Celle du milieu des trois
+ 200 Per 10  1 07 40 +27 20 3   La suivante, orientale, de celles-ci
+ 201 Per 11  1 00 30 +27 00 4   Celle qui est sur le coude gauche
+ 202 Per 12  0 29 40 +23 00 2   La brillante qui est dans la gorgone
+ 203 Per 13  0 29 10 +21 00 4   Celle qui la suit à l'orient
+ 204 Per 14  0 27 40 +21 00 4   La précédente, à l'occident, de la brillante
+ 205 Per 15  0 26 50 +22 15 4   L'étoile restante plus occidentale encore que celle-ci
+ 206 Per 16  1 14 50 +28 00 4   Celle qui est sur l'avant-bras droit
+ 207 Per 17  1 13 00 +28 10 4   Celle qui la  précède et au-dessus du genou
+ 208 Per 18  1 12 20 +25 00 4   La précédente des deux au-dessus du pli du jarret
+ 209 Per 19  1 14 00 +26 15 4   La suivante dans le pli même
+ 210 Per 20  1 14 10 +24 30 5   Celle du gras de la jambe droite
+ 211 Per 21  1 16 20 +18 45 5   L'étoile qui est sur la cheville (malléole) droite
+ 212 Per 22  1 06 50 +24 50 5   Celle qui est dans la cuisse gauche
+                     +21 50
+ 213 Per 23  1 08 40 +19 15 3   Celle du genou gauche
+ 214 Per 24  1 08 20 +14 45 4   L'étoile qui est sur la jambe gauche
+ 215 Per 25  1 04 10 +12 00 3   Celle du talon gauche
+ 216 Per 26  1 06 30 +11 00 3   Celle qui la suit au bout du pied gauche
+ 217 Per~ 1  1 11 50 +18 00 5   L'étoile qui est à l'orient de celle qui est sur le genou gauche
+ 218 Per~ 2  1 15 00 +31 00 5   Celle qui est au nord de celles du genou droit
+ 219 Per~ 3  0 24 40 +20 40 obs La précédente de celles qui sont dans la gorgone
+ 220 Aur  1  2 02 30 +30 00 4   La plus méridionale des deux qui sont sur la tête
+ 221 Aur  2  2 02 20 +31 50 4   La plus boréale et au-dessus de la tête
+ 222 Aur  3  1 25 00 +22 30 1   L'étoile appelée la chèvre sur l'épaule gauche
+ 223 Aur  4  2 02 50 +20 00 2   Celle de l'épaule droite
+ 224 Aur  5  2 01 10 +15 15 4   Celle sur le coude droit
+ 225 Aur  6  2 02 50 +13 20 4   L'étoile sur le poignet droit
+ 226 Aur  7  1 22 00 +20 40 4   Celle qui est sur le coude gauche
+ 227 Aur  8  1 22 10 +18 00 4   La suiv. des 2 appelées les chevreaux, sur le poignet gauche
+ 228 Aur  9  1 22 00 +18 00 4   La précédente, occidentale, de ces étoiles
+ 229 Aur 10  1 19 50 +10 10 3   Celle de la cheville gauche
+ 230 Aur 11  1 25 40 +06 00 3   L'étoile commune à la cheville droite et à la corne du taureau
+ 231 Aur 12  1 26 00 +08 30 5   Celle qui est du côté de l'ourse, aux environs du pied
+ 232 Aur 13  1 26 20 +12 10 5   L'étoile plus boréale encore que celle-ci, sur la fesse
+ 233 Aur 14  1 20 40 +16 20 6   La petite au-dessus du pied gauche
+ 234 Oph  1  7 24 50 +36 30 3   L'étoile qui est sur la tête
+ 235 Oph  2  7 28 00 +27 15 4   L'occidentale des deux sur l'épaule droite
+ 236 Oph  3  7 29 00 +26 30 4   La suivante, orientale, de celles-ci
+ 237 Oph  4  7 13 20 +33 00 4   Celle qui est la plus occidentale des deux de l'épaule gauche
+ 238 Oph  5  7 14 40 +31 50 4   La suivante ou orientale de celles-ci
+ 239 Oph  6  7 18 20 +33 50 4   Celle du coude gauche
+ 240 Oph  7  7 05 00 +17 00 3   L'occidentale des deux au bout de la main gauche
+ 241 Oph  8  7 06 00 +16 30 3   L'orientale de ces étoiles
+ 242 Oph  9  7 26 40 +15 00 4   Celle du coude droit
+ 243 Oph 10  8 02 20 +13 40 4   L'occidentale des deux à l'extrémité de la main droite
+ 244 Oph 11  8 03 20 +14 20 4   L'orientale de ces étoiles
+ 245 Oph 12  7 21 10 +07 30 3   Celle qui est sur le genou droit
+ 246 Oph 13  7 26 40 +02 15 4   Celle qui est sur la jambe droite
+ 247 Oph 14  7 23 00 -02 15 4   L'occidentale des quatre qui sont le pied droit
+ 248 Oph 15  7 24 20 -04 30 4   Celle qui la suit
+ 249 Oph 16  7 25 00 -03 40 4   Celle qui suit cette dernière encore
+ 250 Oph 17  7 25 50 -00 15 5   La restante et orientale des quatre
+ 251 Oph 18  7 27 10 +01 00 5   L'étoile qui suit celles-ci, et touche le talon
+ 252 Oph 19  7 12 10 +11 50 3   Celles du genou gauche
+ 253 Oph 20  7 11 40 +05 20 5   La plus boréale des trois en ligne droite sur la jambe gauche
+ 254 Oph 21  7 10 40 +03 10 5   Celle qui est la mitoyenne de ces étoiles
+ 255 Oph 22  7 09 50 +01 20 5   La méridionale des trois
+ 256 Oph 23  7 12 20 +00 40 5   L'étoile placée sur le talon gauche
+ 257 Oph 24  7 10 40 -00 45 4   Celle qui touche la plante du pied gauche
+ 258 Oph~ 1  8 02 00 +28 10 4   La plus boréale des trois à l'orient de l'épaule droite
+ 259 Oph~ 2  8 02 40 +26 20 4   La mitoyenne des trois
+ 260 Oph~ 3  8 03 00 +25 00 4   La méridionale de ces étoiles
+ 261 Oph~ 4  8 03 40 +27 00 4   Celle qui suit les trois, presque sur celle du milieu
+ 262 Oph~ 5  8 04 40 +33 00 4   L'étoile isolée, la plus boréale des quatre
+ 263 Ser  1  6 18 50 +38 00 4   L'étoile du quadrilatère de la tête, au bout de la mâchoire
+ 264 Ser  2  6 21 40 +40 00 4   Celle qui touche les narines
+ 265 Ser  3  6 21 20 +36 00 3   Celle qui est dans la tempe
+ 266 Ser  4  6 22 00 +34 15 3   Celle qui est à la naissance du col
+ 267 Ser  5  6 21 20 +37 15 4   Celle du milieu du quadrilatère et dans la gueule
+ 268 Ser  6  6 23 10 +42 30 4   Celle qui est en dehors et au nord de la tête
+ 269 Ser  7  6 21 40 +29 15 3   Celle qui est après la première courbure du col
+ 270 Ser  8  6 24 50 +26 30 4   La boréale des trois qui sont à la suite de celles-ci
+ 271 Ser  9  6 24 20 +25 20 3   Celle du milieu des trois
+ 272 Ser 10  6 26 20 +24 00 3   La méridionale de ces étoiles
+ 273 Ser 11  6 28 50 +16 15 4   Celle qui après la courbure suivante précède la main gauche d'Ophiuchus
+ 274 Ser 12  7 08 10 +16 15 5   L'étoile qui est à l'orient de celles de la main
+ 275 Ser 13  7 23 40 +10 30 4   Celle qui vient après la jambe droite de derrière d'Ophiuchus
+ 276 Ser 14  7 27 00 +08 30 4   La plus méridionale des deux qui la suivent
+ 277 Ser 15  7 27 50 +10 50 4   La plus boréale de ces étoiles
+ 278 Ser 16  8 03 40 +20 00 4   Celle qui est après la main droite sur la courbure de la queue
+ 279 Ser 17  8 08 40 +21 10 4   La suivante de celle-ci pareillement sur la queue
+ 280 Ser 18  8 18 20 +27 00 4   Celle qui est à l'extrémité de la queue
+ 281 Sge  1  9 16 00 +39 20 4   L'étoile isolée de la pointe
+ 282 Sge  2  9 06 40 +39 10 6   L'orientale des trois qui sont dans le roseau (de la flêche)
+ 283 Sge  3  9 05 50 +39 50 5   Celle qui fait le milieu des trois
+ 284 Sge  4  9 04 40 +39 00 5   L'occidentale des trois
+ 285 Sge  5  9 03 20 +37 40 5   Celle qui est à l'extrémité échancrée
+ 286 Aql  1  9 07 10 +26 50 4   L'étoile du milieu de la tête
+ 287 Aql  2  9 04 50 +27 10 3   Celle qui est à l'occident de celle-ci et sur le col
+ 288 Aql  3  9 03 50 +29 10 2   La brillante nommée l'aigle, sur l'occiput
+ 289 Aql  4  9 04 40 +30 00 3   Celle qui en est tout près du côté des ourses
+ 290 Aql  5  9 03 10 +31 30 3   L'occidentale des deux dans l'épaule gauche
+ 291 Aql  6  9 06 00 +21 30 5   L'orientale de ces deux
+ 292 Aql  7  8 29 40 +28 40 5   L'occidentale des deux dans l'épaule droite
+ 293 Aql  8  9 01 10 +26 20 5   Celle qui la suit
+ 294 Aql  9  8 22 10 +36 20 3   Celle qui plus loin sous la queue, touche la voie lactée
+ 295 Aql~ 1  9 03 40 +21 40 3   L'occidentale des deux qui sont au midi de la tête de l'aigle
+ 296 Aql~ 2  9 09 50 +19 10 3   La suivante ou orientale de ces deux
+ 297 Aql~ 3  8 26 00 +25 00 4   La mérid. et au vent d'Afrique, de l'épaule droite de l'aigle
+ 298 Aql~ 4  8 28 10 +20 00 3   Celle au midi de cette dernière
+ 299 Aql~ 5  8 29 40 +15 30 5   L'étoile encore plus méridionale que celle-ci
+ 300 Aql~ 6  8 21 30 +18 10 3   L'occidentale de toutes
+ 301 Del  1  9 17 40 +29 10 3   L'occidentale des trois dans la queue
+ 302 Del  2  9 18 40 +29 00 4   La plus boréale des deux autres
+ 303 Del  3  9 18 20 +27 45 4   La plus méridionale de celles-ci
+ 304 Del  4  9 18 30 +32 00 3   La méridionale des étoiles qui sont dans le côté occidental du quadrilatère rhomboïde
+ 305 Del  5  9 26 00 +33 20 3   La plus boréale du côté occidental
+ 306 Del  6  9 21 20 +32 00 3   La méridionale du côté oriental du rhombe
+ 307 Del  7  9 23 10 +33 10 3   La boréale du côté oriental
+ 308 Del  8  9 17 30 +30 15 6   La méridionale des trois entre la queue et le rhombe
+ 309 Del  9  9 17 20 +31 50 6   L'occidentale des deux autres boréales
+ 310 Del 10  9 19 00 +31 30 6   La restante et orientale de ces étoiles
+ 311 Equ  1  9 26 40 +20 30 obs L'occidentale des deux de la tête
+ 312 Equ  2  9 28 00 +20 40 obs L'orientale ou la suivante de ces étoiles
+ 313 Equ  3  9 26 20 +25 30 obs L'occidentale des deux de la bouche
+ 314 Equ  4  9 27 40 +25 00 obs L'orientale de ces deux
+ 315 Peg  1 11 17 50 +26 00 2   L'ét. sur le nombril, et qui est commune à la tête d'Andromède
+ 316 Peg  2 11 12 10 +12 30 2   Celle qui est sur les reins, et au bout de l'aîle
+ 317 Peg  3 11 02 10 +31 00 2   Celle qui est sur l'épaule droite et à la naissance du pied
+ 318 Peg  4 10 26 40 +19 40 2   Celle qui est sous le col près de l'épaule de de l'aîle
+ 319 Peg  5 11 04 30 +25 30 4   La plus boréale des deux du corps, sous l'aîle
+ 320 Peg  6 11 05 00 +25 00 4   La plus méridionale de ces deux
+ 321 Peg  7 10 29 00 +35 00 3   La plus boréale des deux au genou droit
+ 322 Peg  8 10 28 30 +34 30 5   La plus méridionale de celles-ci
+ 323 Peg  9 10 26 10 +29 00 4   L'occidentale des deux voisines dans la poitrine
+ 324 Peg 10 10 27 00 +29 30 4   L'orientale de ces deux
+ 325 Peg 11 10 18 50 +18 00 3   L'occidentale des deux voisines dans le col
+ 326 Peg 12 10 20 30 +19 00 4   L'orientale de celles-ci
+ 327 Peg 13 10 21 20 +15 00 5   La plus méridionale des deux de la crinière
+ 328 Peg 14 10 20 30 +16 00 5   La plus boréale d'entr'elles
+ 329 Peg 15 10 09 10 +16 50 3   La plus boréale des deux voisines sur la tête
+ 330 Peg 16 10 08 00 +16 00 4   La plus méridionale d'entr'elles
+ 331 Peg 17 10 05 20 +22 30 3   L'étoile dans l'ouverture de la bouche
+ 332 Peg 18 10 23 40 +41 10 4   Celle de la cheville droite
+ 333 Peg 19 10 17 40 +34 15 4   L'étoile qui est sur le genou gauche
+ 334 Peg 20 10 12 20 +36 50 4   Celle de la cheville gauche
+ 335 And  1 11 25 20 +24 30 3   L'étoile qui est dans l'occiput, la nuque
+ 336 And  2 11 26 20 +27 00 4   Celle de l'épaule droite
+ 337 And  3 11 24 20 +23 00 4   Celle de l'épaule gauche
+ 338 And  4 11 23 40 +32 00 4   La méridionale des trois sur le bras droit
+ 339 And  5 11 24 40 +33 30 4   La plus boréale de ces étoiles
+ 340 And  6 11 25 00 +32 20 5   Celle du milieu de ces étoiles
+ 341 And  7 11 15 40 +41 00 4   La méridionale des trois du bout de la main droite
+            11 19 40
+ 342 And  8 11 20 40 +42 00 4   Celle du milieu
+ 343 And  9 11 22 10 +44 00 4   La boréale de ces trois
+ 344 And 10 11 24 10 +17 30 4   Celle qui est sur le bras gauche
+ 345 And 11 11 25 40 +15 50 4   Celle du coude gauche
+ 346 And 12  0 03 50 +25 20 3   La plus méridionale des trois sous la ceinture
+ 347 And 13  0 01 50 +30 00 4   L'étoile du milieu de celles-ci
+ 348 And 14  0 02 00 +32 30 4   La boréale des trois
+ 349 And 15  0 16 50 +28 00 3   Celle qui est au-dessus du pied gauche
+ 350 And 16  0 17 10 +37 20 4   Celle du pied droit
+ 351 And 17  0 15 10 +35 40 4   L'étoile plus méridionale que celle-ci
+ 352 And 18  0 12 20 +29 00 4   La plus boréale des deux qui sont au jarret gauche
+ 353 And 19  0 12 00 +28 00 4   La plus méridionale de ces étoiles
+ 354 And 20  0 10 10 +35 30 5   Celle du genou droit
+ 355 And 21  0 12 40 +34 30 5   La plus boréale des deux dans le bord de la robe
+ 356 And 22  0 14 10 +32 30 5   La plus méridionale de ces deux
+ 357 And 23 11 11 40 +41 00 3   La précédente en dehors des trois de l'extrêmité de la main droite
+ 358 Tri  1  0 11 00 +16 30 3   L'étoile au sommet du triangle
+ 359 Tri  2  0 16 00 +20 40 3   La précédente des trois à la base
+ 360 Tri  3  0 16 20 +19 40 4   L'étoile du milieu d'entr'elles
+ 361 Tri  4  0 16 50 +19 00 3   L'orientale des trois
+ 362 Ari  1  0 06 40 +07 20 3   L'étoile occidentale des deux sur la corne
+ 363 Ari  2  0 07 40 +08 20 3   L'orientale de ces deux
+ 364 Ari  3  0 11 00 +07 40 5   La plus boréale des deux du museau
+ 365 Ari  4  0 11 30 +06 00 5   La plus méridionale de celles-ci
+ 366 Ari  5  0 06 30 +05 20 5   Celle qui est sur le col
+ 367 Ari  6  0 17 40 +06 00 6   Celle qui est sur les reins
+ 368 Ari  7  0 21 20 +04 50 5   Celle de la racine de la queue
+ 369 Ari  8  0 23 50 +01 40 4   L'occidentale des trois de la queue
+ 370 Ari  9  0 25 20 +02 30 4   Celle du milieu des trois
+ 371 Ari 10  0 27 00 +01 50 4   L'orientale de ces étoiles
+ 372 Ari 11  0 19 40 +01 30 5   Celle qui est dans la jambe de derrière
+ 373 Ari 12  0 18 00 -01 30 5   L'étoile qui est sous le jarret
+ 374 Ari 13  0 15 00 -05 15 4   Celle de l'extrémité du pied de derrière
+ 375 Ari~ 1  0 10 20 +10 30 3   L'étoile au-dessus de la tête, qu'Hipparque a placée dans le col
+ 376 Ari~ 2  0 21 40 +10 10 4   L'orientale et brillante des quatre au-dessus des lombes
+ 377 Ari~ 3  0 21 20 +12 40 5   La plus boréale des trois autres plus obscures
+ 378 Ari~ 4  0 19 20 +11 10 5   Celle de ces trois qui est au milieu
+ 379 Ari~ 5  0 19 40 +10 20 5   La méridionale de celles-ci
+ 380 Tau  1  0 26 20 -06 00 4   La boréale des quatre dans la section
+ 381 Tau  2  0 26 00 -07 15 4   La voisine de celle-ci
+ 382 Tau  3  0 24 20 -08 30 4   La voisine encore de cette dernière
+ 383 Tau  4  0 24 20 -09 15 4   La plus méridionale des quatre
+ 384 Tau  5  0 21 40 -09 30 5   Celle qui les suit sur l'omoplate droite
+ 385 Tau  6  1 03 40 -08 00 3   Celle qui est dans la poitrine
+ 386 Tau  7  1 06 40 -12 40 4   Celle qui est sur le genou droit
+ 387 Tau  8  1 03 00 -14 50 4   Celle de la cheville droite
+ 388 Tau  9  1 12 10 -10 00 4   Celle du genou gauche
+ 389 Tau 10  1 13 00 -13 00 4   Celle du coude gauche
+ 390 Tau 11  1 09 00 -05 45 3   Celle des étoiles appelées Hyades, dans la face, aux naseaux
+ 391 Tau 12  1 10 20 -04 15 3   L'étoile entre celle-ci et l'œil boréal
+ 392 Tau 13  1 10 50 -05 50 3   Celle d'entre la même et l'œil méridional
+ 393 Tau 14  1 12 40 -05 10 1   La brillante des Hyades sur l'œil austral, rougeâtre
+ 394 Tau 15  1 12 50 -03 00 3   La dernière et sur l'œil boréal
+ 395 Tau 16  1 17 30 -00 15 4   Celle qui est à la naissance de la corne australe et de l'oreille
+ 396 Tau 17  1 20 20 -05 00 5   La plus méridionale des deux sur la corne méridionale
+ 397 Tau 18  1 20 00 -03 30 5   La plus boréale de ces étoiles
+ 398 Tau 19  1 27 40 -02 30 3   Celle qui est au bout de la corne méridionale
+ 399 Tau 20  1 15 40 -00 15 4   Celle qui est à la naissance de la corne boréale
+ 400 Tau 21  1 25 40 +06 00 3   Celle qui est au bout de la corne boréale, la même que celle du pied droit du cocher
+ 401 Tau 22  1 12 00 +00 30 5   La plus boréale de deux voisines dans l'oreille boréale
+ 402 Tau 23  1 11 40 +00 15 5   La méridionale de celles-ci
+ 403 Tau 24  1 07 00 +00 40 5   L'occidentale des deux petites qui sont dans le col
+ 404 Tau 25  1 09 00 +01 00 6   La suivante de celle-ci
+ 405 Tau 26  1 08 00 +05 00 5   La plus méridionale du côté occidental du quadrilatère dans le col
+ 406 Tau 27  1 08 30 +07 20 5   La plus boréale du côté occidental
+ 407 Tau 28  1 12 00 +03 00 5   La plus méridionale du côté oriental
+ 408 Tau 29  1 11 40 +05 00 5   La plus boréale du côté oriental
+ 409 Tau 30  1 02 10 +04 30 5   L'extrêmité boréale du côté occidental de la pléïade
+ 410 Tau 31  1 02 30 +03 40 5   L'extrêmité méridionale du côté occidental
+ 411 Tau 32  1 03 40 +03 40 5   L'extrêmité suivante et très-étroite de la pléïade
+ 412 Tau 33  1 03 40 +05 00 4   Une extérieure et petite de la pléïade, du côté des ourses
+ 413 Tau~ 1  0 25 00 -17 30 4   L'étoile sous le pied droit et l'omoplate
+ 414 Tau~ 2  1 20 00 -02 00 5   L'occidentale des trois au-dessus de la corne méridionale
+ 415 Tau~ 3  1 21 00 -01 45 5   Celle qui fait le milieu des trois
+ 416 Tau~ 4  1 26 00 -02 00 5   La suivante de celles-ci
+ 417 Tau~ 5  1 29 00 -06 20 5   La plus boréale des 2 sous la pointe de la corne méridionale
+ 418 Tau~ 6  1 29 00 -07 40 5   La plus méridionale de ces étoiles
+ 419 Tau~ 7  1 27 00 +00 40 5   L'occidentale des cinq suivantes sous la corne boréale
+ 420 Tau~ 8  1 29 00 +01 00 5   Celle qui la suit
+ 421 Tau~ 9  2 01 00 +01 20 5   Celle encore qui suit celle-ci
+ 422 Tau~10  2 02 20 +03 20 5   La plus boréale des deux restantes et orientales
+ 423 Tau~11  2 03 20 +01 15 5   La plus méridionale d'entr'elles
+ 424 Gem  1  2 23 20 +09 30 2   L'étoile sur la tête du gémeau occidental (Castor)
+ 425 Gem  2  2 26 40 +06 15 2   L'étoile rougeâtre sur la tête du gémeau oriental (Pollux)
+ 426 Gem  3  2 16 40 +10 00 4   Celle du coude gauche du gémeau occidental
+ 427 Gem  4  2 18 40 +07 20 4   Celle qui est dans le bras
+ 428 Gem  5  2 22 00 +05 30 4   Celle qui la suit et dans le dos
+ 429 Gem  6  2 24 00 +04 50 4   Celle qui suit celle-ci sur l'épaule droite du même gémeau
+ 430 Gem  7  2 26 40 +02 40 4   Celle qui est sur l'épaule orientale du gém. suivant, oriental
+ 431 Gem  8  2 21 40 +02 40 5   Celle du côté droit du gémeau occidental (Castor)
+ 432 Gem  9  2 26 10 +03 20 5   Celle qui est sur le côté gauche du gémeau oriental
+ 433 Gem 10  2 13 00 +01 30 3   Celle qui est sur le genou gauche du gémeau occidental
+ 434 Gem 11  2 18 15 -02 30 3   Celle qui est sous le genou gauche du gémeau oriental
+ 435 Gem 12  2 21 40 -00 30 3   Celle de l'aine gauche du gémeau oriental
+ 436 Gem 13  2 21 20 -06 10 3   Celle qui est sur le jarret droit du même gémeau
+ 437 Gem 14  2 06 30 -01 30 4   Celle du bout du premier pied du gémeau occidental
+ 438 Gem 15  2 08 30 -01 15 4   La suivante de celle-ci sur le même pied
+ 439 Gem 16  2 10 10 -03 30 4   Celle de l'extrémité du pied droit du gémeau occidental
+ 440 Gem 17  2 12 00 -07 30 3   L'étoile au bout du pied gauche du gémeau oriental
+ 441 Gem 18  2 11 40 -10 30 4   Celle du bout du pied droit du gémeau oriental
+ 442 Gem~ 1  2 04 10 -00 20 4   L'occidentale du premier pied du gémeau occidental
+ 443 Gem~ 2  2 06 30 +05 50 4   La brillante occidentale du genou occidental
+ 444 Gem~ 3  2 15 30 -02 15 5   L'occidentale du genou gauche du gémeau oriental
+ 445 Gem~ 4  2 28 20 -01 20 5   La boréale des trois en ligne droite qui suivent la main droite du gémeau oriental
+ 446 Gem~ 5  2 26 20 -03 20 5   Celle du milieu
+ 447 Gem~ 6  2 26 00 -04 30 5   Leur méridionale et entre le coude et cette main
+ 448 Gem~ 7  3 00 40 -02 40 4   La brillante après les trois étoiles susdites
+ 449 Cnc  1  3 10 20 +00 20 neb Celle du milieu de l'amas nébuleux appelé la crèche, dans la poitrine
+ 450 Cnc  2  3 07 40 +01 15 4   La plus boréale des deux occidentales du quadrilatère auprès du nuage
+ 451 Cnc  3  3 08 00 -01 10 4   La plus méridionale des deux occidentales
+ 452 Cnc  4  3 13 00 +02 40 4   La bor. des 2 orientales du quadrilatère, appelées les ânes
+ 453 Cnc  5  3 11 20 -00 10 4   La méridionale de ces deux
+ 454 Cnc  6  3 16 30 -05 30 4   Celle de la pince méridionale
+ 455 Cnc  7  3 08 20 +11 50 4   Celle de la pince boréale
+ 456 Cnc  8  3 02 40 +01 00 5   Celle de la patte boréale de derrière
+ 457 Cnc  9  3 07 10 -07 30 4   Celle à la patte méridionale de derrière
+ 458 Cnc~ 1  3 19 10 -02 20 4   Celle au-dessus de l'articulation de la serre méridionale
+ 459 Cnc~ 2  3 21 10 -05 40 4   L'orientale du bout de la serre méridionale
+ 460 Cnc~ 3  3 14 00 +04 50 5   L'occidentale des suivantes au-dessus du nuage
+ 461 Cnc~ 4  3 17 00 +07 15 5   Celle qui les suit
+ 462 Leo  1  3 18 20 +10 00 4   Celle qui est au bout du mufle
+ 463 Leo  2  3 21 10 +07 30 4   Celle qui est dans la gueule
+ 464 Leo  3  3 24 20 +12 00 3   La plus boréale des deux qui sont dans la tête
+ 465 Leo  4  3 24 10 +09 30 3   La plus méridionale d'entr'elles
+ 466 Leo  5  4 00 10 +11 00 3   La boréale des trois dans le col
+ 467 Leo  6  4 02 10 +08 30 2   La voisine et au milieu des trois
+ 468 Leo  7  4 00 40 +04 30 3   La méridionale de ces étoiles
+ 469 Leo  8  4 02 30 +00 10 1   Celle du cœur nommée /Regulus/
+ 470 Leo  9  4 03 30 -01 50 4   Celle qui est plus mérid. qu'elle, et presque sur la poitrine
+ 471 Leo 10  4 00 00 -00 15 5   Celle qui est un peu plus occidentale que celle du cœur
+ 472 Leo 11  3 27 20 +00 00 5   L'étoile sur le genou droit
+ 473 Leo 12  3 24 10 -03 40 6   Celle qui est à la griffe droite de devant
+ 474 Leo 13  3 27 20 -04 10 4   Celle qui est à la griffe gauche de devant
+ 475 Leo 14  4 02 30 -04 15 4   Celle du genou gauche
+ 476 Leo 15  4 09 10 -06 00 4   Celle de l'aisselle gauche
+ 477 Leo 16  4 07 00 +00 15 6   L'occidentale des trois dans le ventre
+ 478 Leo 17  4 10 20 +05 20 6   La boréale des deux restantes et orientales
+ 479 Leo 18  4 12 10 +02 20 6   La plus méridionale de celles-ci
+ 480 Leo 19  4 11 20 +12 15 6   L'occidentale des deux de la région lombaire
+ 481 Leo 20  4 14 10 +13 40 2   L'orientale
+ 482 Leo 21  4 14 20 +11 10 5   La boréale des deux dans les fesses
+ 483 Leo 22  4 16 20 +09 20 3   La méridionale
+ 484 Leo 23  4 20 20 +05 50 3   Celle qui est dans la croupe
+ 485 Leo 24  4 21 20 +01 15 4   Celle dans les articulations postérieures
+ 486 Leo 25  4 21 20 -00 50 4   Une plus australe que celle-ci, presque dans les jointures
+ 487 Leo 26  4 27 30 -03 10 5   Celle des griffes de derrière
+ 488 Leo 27  4 24 30 +11 50 1   Celle du bout de la queue
+ 489 Leo~ 1  4 06 00 +13 20 5   La précédente des deux au-dessus du dos
+ 490 Leo~ 2  4 08 10 +15 30 5   La suivante de ces deux
+ 491 Leo~ 3  4 17 30 +01 10 4   La boréale des trois sous le bas ventre
+ 492 Leo~ 4  4 17 10 -00 30 5   La mitoyenne de ces trois
+ 493 Leo~ 5  4 18 00 -02 20 5   L'australe
+ 494 Leo~ 6  4 24 50 +30 00 obs La portion la plus bor. de l'amas nébuleux d'étoiles nommé /la chevelure/, entre les étoiles extêmes du lion et de l'ourse
+ 495 Leo~ 7  4 24 20 +25 00 obs La précédente des belles australes de la chevelure
+ 496 Leo~ 8  4 28 30 +25 30 obs Leur suivante en forme de feuille de lierre
+ 497 Vir  1  4 25 20 +01 15 5   La méridionale des deux au haut de la tête
+ 498 Vir  2  4 27 00 +05 40 5   La plus boréale de ces étoiles
+ 499 Vir  3  5 00 40 +08 00 5   La plus boréale des deux qui les suivent dans le visage
+ 500 Vir  4  5 00 10 +05 30 5   La plus méridionale d'entr'elles
+ 501 Vir  5  4 29 00 +00 10 3   Celle de l'extrémité de l'aile gauche et méridionale
+ 502 Vir  6  5 08 15 +01 10 3   La précédente des quatre dans l'aile gauche
+ 503 Vir  7  5 13 10 +02 50 3   Celle qui suit celle-ci
+ 504 Vir  8  5 17 10 +02 50 5   Celle qui suit encore après cette dernière
+ 505 Vir  9  5 21 00 +01 40 4   La dernière et orientale des quatre
+ 506 Vir 10  5 14 20 +08 30 3   Celle du côté droit sous la ceinture
+ 507 Vir 11  5 08 10 +13 50 5   La précédente des trois dans l'aile droite et boréale
+ 508 Vir 12  5 10 10 +11 40 6   La méridionale des deux restantes
+ 509 Vir 13  5 12 10 +16 00 5   La boréale des mêmes, nommée /la Vendangeuse/
+ 510 Vir 14  5 26 20 -02 00 1   Celle qu'on nomme l'/Épi/ au bout de la main gauche
+ 511 Vir 15  5 24 50 +08 20 3   Celle qui est sous la robe, presqu'auprès de la fesse droite
+ 512 Vir 16  5 26 20 +03 20 5   La boréale du côté occidental du quadrilatère, dans la cuisse gauche
+ 513 Vir 17  5 27 15 +00 10 6   La méridionale du côté occidental
+ 514 Vir 18  6 00 00 +01 30 4   La plus boréale de deux du côté oriental
+ 515 Vir 19  5 28 00 -03 00 5   La plus méridionale du côté suivant, oriental
+ 516 Vir 20  6 01 20 -01 30 5   L'étoile qui est sur le genou gauche
+ 517 Vir 21  5 28 00 +09 30 5   Celle qui est derrière sur la cuisse droite
+ 518 Vir 22  6 06 20 +07 30 4   La mitoyenne des trois au bord de la robe devant les pieds
+ 519 Vir 23  6 07 20 +02 40 4   La méridionale de ces étoiles
+ 520 Vir 24  6 08 20 +11 40 4   La boréale des trois
+ 521 Vir 25  6 10 00 +00 30 4   Celle qui est au bout du pied gauche et méridional
+ 522 Vir 26  6 12 20 +00 50 3   Celle qui est au bout du pied droit et boréal
+ 523 Vir~ 1  5 14 20 -03 30 5   L'occidentale des trois en ligne droite sous le coude gauche
+ 524 Vir~ 2  5 19 00 -03 30 5   La mitoyenne de celles-ci
+ 525 Vir~ 3  5 22 15 -03 20 5   L'orientale des trois
+ 526 Vir~ 4  5 27 10 -07 20 6   L'occidentale des trois en ligne droite sous l'épi
+ 527 Vir~ 5  5 28 20 -08 20 5   Celle du milieu qui est double
+ 528 Vir~ 6  6 05 00 -07 50 6   L'orientale des trois
+ 529 Lib  1  6 18 00 +00 40 2   L'étoile brillante à l'extrêmité de la serre méridionale
+ 530 Lib  2  6 17 00 +02 30 5   Celle qui est plus boréale qu'elle et plus obscure
+ 531 Lib  3  6 22 10 +08 50 2   La brillante de celles qui sont au bout de la serre boréale
+ 532 Lib  4  6 17 40 +08 30 5   Celle qui la précède à l'occident et obscure
+ 533 Lib  5  6 24 00 -01 40 4   Celle du milieu de la serre méridionale
+ 534 Lib  6  6 21 20 +01 15 4   La précédente de celle-ci et sur la même serre
+ 535 Lib  7  6 27 50 +04 45 4   Celle qui est au milieu de la serre boréale
+ 536 Lib  8  7 03 00 +03 30 4   Celle qui la suit sur la même serre
+ 537 Lib~ 1  6 26 10 +09 00 5   L'occidentale de trois plus boréales de la serre boréale
+ 538 Lib~ 2  7 03 40 +06 40 4   La méridionale des deux suivantes
+ 539 Lib~ 3  7 04 20 +09 15 4   La boréale de ces étoiles
+ 540 Lib~ 4  7 03 30 +00 30 6   L'occidentale des trois entre les serres
+ 541 Lib~ 5  7 00 20 +00 20 5   La boréale des deux autres qui précèdent
+ 542 Lib~ 6  7 01 10 -01 30 4   La méridionale de ces étoiles
+ 543 Lib~ 7  6 23 00 -07 30 3   L'occidentale des trois plus australes de la serre méridionale
+ 544 Lib~ 8  7 01 10 -08 30 4   La plus boréale des deux restantes qui suivent
+ 545 Lib~ 9  7 02 00 -00 40 4   La plus méridionale de ces étoiles
+ 546 Sco  1  7 06 20 +01 20 3   La boréale des trois brillantes, sur le front
+ 547 Sco  2  7 05 40 -01 40 3   Celle de ces étoiles qui est au milieu
+ 548 Sco  3  7 05 40 -05 00 3   La plus méridionale des trois
+ 549 Sco  4  7 06 00 -07 50 3   Celle qui est encore plus méridionale sur l'un des pieds
+ 550 Sco  5  7 07 00 +01 20 4   La boréale des deux brillantes adjacentes à la plus boréale
+ 551 Sco  6  7 06 20 +00 30 4   La méridionale d'entr'elles
+ 552 Sco  7  7 10 20 -03 45 3   L'occidentale des trois brillantes dans le corps
+ 553 Sco  8  7 12 20 -04 00 2   Leur mitoyenne rougeâtre, appelée /Antarès/
+ 554 Sco  9  7 14 30 -05 30 3   L'orientale des trois
+ 555 Sco 10  7 09 20 -06 30 5   L'occidentale de deux sous celle-ci presqu'au bout du pied
+ 556 Sco 11  7 10 20 -06 20 5   L'orientale de ces étoiles
+ 557 Sco 12  7 18 30 -11 00 3   Celle qui est à la première vertèbre depuis le corps
+ 558 Sco 13  7 18 50 -15 00 3   Celle qui la suit à la seconde vertèbre
+ 559 Sco 14  7 20 00 -18 20 4   La boréale de la double dans la troisième vertèbre
+ 560 Sco 15  7 20 10 -18 00 4   La plus méridionale de cette double
+ 561 Sco 16  7 23 10 -19 30 3   Celle qui est ensuite sur la quatrième vertèbre
+ 562 Sco 17  7 28 10 -18 50 3   Celle qui est après sur la cinquième vertèbre
+ 563 Sco 18  8 00 30 -16 20 3   Celle qui est encore après dans la sixième vertèbre
+ 564 Sco 19  7 29 00 -15 10 3   Celle qui est proche de l'aiguillon dans la septième vertèbre
+ 565 Sco 20  7 27 30 -13 20 3   L'orientale de ces étoiles
+ 566 Sco 21  7 27 00 -13 30 4   L'occidentale
+ 567 Sco~ 1  8 01 10 -13 15 neb La nébuleuse après l'aiguillon
+ 568 Sco~ 2  7 25 30 -06 10 5   L'occidentale des deux au nord de l'aiguillon
+ 569 Sco~ 3  7 25 30 -25 30 5   L'orientale de ces deux
+ 570 Sgr  1  8 09 30 -09 30 3   L'étoile à la pointe du dard
+ 571 Sgr  2  8 07 40 -06 30 3   Celle au poignet de la main gauche
+ 572 Sgr  3  8 08 00 -20 20 3   Celle de la partie méridionale du sagittaire
+ 573 Sgr  4  8 09 00 -01 30 3   La plus mérid. d'entre celles de la partie boréale du sagittaire
+ 574 Sgr  5  8 06 40 +02 50 4   La plus boréale d'entr'elles au bout de l'arc
+ 575 Sgr  6  8 15 20 -03 10 3   Celle qui est sur l'épaule gauche
+ 576 Sgr  7  8 13 00 -03 30 4   La précédente de celle-là sur le dard
+ 577 Sgr  8  8 15 10 +00 45 neb L'étoile nébuleuse et double qui est sur l'œil
+ 578 Sgr  9  8 15 40 +02 10 4   L'occidentale des trois dans la tête
+ 579 Sgr 10  8 17 40 +01 30 4   Celle qui en tient le milieu
+ 580 Sgr 11  8 19 10 +02 00 4   L'orientale des trois
+ 581 Sgr 12  8 21 20 +02 50 5   La plus méridionale des 3
+ 582 Sgr 13  8 22 20 +04 30 4   Celle du milieu de ces trois
+ 583 Sgr 14  8 22 50 +06 30 4   La boréale des trois
+ 584 Sgr 15  8 25 20 +05 30 6   L'orientale obscure des trois
+ 585 Sgr 16  8 29 30 +05 50 5   La plus boréale des deux du bord austral du corselet
+ 586 Sgr 17  8 27 40 +02 00 6   La plus méridionale d'entr'elles
+ 587 Sgr 18  8 22 40 -01 50 5   Celle de l'épaule droite
+ 588 Sgr 19  8 24 50 -02 50 4   Celle qui est sur le coude droit
+ 589 Sgr 20  8 20 00 -02 30 5   Celle des trois du dos, qui est près de la nuque
+ 590 Sgr 21  8 17 40 -04 30 4   Celle du milieu et dans l'omoplate
+ 591 Sgr 22  8 16 20 -06 45 3   La dernière et sous l'aisselle
+ 592 Sgr 23  8 17 40 -23 00 2   Celle qui est sur la cheville gauche de devant
+ 593 Sgr 24  8 17 00 -18 00 2   Celle du genou du même pied
+ 594 Sgr 25  8 06 40 -13 00 3   Celle de la cheville droite de devant
+ 595 Sgr 26  8 27 20 -13 30 3   Celle qui est sur la cuisse gauche
+ 596 Sgr 27  8 28 50 -20 10 3   Celle du coude droit du pied de derrière
+ 597 Sgr 28  8 27 20 -04 50 5   L'occidentale du côté boréal des quatre à la naissance de la queue
+ 598 Sgr 29  8 28 50 -04 50 5   L'orientale du côté boréal
+ 599 Sgr 30  8 28 50 -05 50 5   L'occidentale du côté méridional
+ 600 Sgr 31  8 27 20 -06 40 5   L'orientale du côté méridional
+ 601 Cap  1  9 07 20 +07 20 3   La boréale des trois dans la corne orientale
+ 602 Cap  2  9 07 40 +06 40 6   La mitoyenne d'entr'elles
+ 603 Cap  3  9 07 20 +05 00 3   La méridionale des trois
+ 604 Cap  4  9 09 00 +08 00 6   Celle qui termine la corne occidentale
+ 605 Cap  5  9 09 00 +00 45 6   La méridionale des trois dans le muffle
+ 606 Cap  6  9 08 40 +01 45 6   L'occidentale des deux autres
+ 607 Cap  7  9 08 50 +01 30 6   L'orientale de ces deux
+ 608 Cap  8  9 06 30 +00 40 5   L'occidentale des trois sous l'œil droit
+ 609 Cap  9  9 11 40 +03 50 6   La plus boréale des deux dans le col
+ 610 Cap 10  9 11 50 +03 10 5   La plus méridionale de ces deux
+ 611 Cap 11  9 10 50 -08 20 4   Celle qui est sur le genou courbé
+ 612 Cap 12  9 11 40 -06 20 4   Celle qui est sous le genou droit
+ 613 Cap 13  9 16 40 -07 40 4   Celle de l'épaule gauche
+ 614 Cap 14  9 20 10 -06 50 4   L'occidentale des deux qui se touchent, sous le ventre
+ 615 Cap 15  9 20 20 -06 00 5   L'orientale de ces étoiles
+ 616 Cap 16  9 18 40 -04 15 5   L'orientale des trois du milieu du corps
+ 617 Cap 17  9 16 40 -04 00 5   La plus méridionale des deux autres et occidentales
+ 618 Cap 18  9 16 40 -02 50 5   La plus boréale de celles-ci
+ 619 Cap 19  9 16 40 -00 00 4   L'occidentale des deux dans le dos
+ 620 Cap 20  9 21 00 -00 50 4   L'orientale de ces étoiles
+ 621 Cap 21  9 23 20 -04 45 4   L'occidentale des deux au midi de l'épine
+ 622 Cap 22  9 25 00 -04 30 4   L'orientale
+ 623 Cap 23  9 21 50 -02 10 3   L'occidentale des deux près de la queue
+ 624 Cap 24  9 26 20 -02 00 3   L'orientale de ces étoiles
+ 625 Cap 25  9 26 50 +00 20 4   L'occidentale de quatre de la partie boréale de la queue
+ 626 Cap 26  9 20 40 +00 00 5   La méridionale des trois dernières
+ 627 Cap 27  9 27 40 +02 50 5   Celle du milieu
+ 628 Cap 28  9 28 40 +04 20 5   La boréale d'entr'elles
+ 629 Aqr  1 10 00 20 +15 45 5   L'étoile qui est sur la tête du verseau
+ 630 Aqr  2 10 06 20 +11 00 3   La plus brillante des deux de l'épaule droite
+ 631 Aqr  3 10 05 10 +09 40 5   L'étoile plus obscure sous cette dernière
+ 632 Aqr  4  9 26 30 +08 50 3   Celle qui est dans l'épaule gauche
+ 633 Aqr  5  9 27 20 +06 15 5   Celle qui est dessous, dans le dos, presque sous l'aisselle
+ 634 Aqr  6  9 17 40 +05 30 3   L'orientale des trois à la main gauche sur la robe
+ 635 Aqr  7  9 16 10 +08 00 4   La mitoyenne de ces étoiles
+ 636 Aqr  8  9 14 40 +08 40 3   L'occidentale des trois
+ 637 Aqr  9 10 09 30 +08 45 3   Celle qui est dans le coude gauche
+ 638 Aqr 10 10 11 40 +10 45 3   La boréale des trois qui terminent la main droite
+ 639 Aqr 11 10 12 00 +09 00 3   L'occidentale des deux autres qui sont boréales aussi
+ 640 Aqr 12 10 13 20 +08 30 3   L'orientale de ces étoiles
+ 641 Aqr 13 10 06 10 +03 00 4   L'occidentale des 2 contiguës dans la cavité cotyloïde droite
+ 642 Aqr 14 10 07 00 +03 10 5   L'orientale de ces étoiles
+ 643 Aqr 15 10 08 40 -00 50 4   Celle qui se trouve sur la fesse droite
+ 644 Aqr 16 10 01 40 -01 40 4   La méridionale des deux dans la fesse gauche
+ 645 Aqr 17 10 03 10 +04 00 6   La plus boréale d'entr'elles
+ 646 Aqr 18 10 11 40 -07 30 3   La plus méridionale des deux dans la jambe droite
+ 647 Aqr 19 10 10 20 -05 00 4   La plus boréale et qui est au pliant de la cuisse
+ 648 Aqr 20 10 04 40 -05 40 5   Celle qui est sur la cuisse gauche par derrière
+ 649 Aqr 21 10 08 20 -10 00 5   La plus méridionale de celles de la jambe gauche
+ 650 Aqr 22 10 07 50 -09 00 6   La plus boréale d'entr'elles sous le genou
+ 651 Aqr 23 10 12 40 +02 00 4   L'occid. de celles qui sont à la sortie de l'eau hors de la main
+ 652 Aqr 24 10 14 50 +00 10 4   Celle qui est contiguë à cette dernière du côté du midi
+ 653 Aqr 25 10 17 40 -01 10 4   Celle qui est contiguë à celle-ci, après la courbure
+ 654 Aqr 26 10 20 00 -00 30 4   L'étoile qui suit à l'orient de celle-ci
+ 655 Aqr 27 10 20 30 -01 40 4   Celle au midi de la précédente dans la courbure
+ 656 Aqr 28 10 19 00 -03 30 4   La plus boréale de deux au midi de celle-ci
+ 657 Aqr 29 10 19 50 -04 10 3   La plus méridionale des deux
+ 658 Aqr 30 10 20 50 -08 15 5   La solitaire assez distante qui en est éloignée vers le midi
+ 659 Aqr 31 10 22 20 -11 00 5   L'occidentale des deux qui se touchent après celles-ci
+ 660 Aqr 32 10 23 10 -10 50 5   L'orientale de ces étoiles
+ 661 Aqr 33 10 21 40 -14 00 5   La boréale des trois dans le flot suivant
+ 662 Aqr 34 10 22 10 -14 45 5   Celle du milieu des trois
+ 663 Aqr 35 10 23 10 -15 40 5   L'orientale de ces trois
+ 664 Aqr 36 10 17 00 -14 00 4   La boréale de trois situées de même à la suite
+ 665 Aqr 37 10 17 30 -15 00 4   La mitoyenne d'entr'elles
+ 666 Aqr 38 10 18 20 -15 45 4   La plus méridionale des trois
+ 667 Aqr 39 10 11 50 -14 45 4   L'occidentale des trois dans le dernier flot de l'eau
+ 668 Aqr 40 10 12 20 -15 20 4   La plus méridionale des deux autres
+ 669 Aqr 41 10 13 10 -14 00 4   La plus boréale de celles-ci
+ 670 Aqr 42 10 07 00 -23 00 1   La dernière de l'eau et à la bouche du poisson mérid. (/Fomahaut/)
+ 671 Aqr~ 1 10 26 40 -15 30 4   L'occidentale des trois qui suivent la courbure de l'eau
+ 672 Aqr~ 2 10 29 40 -14 40 4   La plus boréale des deux autres
+ 673 Aqr~ 3 10 29 00 -18 15 4   La plus méridionale de celles-ci
+ 674 Psc  1 10 21 40 +09 15 4   Celle qui est dans la bouche du poisson occidental
+ 675 Psc  2 10 24 10 +07 30 4   La plus méridionale des deux de son crâne
+ 676 Psc  3 10 26 00 +09 20 4   La plus boréale de celles-ci
+ 677 Psc  4 10 28 10 +09 30 4   L'occidentale des deux sur le dos
+ 678 Psc  5 11 00 40 +07 30 4   L'orientale de ces deux
+ 679 Psc  6 10 26 00 +04 30 4   L'occidentale des deux dans le ventre
+ 680 Psc  7 10 29 40 +03 30 4   L'orientale de ces deux
+ 681 Psc  8 11 06 00 +06 20 4   Celle de la queue du même poisson
+ 682 Psc  9 11 11 00 +05 45 6   La première après la queue sur le lien de ce poisson
+ 683 Psc 10 11 13 00 +03 45 6   L'orientale de ces étoiles
+ 684 Psc 11 11 17 10 +02 15 4   L'occidentale des trois brillantes qui viennent ensuite
+ 685 Psc 12 11 20 10 +01 10 4   La mitoyenne de ces trois
+ 686 Psc 13 11 23 00 -06 00 4   L'orientale des trois
+ 687 Psc 14 11 22 30 -02 00 6   La plus bor. des deux petites sous ces trois dans la courbure
+ 688 Psc 15 11 23 20 -05 00 6   La plus méridionale des deux
+ 689 Psc 16 11 26 30 -02 20 4   L'occidentale des trois après la courbure
+ 690 Psc 17 11 28 20 -04 40 4   Celle du milieu des trois
+ 691 Psc 18  0 00 40 -07 45 4   L'orientale de ces trois
+ 692 Psc 19  0 02 30 -08 30 3   Celle qui est sur le nœud des deux liens
+ 693 Psc 20  0 00 30 -01 40 4   L'occidentale dans le lien boréal depuis le nœud
+ 694 Psc 21 11 00 10 +01 50 5   La méridionale des trois suivantes
+ 695 Psc 22 11 00 40 +05 20 3   Celle d'entr'elles qui est la mitoyenne
+ 696 Psc 23  0 00 30 +09 00 4   La boréale des trois et au bout de la queue
+ 697 Psc 24  0 02 00 +21 45 5   La plus boréale des deux à la bouche du poisson oriental
+ 698 Psc 25  0 01 40 +20 10 5   La méridionale de celles-ci
+ 699 Psc 26 11 28 40 +20 00 6   La suivante des trois petites de la tête
+ 700 Psc 27 11 27 40 +19 50 6   Celle du milieu de celles-ci
+ 701 Psc 28 11 27 00 +20 20 6   L'occidentale des trois
+ 702 Psc 29 11 25 40 +14 20 4   L'occidentale des trois sur la nageoire méridionale après l'étoile du coude d'Andromède
+ 703 Psc 30 11 26 40 +13 15 4   Leur mitoyenne
+ 704 Psc 31 11 27 40 +12 00 4   L'orientale des trois
+ 705 Psc 32  0 02 40 +17 00 4   La plus boréale des deux dans le ventre
+ 706 Psc 33 11 29 50 +15 20 4   La plus méridionale de ces deux
+ 707 Psc 34  0 00 00 +11 45 4   Celle qui est dans la nageoire orientale près de la queue
+ 708 Psc~ 1 11 01 10 -02 40 4   L'occidentale des deux boréales du quadrilatère sous le poisson occidental
+ 709 Psc~ 2 11 02 15 -02 30 4   L'orientale de ces deux
+ 710 Psc~ 3 11 02 40 -00 40 4   La précédente du côté méridional
+ 711 Psc~ 4 11 02 20 -05 30 4   La suivante du côté méridional
+ 712 Cet  1  0 17 40 -07 45 4   L'étoile de l'extrémité du mufle
+ 713 Cet  2  0 17 40 -12 20 3   L'orientale des trois de la gueule, au bout de la mâchoire
+ 714 Cet  3  0 12 40 -11 30 3   La mitoyenne des trois, au milieu de la gueule
+ 715 Cet  4  0 10 30 -15 15 3   L'occidentale des trois et sur la joue
+ 716 Cet  5  0 11 10 -08 10 4   Celle qui est sur le bord de la fosse orbitaire et l'œil
+ 717 Cet  6  0 12 40 -06 20 4   L'étoile plus boréale que celle-ci, presque dans la chevelure
+ 718 Cet  7  0 01 10 -04 10 4   L'occidentale de ces étoiles, comme sur la crinière
+ 719 Cet  8  0 03 00 -24 30 4   La boréale du côté occidental du quadrilatère de la poitrine
+ 720 Cet  9  0 03 20 -28 00 4   La méridionale du côté occidental
+ 721 Cet 10  0 06 40 -25 10 4   La boréale du côté oriental
+ 722 Cet 11  0 07 00 -27 30 3   La méridionale du côté oriental
+ 723 Cet 12 11 22 00 -25 20 3   Celle du milieu des trois dans le corps
+ 724 Cet 13 11 23 00 -30 50 4   La méridionale d'entr'elles
+ 725 Cet 14 11 25 00 -20 00 3   La boréale des trois
+ 726 Cet 15 11 19 40 -15 40 3   L'orientale de deux au bout du dos près de la queue
+ 727 Cet 16 11 15 00 -15 40 3   L'occidentale de ces deux
+ 728 Cet 17 11 11 00 -13 40 5   La bor. du côté orient. dans le quadrilatère près de la queue
+ 729 Cet 18 11 10 40 -14 40 5   La méridionale du côté oriental
+ 730 Cet 19 11 09 20 -13 00 5   La boréale du côté occidental
+ 731 Cet 20 11 09 00 -14 00 5   La méridionale du côté occidental
+ 732 Cet 21 11 04 40 -09 40 3   La boréale des deux aux extrémités de la queue
+ 733 Cet 22 11 05 40 -20 20 3   Celle de l'extrémité méridionale de la queue
+ 734 Ori  1  1 27 00 -16 30 neb L'étoile nébuleuse dans la tête d'Orion
+ 735 Ori  2  2 02 00 -17 00 1   La brillante, rougeâtre, sur l'épaule droite
+ 736 Ori  3  1 24 00 -17 30 2   Celle qui est sur l'épaule gauche
+ 737 Ori  4  1 25 00 -18 00 4   La suivante sous celle-ci
+ 738 Ori  5  2 04 20 -14 20 4   Celle qui est dans l'angle du coude droit
+ 739 Ori  6  2 06 20 -11 50 6   Celle de la coudée droite
+ 740 Ori  7  2 06 30 -10 00 4   L'orientale et double du côté méridional du quadrilatère au bout de la main droite
+ 741 Ori  8  2 06 00 -09 45 4   L'occidentale du côté méridional
+ 742 Ori  9  2 07 20 -08 15 6   L'orientale du côté septentrional
+ 743 Ori 10  2 06 40 -08 15 6   L'occidentale du côté boréal
+ 744 Ori 11  2 01 40 -03 45 5   L'occidentale des deux dans la massue
+ 745 Ori 12  2 04 40 -04 15 5   L'orientale de ces deux
+ 746 Ori 13  1 27 50 -19 40 4   L'orientale presqu'en ligne droite sur le dos
+ 747 Ori 14  1 26 20 -20 00 6   La précédente de celle-ci
+ 748 Ori 15  1 25 20 -20 10 6   Celle qui est encore plus occidentale que cette dernière
+ 749 Ori 16  1 24 10 -20 40 5   La restante et précédente des quatre
+ 750 Ori 17  1 20 30 -08 00 4   La bor. de celles de la peau ou cuir que tient la main gauche
+ 751 Ori 18  1 19 20 -08 10 4   La seconde depuis la plus boréale
+ 752 Ori 19  1 18 00 -10 15 4   La troisième depuis la plus boréale
+ 753 Ori 20  1 16 20 -12 50 4   La quatrième depuis la plus boréale
+ 754 Ori 21  1 15 10 -14 15 4   La cinquième depuis la plus boréale
+ 755 Ori 22  1 14 50 -15 50 3   La sixième depuis la plus boréale
+ 756 Ori 23  1 14 50 -17 10 3   La septième depuis la plus boréale
+ 757 Ori 24  1 15 20 -20 20 3   La huitième depuis la plus boréale
+ 758 Ori 25  1 16 20 -21 30 2   La dern. et la plus méridion. de celles qui sont dans le cuir
+ 759 Ori 26  1 25 20 -24 10 2   L'occidentale des trois sur la ceinture
+ 760 Ori 27  1 27 20 -24 50 2   Celle du milieu des trois
+ 761 Ori 28  1 28 10 -25 40 3   L'orientale des trois
+ 762 Ori 29  1 23 50 -25 50 3   Celle qui est à la poignée de l'épée
+ 763 Ori 30  1 26 30 -28 20 4   La boréale de trois rassemblées à la pointe de l'épée
+ 764 Ori 31  1 23 20 -29 00 3   La mitoyenne d'entr'elles
+ 765 Ori 32  1 27 00 -29 50 3   La méridionale des trois
+ 766 Ori 33  1 27 40 -01 40 4   L'orientale des deux sous la pointe de l'épée
+ 767 Ori 34  1 26 30 -01 50 4   L'occidentale de ces étoiles
+ 768 Ori 35  1 20 50 -31 30 1   La brillante au bout du pied gauche commune à l'eau
+ 769 Ori 36  1 21 00 -30 15 4   Leur plus bor. dans la jambe au-dessus de l'osselet du talon
+ 770 Ori 37  1 23 20 -31 10 4   L'extérieure sous le talon gauche
+ 771 Ori 38  2 00 10 -33 10 3   Celle qui est sous le genou droit et oriental
+ 772 Eri  1  1 18 20 -31 50 4   L'étoile après celle du bout du pied d'Orion, la même que celle qui est au commencement du fleuve
+ 773 Eri  2  1 18 50 -28 15 4   L'étoile plus boréale que celle-ci dans la courbure du gras de la jambe d'Orion
+ 774 Eri  3  1 18 00 -29 45 4   L'orientale des deux qui viennent à la suite
+ 775 Eri  4  1 14 12 -28 15 4   L'occidentale de ces étoiles
+ 776 Eri  5  1 13 10 -25 50 4   L'orientale des deux qui suivent encore
+ 777 Eri  6  1 10 30 -25 20 4   L'occidentale de ces étoiles
+ 778 Eri  7  1 06 00 -25 20 5   L'orientale des trois après celle-ci
+ 779 Eri  8  1 03 30 -28 30 4   La mitoyenne de ces trois
+ 780 Eri  9  1 02 50 -27 50 4   L'occidentale des trois
+ 781 Eri 10  0 27 00 -33 10 3   L'orientale des quatre dans l'intervalle suivant
+ 782 Eri 11  0 24 20 -33 00 4   L'occidentale
+ 783 Eri 12  0 24 10 -28 50 3   Celle qui précède encore celle-ci vers l'occident
+ 784 Eri 13  0 22 00 -28 00 3   L'occidentale des quatre
+ 785 Eri 14  0 17 10 -25 30 3   L'orientale pareillement de celles de l'intervalle suivant
+ 786 Eri 15  0 14 50 -23 50 4   Celle-ci à l'occident
+ 787 Eri 16  0 12 10 -24 30 3   Celle qui précède encore cette dernière
+ 788 Eri 17  0 10 30 -23 15 4   L'occidentale des quatre
+ 789 Eri 18  0 05 10 -32 10 4   Celle du détour du fleuve et qui touche la poitrine de la baleine
+ 790 Eri 19  0 05 50 -34 50 4   Celle qui la suit vers l'orient
+ 791 Eri 20  0 08 50 -38 30 4   L'occidentale des trois suivantes
+ 792 Eri 21  0 13 50 -38 10 4   Celle de ces étoiles qui est au milieu
+ 793 Eri 22  0 17 30 -39 00 4   L'orientale de ces trois
+ 794 Eri 23  0 21 20 -41 20 4   La boréale du côté occidental d'un trapèze formé par quatre étoiles
+ 795 Eri 24  0 21 30 -42 30 4   La plus méridionale du côté occidental
+ 796 Eri 25  0 22 10 -43 15 4   L'occidentale du côté oriental
+ 797 Eri 26  0 24 40 -43 20 4   La suivante, à l'orient de celle-ci, et la dernière des quatre
+ 798 Eri 27  1 04 10 -53 20 4   La boréale de deux contiguës distantes vers l'orient
+ 799 Eri 28  1 05 00 -51 45 4   La plus méridionale d'entr'elles
+ 800 Eri 29  0 28 10 -53 50 4   Les deux après la courbure
+ 801 Eri 30  0 25 50 -53 10 4   L'occidentale de ces étoiles
+ 802 Eri 31  0 17 50 -53 10 4   L'orientale des trois qui sont dans l'espace suivant
+ 803 Eri 32  0 14 50 -53 30 4   Celle de ces étoiles, qui est la mitoyenne
+ 804 Eri 33  0 11 50 -52 00 4   L'occidentale des trois
+ 805 Eri 34  0 07 40 -53 30 1   La brillante (/Acharnar/) dernière du fleuve
+            11 27 30
+ 806 Lep  1  1 19 00 -35 00 5   La boréale du côté occidental du quadrilatère des oreilles
+ 807 Lep  2  1 19 50 -36 30 5   La méridionale du côté occidental
+ 808 Lep  3  1 21 20 -35 40 5   La boréale du côté oriental
+ 809 Lep  4  1 21 20 -36 20 5   La méridionale du côté oriental
+ 810 Lep  5  1 19 10 -39 15 4   Celle du menton
+ 811 Lep  6  1 16 10 -45 15 4   Celle du bout du pied gauche de devant
+ 812 Lep  7  1 25 50 -41 30 3   Celle du milieu du corps
+ 813 Lep  8  1 24 50 -41 20 3   Celle qui est sous le ventre
+ 814 Lep  9  2 01 00 -44 00 4   La plus boréale des deux des pieds de derrière
+ 815 Lep 10  1 29 00 -45 50 4   La plus méridionale d'entr'elles
+ 816 Lep 11  2 00 00 -38 20 4   Celle qui est sur les reins
+ 817 Lep 12  2 02 40 -38 10 4   Celle de l'extrémité de la queue
+ 818 CMa  1  2 17 40 -39 10 1   L'étoile rougeâtre, très-brillante, nommée le chien (/Syrius/)
+ 819 CMa  2  2 19 40 -35 00 4   Celle qui est sur les oreilles
+ 820 CMa  3  2 21 20 -36 30 5   Celle qui est sur la tête
+ 821 CMa  4  2 23 20 -37 45 4   La boréale des deux dans le cou
+ 822 CMa  5  2 20 20 -40 00 4   La méridionale de ces deux
+ 823 CMa  6  2 20 30 -42 40 5   Celle qui est sur la poitrine
+ 824 CMa  7  2 16 10 -41 15 6   La boréale des deux sur le genou droit
+ 825 CMa  8  2 16 00 -42 30 5   La plus méridionale de ces deux
+ 826 CMa  9  2 11 00 -41 20 3   Celle du bout du pied de devant
+ 827 CMa 10  2 14 40 -46 30 5   L'occidentale des deux dans le genou gauche
+ 828 CMa 11  2 16 10 -45 50 5   L'orientale de celles-ci
+ 829 CMa 12  2 24 40 -46 10 4   L'orientale des deux dans l'épaule gauche
+ 830 CMa 13  2 21 40 -47 00 5   L'occidentale précédente de ces deux
+ 831 CMa 14  2 26 40 -48 50 3   Celle de la naissance de la cuisse gauche
+ 832 CMa 15  2 23 40 -51 30 3   Celle qui est sous le ventre entre les cuisses
+ 833 CMa 16  2 23 00 -55 10 4   Celle qui est sur le coude du pied droit
+ 834 CMa 17  2 09 40 -53 45 3   Celle du bout du pied droit
+ 835 CMa 18  3 02 10 -50 40 3   Celle qui est sur la queue
+ 836 CMa~ 1  2 19 30 -25 15 4   L'étoile plus boréale que la tête du chien
+ 837 CMa~ 2  2 10 00 -61 30 4   La plus méridionale des quatre presque en ligne droite sous les pieds de derrière
+ 838 CMa~ 3  2 11 20 -58 45 4   Celle qui est plus boréale que cette dernière
+ 839 CMa~ 4  2 13 00 -57 00 4   Une plus boréale encore que celle-ci
+ 840 CMa~ 5  2 14 10 -56 00 4   La dernière et la plus boréale des quatre
+ 841 CMa~ 6  1 28 00 -55 30 4   L'occidentale des trois presque en ligne droite à l'occident des quatre
+ 842 CMa~ 7  2 00 20 -57 40 4   Celle du milieu de ces étoiles
+ 843 CMa~ 8  2 02 20 -59 50 4   L'orientale des trois
+ 844 CMa~ 9  1 29 00 -59 40 2   L'orientale des deux brillantes dessous celles-ci
+ 845 CMa~10  1 26 00 -57 40 2   L'occidentale de ces deux
+ 846 CMa~11  1 22 30 -59 30 4   La dernière et la plus méridionale des susdites
+ 847 CMi  1  2 25 00 -14 00 4   L'étoile du col
+ 848 CMi  2  2 29 30 -16 10 1   Celle de derrière nommée Procyon
+ 849 Nav  1  3 13 00 -42 30 5   L'occidentale de deux à l'extrémité supérieure de la voile
+ 850 Nav  2  3 14 20 -43 20 3   L'orientale des deux
+ 851 Nav  3  3 08 50 -45 00 4   La plus bor. des 2 contiguës sur le petit pavois de la poupe
+ 852 Nav  4  3 08 40 -46 00 4   La plus méridionale de ces deux
+ 853 Nav  5  3 05 20 -45 30 4   La précédente
+ 854 Nav  6  3 06 20 -47 15 3   La brillante au milieu du pavois
+ 855 Nav  7  3 05 20 -49 45 4   L'occidentale des trois sous le petit pavois
+ 856 Nav  8  3 09 20 -49 50 4   L'orientale d'entr'elles
+ 857 Nav  9  3 08 30 -49 15 4   Celle du milieu des trois
+ 858 Nav 10  3 14 00 -49 50 4   L'étoile de la petite oie
+ 859 Nav 11  3 04 00 -53 00 4   La plus boréale de deux dans la carène de la poupe
+ 860 Nav 12  3 04 00 -58 40 3   La plus méridionale des deux
+ 861 Nav 13  3 10 10 -55 30 5   La plus boréale de deux à l'entre-pont de la poupe
+ 862 Nav 14  3 12 10 -58 40 5   L'occidentale des trois à la suite
+ 863 Nav 15  3 13 20 -57 15 4   Celle du milieu des trois
+ 864 Nav 16  3 16 30 -57 45 4   L'orientale des trois
+ 865 Nav 17  3 21 10 -58 40 2   La brillante qui les suit sur le banc de la poupe
+ 866 Nav 18  3 18 10 -60 00 5   L'occidentale des deux obscures sous cette brillante
+ 867 Nav 19  3 21 00 -59 20 5   L'orientale de ces deux
+ 868 Nav 20  3 23 10 -56 40 5   L'occidentale des deux au-dessus de la brillante susdite
+ 869 Nav 21  3 24 20 -57 40 5   L'orientale de ces deux
+ 870 Nav 22  4 05 40 -51 30 4   La boréale des trois dans les pavois presque sur le mât
+ 871 Nav 23  4 06 10 -55 40 4   Celle du milieu des trois
+ 872 Nav 24  4 04 00 -57 10 4   La méridionale des trois
+ 873 Nav 25  4 09 10 -60 00 4   La plus boréale de deux contiguës sous ces mêmes étoiles
+ 874 Nav 26  4 09 00 -61 15 4   La plus méridionale d'entr'elles
+ 875 Nav 27  4 00 10 -51 40 3   La méridionale des deux au milieu du mât
+ 876 Nav 28  3 29 20 -49 00 3   La plus boréale d'entr'elles
+ 877 Nav 29  3 28 00 -43 20 4   L'occidentale des deux au bout du mât
+ 878 Nav 30  3 29 00 -43 30 4   L'orientale de ces deux
+ 879 Nav 31  4 14 10 -51 30 2   Celle de dessous le troisième pavois vers l'orient
+ 880 Nav 32  4 17 30 -51 15 2   Celle de la section du pont
+ 881 Nav 33  3 11 10 -63 00 4   Celle d'entre les rames du gouvernail dans la carène
+ 882 Nav 34  3 19 00 -64 30 6   L'obscure à l'orient de cette dernière
+ 883 Nav 35  4 00 00 -63 50 2   La brillante qui suit celle-ci, sous le banc
+ 884 Nav 36  4 08 30 -69 40 2   La brillante au midi de celle-ci, sur la carène, en bas
+ 885 Nav 37  4 15 10 -65 40 2   L'occidentale des trois qui sont à l'orient de celle-ci
+ 886 Nav 38  4 21 20 -65 50 3   La mitoyenne de celles-ci
+ 887 Nav 39  4 26 00 -67 20 2   L'orientale des trois
+ 888 Nav 40  5 01 00 -62 50 3   L'occidentale des deux qui les suivent dans la section
+ 889 Nav 41  5 08 00 -62 15 3   L'orientale de ces deux
+ 890 Nav 42  2 04 00 -65 50 4   L'occidentale des deux de la rame occidentale et boréale
+ 891 Nav 43  2 20 10 -65 40 3   L'orientale de ces deux
+ 892 Nav 44  2 17 10 -75 00 1   L'occidentale des deux de l'autre rame nommée /Canopus/
+ 893 Nav 45  2 29 00 -71 45 3   La dernière et orientale de ces deux
+ 894 Hya  1  3 14 00 -15 00 4   La méridionale des deux occidentales des cinq de la tête sur les nazeaux
+ 895 Hya  2  3 13 20 -13 50 4   Leur plus boréale au-dessus de l'œil
+ 896 Hya  3  3 15 20 -11 30 4   La plus boréale des deux suivantes presque sur le crane
+ 897 Hya  4  3 15 30 -14 15 4   La plus méridionale presque dans la gueule
+ 898 Hya  5  3 17 50 -12 15 4   L'orientale de toutes presque sur la mâchoire
+ 899 Hya  6  3 23 00 -11 50 5   L'occidentale de deux à la naissance du col
+ 900 Hya  7  3 23 20 -13 40 4   L'orientale de ces étoiles
+ 901 Hya  8  3 28 50 -15 20 4   L'occidentale de trois dans la courbure du col
+ 902 Hya  9  4 09 40 -14 50 4   L'orientale des trois
+ 903 Hya 10  3 28 30 -17 10 4   La méridionale des trois
+ 904 Hya 11  3 29 10 -19 45 6   L'obscure et boréale de deux contiguës du côté du midi
+ 905 Hya 12  4 00 00 -20 30 2   La brillante de ces deux contiguës (/cœur de l'hydre/)
+ 906 Hya 13  4 06 00 -26 30 4   L'occidentale des trois suivantes après la courbure
+ 907 Hya 14  4 08 40 -26 00 4   Celle du milieu des trois
+ 908 Hya 15  4 11 10 -26 15 4   L'orientale des trois
+ 909 Hya 16  4 18 00 -24 40 3   L'occidentale des trois suivantes presqu'en ligne droite
+ 910 Hya 17  4 20 00 -23 00 4   Celle du milieu d'entr'elles
+ 911 Hya 18  4 23 00 -22 10 3   L'orientale des trois
+ 912 Hya 19  5 01 30 -25 45 4   L'orientale des deux après le pied de la croupe
+ 913 Hya 20  5 02 20 -36 00 4   La plus méridionale de ces deux
+ 914 Hya 21  5 12 10 -31 20 4   L'occidentale des trois après celles-ci, en forme de triangle
+ 915 Hya 22  5 14 30 -33 10 4   La plus méridionale au milieu d'elles
+ 916 Hya 23  5 16 10 -31 20 3   L'orientale des trois
+ 917 Hya 24  6       -33 40 4   Celle qui suit le corbeau près de la queue
+ 918 Hya 25  6 13 30 -17 40 4   Celle du bout de la queue
+ 919 Hya~ 1  3 12 30 -23 15 3   Celle qui est au midi de la tête
+ 920 Hya~ 2  4 11 00 -16 00 3   L'étoile qui suit celles du col à une certaine distance
+ 921 Crt  1  4 26 20 -23 00 4   Celle du pied de la coupe, et commune à l'hydre
+ 922 Crt  2  5 02 30 -19 30 4   La méridionale des deux du milieu de la coupe
+ 923 Crt  3  5 00 00 -18 00 4   La plus boréale de ces étoiles
+ 924 Crt  4  5 07 00 -18 30 4   Celle du bord méridional de l'ouverture de la coupe
+ 925 Crt  5  4 29 20 -13 40 4   Celle du bord boréal
+ 926 Crt  6  5 09 10 -16 10 4   Celle de l'anse méridionale
+ 927 Crt  7  5 13 10 -11 50 4   Celle de l'anse boréale
+ 928 Crv  1  5 15 20 -21 40 3   Celle qui est au bec et commune à l'hydre
+ 929 Crv  2  5 14 20 -19 40 3   Celle qui est sur le col près de la tête
+ 930 Crv  3  5 16 40 -18 10 5   Celle qui est à la poitrine
+ 931 Crv  4  5 13 30 -14 50 3   Celle de l'aile occidentale qui est la droite
+ 932 Crv  5  5 16 40 -12 30 3   L'occidentale des deux de l'aîle orientale
+ 933 Crv  6  5 17 00 -11 45 4   L'orientale de celles-ci
+ 934 Crv  7  5 20 30 -18 10 3   Celle de bout du pied commune à l'hydre
+ 935 Cen  1  6 10 30 -21 40 5   La plus méridionale des quatre de la tête
+ 936 Cen  2  6 10 00 -18 50 5   La plus boréale de celles-ci
+ 937 Cen  3  6 09 10 -20 30 4   L'occidentale des deux restantes qui sont entre ces deux
+ 938 Cen  4  6 10 00 -20 00 5   L'occidentale de ces mitoyennes et restante des quatre
+ 939 Cen  5  6 06 10 -25 40 3   Celle qui est sur l'épaule gauche
+ 940 Cen  6  6 15 40 -22 30 3   Celle sur l'épaule droite
+ 941 Cen  7  6 09 10 -27 30 4   Celle qui est sur l'omoplate gauche
+ 942 Cen  8  6 18 10 -22 20 4   La plus bor. des deux occidentales des quatre du Thyrse
+ 943 Cen  9  6 19 10 -23 30 4   La plus méridionale de ces deux
+ 944 Cen 10  6 22 00 -18 15 4   Celle des deux restantes, qui fait la pointe du Thyrse
+ 945 Cen 11  6 22 30 -20 50 4   La dernière des quatre et plus méridionale que celle-ci
+ 946 Cen 12  6 13 20 -28 20 4   L'occidentale des trois du côté droit
+ 947 Cen 13  6 14 00 -29 20 4   Celle du milieu d'entr'elles
+ 948 Cen 14  6 15 10 -28 00 4   L'orientale des trois
+ 949 Cen 15  6 16 20 -26 30 4   Celle qui est au bras droit
+ 950 Cen 16  6 22 50 -25 15 3   Celle du coude droit
+ 951 Cen 17  6 27 30 -24 00 4   Celle qui est à l'extrémité de la main droite
+ 952 Cen 18  6 18 00 -33 30 3   La brillante à la naissance du corps humain du centaure
+ 953 Cen 19  6 17 40 -31 00 5   L'orient. des deux obscures plus boréales que cette dernière
+ 954 Cen 20  6 16 50 -33 00 5   L'occidentale d'entr'elles
+ 955 Cen 21  6 12 10 -34 50 5   Celle de la naissance du dos
+ 956 Cen 22  6 09 00 -37 40 5   Celle qui la précède à l'occident sur le dos
+ 957 Cen 23  6 05 50 -40 00 3   L'orientale des trois sur les reins
+ 958 Cen 24  6 05 00 -43 00 4   La mitoyenne de ces trois
+ 959 Cen 25  6 02 40 -41 00 5   L'occidentale des trois
+ 960 Cen 26  6 02 40 -46 10 3   L'occidentale des deux contiguës à la cuisse droite
+ 961 Cen 27  6 03 30 -46 45 4   L'orientale de ces deux
+ 962 Cen 28  6 18 20 -40 45 4   Celle de la poitrine sous l'aisselle du cheval
+ 963 Cen 29  6 16 20 -43 00 2   L'occidentale des deux sous le ventre
+ 964 Cen 30  6 17 40 -43 45     L'orientale de ces deux
+ 965 Cen 31  6 10 00 -51 10 2   Celle du cou-de-pied droit
+ 966 Cen 32  6 15 20 -51 40 2   Celle de la cheville du même pied
+ 967 Cen 33  6 06 20 -55 10 2   Celle sous le cou-de-pied gauche
+ 968 Cen 34  6 11 10 -55 20 4   Celle sous le sabot du même pied
+ 969 Cen 35  7 03 00 -42 20 1   Celle du bout du pied droit de devant
+ 970 Cen 36  6 24 10 -45 20 2   Celle du genou du pied gauche
+ 971 Cen 37  6 14 40 -49 10 4   La sixième sous le pied droit de derrière
+ 972 Lup  1  6 28 00 -24 50 3   Celle du bout de la patte de devant, vers la main du centaure
+ 973 Lup  2  6 25 50 -29 10 3   Celle du coude près de cette même patte
+ 974 Lup  3  7 01 00 -21 15 4   L'occidentale des deux à l'omoplate
+ 975 Lup  4  7 04 10 -21 00 4   L'orientale de ces deux
+ 976 Lup  5  7 03 00 -25 10 4   Celle du milieu du corps de la bête
+ 977 Lup  6  7 00 30 -27 00 5   Celle du ventre sous le flanc
+ 978 Lup  7  7 00 40 -29 00 5   Celle de la cuisse
+ 979 Lup  8  7 04 40 -28 30 5   La plus boréale des deux à l'endroit où la cuisse commence
+ 980 Lup  9  7 03 40 -36 00 5   La plus méridionale de celles-ci
+ 981 Lup 10  7 05 40 -33 10 5   Celle de l'extrémité des lombes
+ 982 Lup 11  6 22 00 -31 20 5   La méridionale des trois au bout de la queue
+ 983 Lup 12  6 24 50 -03 30 4   Celle du milieu des trois
+ 984 Lup 13  6 23 00 -29 20 4   La plus boréale d'entr'elles
+ 985 Lup 14  7 08 50 -17 00 4   La méridionale des deux du col
+ 986 Lup 15  7 09 20 -15 20 4   La plus boréale de ces deux
+ 987 Lup 16  7 05 40 -13 20 4   L'occidentale des deux de la gueule
+ 988 Lup 17  7 06 40 -11 50 4   L'orientale des deux
+ 989 Lup 18  6 27 10 -11 50 4   La plus méridionale des deux de la patte de devant
+ 990 Lup 19  6 27 30 -10 00 4   La plus boréale d'entr'elles
+ 991 Ara  1  7 27 40 -22 40 5   La plus boréale des deux de la base
+ 992 Ara  2  8 03 00 -25 45 4   La plus méridionale des deux
+ 993 Ara  3  7 28 20 -26 30 4   Celle du milieu de l'autel
+ 994 Ara  4  7 20 40 -01 20 5   La boréale des trois du foyer
+ 995 Ara  5  7 25 10 -34 10 4   La plus méridionale des deux restantes et contiguë
+ 996 Ara  6  7 25 00 -33 20 4   La plus boréale de ces deux
+ 997 Ara  7  7 20 50 -34 15 4   Celle de l'extrémité du feu ardent
+ 998 CrA  1  8 09 10 -21 30 4   L'extérieure occidentale du contour méridional
+ 999 CrA  2  8 11 40 -21 00 5   L'orientale sur la couronne
+1000 CrA  3  8 13 10 -23 00 5   L'étoile à l'orient
+1001 CrA  4  8 14 50 -20 00 4   L'étoile encore plus orientale
+1002 CrA  5  8 16 10 -18 30 5   L'étoile suivante avant le genou du sagittaire
+1003 CrA  6  8 17 00 -17 10 4   La suivante, plus boréale que la brillante du genou
+1004 CrA  7  8 16 20 -16 00 4   L'étoile plus boréale que cette dernière
+1005 CrA  8  8 16 30 -15 10 4   Une plus boréale encore
+1006 CrA  9  8 15 10 -15 20 6   L'orientale des deux précédentes de celle-ci dans le contour boréal
+1007 CrA 10  8 14 40 -14 50 6   L'occidentale des deux obscures
+1008 CrA 11  8 11 50 -14 40 5   Une étoile assez occidentale par rapport à celle-ci
+1009 CrA 12  8 09 40 -15 50 5   Une autre encore plus occidentale
+1010 CrA 13  8 09 10 -18 30 5   La dernière et plus méridionale que la susdite
+1011 PsA  1 10 07 00 -23 00 1   L'étoile de la bouche au commencement de l'eau
+1012 PsA  2 10 00 40 -20 20 4   L'occidentale des trois à la courbure méridionale de la tête
+1013 PsA  3 10 04 10 -22 15 4   Celle du milieu
+1014 PsA  4 10 05 20 -22 30 4   L'orientale des trois
+1015 PsA  5 10 04 20 -16 15 4   Celle qui est aux branchies
+1016 PsA  6  9 25 10 -19 30 5   Celle de la nageoire méridionale dorsale
+1017 PsA  7 10 02 10 -15 10 5   L'orientale des deux dans le ventre
+1018 PsA  8  9 28 50 -14 40 4   L'occidentale de ces deux
+1019 PsA  9  9 25 10 -15 00 4   L'orientale des trois sur la nageoire boréale
+1020 PsA 10  9 21 50 -16 30 4   Celle d'entr'elles qui est au milieu
+1021 PsA 11  9 21 00 -18 10 4   L'occidentale des trois
+1022 PsA 12  9 20 10 -22 15 4   Celle de l'extrémité de la queue
+1023 PsA~ 1  9 08 00 -22 20 3   L'occidentale des trois brillantes précédentes du poisson
+1024 PsA~ 2  9 11 10 -22 10 3   Celle du milieu de ces trois étoiles
+1025 PsA~ 3  9 14 00 -21 10 3   L'orientale des trois
+1026 PsA~ 4  9 12 00 -20 50 5   L'obscure à l'occident de celle-ci
+1027 PsA~ 5  9 13 50 -17 00 4   La méridionale des deux restantes vers les ourses
+1028 PsA~ 6  9 13 50 -14 50 4   La boréale de ces deux

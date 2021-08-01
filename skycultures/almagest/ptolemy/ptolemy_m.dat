@@ -1,0 +1,1028 @@
+   1 UMi  1  2 00 10 +66 00 3   Der am Ende des Schwanzes
+   2 UMi  2  2 02 30 +70 00 4   Der nach diesem im Schwanze
+   3 UMi  3  2 16 00 +74 20 4   Der nach diesem vor dem Ansatz des Schwanzes
+   4 UMi  4  2 29 40 +75 40 4   Der südliche der vorangehenden Seite des Vierecks
+   5 UMi  5  3 03 40 +77 40 4   Der nördliche derselben Seite
+   6 UMi  6  3 17 30 +72 50 2   Der südliche von denen in der nachfolgenden Seite
+   7 UMi  7  3 26 10 +74 50 2   Der nördliche derselben Seite
+   8 UMi~ 1  3 13 00 +71 10 4   Der auf einer Geraden mit den Sternen (βγ) in der nachfolgenden Seite, und zwar südlicher stehende
+   9 UMa  1  2 25 20 +39 50 4   Der am Ende der Schnauze
+  10 UMa  2  2 25 50 +43 00 5   Der vorangehende von denen in den beiden Augen
+  11 UMa  3  2 26 20 +43 00 5   Der nachfolgende derselben
+  12 UMa  4  2 26 10 +47 10 5   Der vorangehende von den 2 auf der Stirn
+  13 UMa  5  2 26 40 +47 00 5   Der nachfolgende derselben
+  14 UMa  6  2 28 10 +50 30 5   Der am Ende des vorangehenden Ohres
+  15 UMa  7  3 00 30 +43 50 4   Der vorangehende von den 2 am Halse
+  16 UMa  8  3 02 30 +44 20 4   Der nachfolgende derselben
+  17 UMa  9  3 09 00 +42 00 4   Der nördlichere von den 2 auf der Brust
+  18 UMa 10  3 11 00 +44 00 4-5 Der südlichere derselben
+  19 UMa 11  3 10 40 +35 00 3   Der am linken Knie
+  20 UMa 12  3 05 30 +29 20 3   Der nördlichere von denen am Ende des linken Vorderfußes
+  21 UMa 13  3 06 20 +28 20 3   Der südlichere derselblen
+  22 UMa 14  3 05 40 +36 00 4   Der oberhalb des rechten Knies
+  23 UMa 15  3 05 50 +33 00 4   Der unter dem rechten Knie
+  24 UMa 16  3 17 40 +49 00 2   Von denen im Viereck der auf dem Rücken
+  25 UMa 17  3 22 10 +44 30 2   Von denselben der in den Weichen
+  26 UMa 18  4 03 10 +51 00 3   Der am Ansatz des Schwanzes
+  27 UMa 19  4 03 00 +46 30 2   Der übrige am linken Hinterschenkel
+  28 UMa 20  3 22 40 +29 20 3   Der vorangehende von denen am Ende des linken Hinterfußes
+  29 UMa 21  3 24 10 +28 15 3   Der diesem nachfolgende
+  30 UMa 22  4 01 40 +35 15 4-3 Der an der linken Kniekehle
+  31 UMa 23  4 09 50 +25 50 3   Der nördlichere von denen am Ende des rechten Hinterfußes
+  32 UMa 24  4 10 20 +25 00 3   Der südlichere derselben
+  33 UMa 25  4 12 10 +53 30 2   Von den 3 in Schwanz der erste nach dem Ansatz
+  34 UMa 26  4 18 00 +55 40 2   Der mittelste derselben
+  35 UMa 27  4 29 50 +54 00 2   Der dritte, d. i. der am Ende des Schwanzes
+  36 UMa~ 1  4 27 50 +39 45 3   Der unter dem Schwanz abwärts nach Süden zu
+  37 UMa~ 2  4 20 10 +41 20 5   Der diesem vorangehende schwächere
+  38 UMa~ 3  3 15 00 +17 15 4   Der südlichere von denen zwischen der Verderfüßen (ικ) des Bären und dem Kopf (μκ) des Löwen
+  39 UMa~ 4  3 13 20 +19 10 4   Der nördlicher von diesem stehende
+  40 UMa~ 5  3 16 10 +20 00 obs Von den übrigen drei schwachen der nachfolgende
+  41 UMa~ 6  3 12 10 +22 30 obs Der diesem vorangehende
+  42 UMa~ 7  3 11 10 +23 00 obs Der weiter noch letzterem vorangehende
+  43 UMa~ 8  3 00 00 +22 15 obs Der zwischen den Vorderfüßen und den Zwillingen
+  44 Dra  1  6 26 40 +76 30 4   Der an der Zunge
+  45 Dra  2  7 11 50 +78 30 4-3 Der im Rachen
+  46 Dra  3  7 13 10 +75 40 3   Der oberhalb des Auges
+  47 Dra  4  7 27 20 +80 20 4   Der and der Kinnlade
+  48 Dra  5  7 29 40 +75 30 3   Der oberhalb des Kopfes
+  49 Dra  6  8 24 40 +82 20 4   Der nördliche von den 3 auf einer Geraden in der ersten Biegung des Nackens
+  50 Dra  7  9 02 20 +78 15 4   Der südliche derselben
+  51 Dra  8  8 28 50 +80 20 4   Der mittelste derselben
+  52 Dra  9  9 19 30 +81 30 4   Der letzterem östlich nachfolgende
+  53 Dra 10 11 08 00 +81 40 4   Von dem Viereck in der nächsten Windung der südliche der vorangehenden Seite
+  54 Dra 11 11 20 30 +83 00 4   Der nördliche der vorangehenden Seite
+  55 Dra 12  0 07 40 +78 50 4   Der nördliche der nachfolgenden Seite
+  56 Dra 13 11 22 50 +77 50 4   Der südliche der nachfolgenden Seite
+  57 Dra 14  0 10 40 +80 30 5   Von dem Dreieck in der nächsten Biegung der südliche
+  58 Dra 15  0 21 40 +81 20 5   Der vorangehende von de 2 übrigen des Dreiecks
+  59 Dra 16  0 26 10 +80 15 5   Der nachfolgende derselben
+  60 Dra 17* 2 13 20 +84 30 4   Der vorang. von den 3 im nächsten vorangehenden Dreieck
+  61 Dra 18  1 20 20 +87 30 4   Von den 2 übrigen des Dreiecks der südliche
+  62 Dra 19  1 11 50 +84 50 4   Von den 2 übrigen der nördlichere
+  63 Dra 20  3 28 40 +87 30 6   Von den 2 kleinen westlich des Dreiecks der nachfolgende
+  64 Dra 21  3 21 40 +86 50 6   Der vorangehende derselben
+  65 Dra 22  5 09 00 +81 15 5   Der südlichere von den 3 nächsten auf einer Geraden
+  66 Dra 23* 5 09 20 +83 00 5   Der mittelste der drei
+  67 Dra 24  5 08 20 +84 50 3   Der nördlichere derselben
+  68 Dra 25  5 10 00 +78 00 3   Der nördlichere von den 2 westwärts folgenden
+  69 Dra 26  5 10 20 +74 40 4-3 Der südlichere derselben
+  70 Dra 27  5 12 40 +70 00 3   Der westlich von diesen in der Windung am Schwanze
+  71 Dra 28  4 07 20 +64 40 4   Der vorangehende von den zwei von letzterem ziemlich weit abstehenden
+  72 Dra 29  4 11 10 +65 30 3   Der nachfolgende derselben
+  73 Dra 30  3 19 10 +61 15 3   Der an diese nach dem Schwanz hin anschließende
+  74 Dra 31  3 13 10 +56 15 3   Der letzte am Ende des Schwanzes
+  75 Cep  1  1 05 00 +75 40 4   Der im rechten Fuß
+  76 Cep  2  1 03 00 +64 15 4   Der im linken Fuß
+  77 Cep  3  0 07 20 +71 10 4   Der unter dem Gürtel an der rechten Seite
+  78 Cep  4 11 16 40 +69 00 3   Der über der rechten Schulter berührende
+  79 Cep  5 11 09 20 +72 00 4   Der über dem rechten Ellbogen berührende
+  80 Cep  6 11 10 00 +74 00 4   Der unter demselben Ellbogen gleichfalls berührende
+  81 Cep  7 11 28 30 +65 30 5   Der auf der Brust
+  82 Cep  8  0 07 30 +62 30 4-3 Der an dem linken Arm
+  83 Cep  9 11 16 20 +60 15 5   Von den 3 in der Tiara der südliche
+  84 Cep 10 11 17 20 +61 15 4   Der mittelste der drei
+  85 Cep 11 11 19 00 +61 20 5   Der nördlichere der drei
+  86 Cep~ 1 11 13 40 +64 00 5   Der der Tiara vorangehende
+  87 Cep~ 2 11 21 20 +59 30 4   Der der Tiara nachfolgende
+  88 Boo  1  5 02 20 +58 40 5   Der vorangehende von den 3 in der linken Hand
+  89 Boo  2  5 04 10 +58 20 5   Der mittelste südlichere der drei
+  90 Boo  3  5 05 20 +60 10 5   Der nachfolgende der drei
+  91 Boo  4  5 09 40 +54 40 5   Der am linken Ellbogen
+  92 Boo  5  5 19 40 +49 00 3   Der an der linken Schulter
+  93 Boo  6  5 26 40 +53 50 4-3 Der im Kopf
+  94 Boo  7  6 05 40 +48 40 4-3 Der an der rechten Schulter
+  95 Boo  8* 6 05 40 +53 15 4   Der nördlichere als letzterer an der Keule
+  96 Boo  9  6 05 00 +57 30 4   Der noch nördlichere am Ende der Keule
+  97 Boo 10  6 07 40 +46 30 4-3 Von den 2 unterhalb der Schulter in der Keule der nördlichere
+  98 Boo 11* 6 08 30 +45 30 5   Der südlichere derselben
+  99 Boo 12  6 08 10 +41 20 5   Der am Ende der rechten Hand
+ 100 Boo 13  6 06 40 +41 40 5   Von den 2 an der Handwurzel der vorangehende
+ 101 Boo 14  6 07 00 +42 30 5   Der nachfolgende derselben
+ 102 Boo 15  6 07 20 +40 20 5   Der am Ende des Griffs der Keule
+ 103 Boo 16  6 00 00 +40 15 3   Der am rechten Schenkel im Schurzfell
+ 104 Boo 17  5 25 40 +41 40 4   Von den 2 im Gürtel der nachfolgende
+ 105 Boo 18  5 25 00 +42 10 4-3 Der vorangehende derselben
+ 106 Boo 19  6 05 20 +28 00 3   Der an der rechten Ferse
+ 107 Boo 20  5 21 20 +28 00 3   Von den 3 in dem linken Schienbein der nördliche
+ 108 Boo 21  5 20 30 +26 30 4   Der mittelste der drei
+ 109 Boo 22  5 21 20 +25 00 4   Der südliche derselben
+ 110 Boo~ 1  5 27 00 +31 30 1   Der rötliche zwischen den Schenkeln, der sog. Arktur
+ 111 CrB  1  6 14 40 +44 30 2-1 Der glänzende in der Krone
+ 112 CrB  2  6 11 40 +46 30 4-3 Der allen vorangehende
+ 113 CrB  3  6 11 50 +48 00 5   Der diesem nachfolgende nördlichere
+ 114 CrB  4  6 13 40 +50 30 6   Der weiter diesem nachfolgende nördlichere
+ 115 CrB  5  6 17 10 +44 45 4   Der dem glänzenden südwärts nachfolgende
+ 116 CrB  6  6 19 10 +44 50 4   Der weiter diesem nahe nachfolgende
+ 117 CrB  7  6 21 20 +46 10 4   Der hinter diesen wieder nachfolgende
+ 118 CrB  8  6 21 40 +49 20 4   Der allen in der Krone nachfolgende
+ 119 Her  1  7 17 40 +37 30 3   Der im Kopf
+ 120 Her  2  7 03 40 +43 00 3   Der an der rechten Schulter neben der Achsel
+ 121 Her  3  7 01 40 +40 10 3   Der am rechten Arm
+ 122 Her  4  6 28 00 +37 10 4   Der am rechten Ellbogen
+ 123 Her  5  7 16 40 +48 00 3   Der an der linken Schulter
+ 124 Her  6  7 22 00 +49 30 4-3 Der am linken Arm
+ 125 Her  7  7 27 40 +52 00 4-3 Der am linken Ellbogen
+ 126 Her  8  8 05 30 +52 50 4-3 Von den 3 an der linken Handwurzel der nachfolgende
+ 127 Her  9  8 01 40 +54 00 4-3 Von den übrigen 2 der nördliche
+ 128 Her 10  8 01 30 +53 00 4   Der südlichere derselben
+ 129 Her 11  7 03 50 +50 40 3   Der in der rechten Seite
+ 130 Her 12* 7 10 10 +53 30 5   Der in der linken Seite
+ 131 Her 13  7 10 00 +56 30 5   Der nördlichere als dieser am linken Hinterbacken
+ 132 Her 14  7 11 10 +58 30 3   Der am Ansatz desselben Schenkels
+ 133 Her 15  7 14 00 +59 50 4   Von den 3 am linken Schenkel der vorangehende
+ 134 Her 16  7 15 20 +60 20 4   Der diesem nachfolgende
+ 135 Her 17  7 16 20 +61 15 4-3 Der weiter diesem nachfolgende
+ 136 Her 18  8 00 50 +61 00 4   Der am linken Knie
+ 137 Her 19  7 22 10 +69 20 4   Der am linken Schienbein
+ 138 Her 20  7 15 20 +70 15 6   Von den 3 am Ende des linken Fußes der vorangehende
+ 139 Her 21  7 16 50 +71 15 6   Der mittelste der drei
+ 140 Her 22  7 19 40 +72 15 6   Der nachfolgende derselben
+ 141 Her 23  7 00 40 +60 15 4-3 Der am Ansatz des rechten Schenkels
+ 142 Her 24  6 25 20 +63 00 4   Der nördlichere als dieser an demselben Schenkel
+ 143 Her 25  6 15 40 +65 30 4-3 Der am rechten Knie
+ 144 Her 26  6 13 40 +63 40 4   Von den 2 unter dem rechten Knie der südlichere
+ 145 Her 27  6 10 10 +64 15 4   Der nördlichere derselben
+ 146 Her 28  6 11 10 +60 00 4   Der an der rechten Wade
+ 147 Her 29  6 05 00 +57 30 4   [ Der am Ende des rechten Fußes ist derselbe wie der (ν) am Ende der Keule (des Bootes). Ohne diesen ]
+ 148 Her~ 1  7 02 40 +38 10 5   Der südlicher als der am rechten Arm (γ) stehende
+ 149 Lyr  1  8 17 20 +62 00 1   Der glänzende an der Muschel, die sog. Leier (Wega)
+ 150 Lyr  2  8 20 20 +62 40 4-3 Von den 2 neben ihm dicht beisammen stehenden der nördliche
+ 151 Lyr  3  8 20 20 +61 00 4-3 Der südlichere derselben
+ 152 Lyr  4  8 23 40 +60 00 4   Der diesen nachfolgende in der Mitte zw. dem Ansatz der Hörner
+ 153 Lyr  5  9 02 00 +61 20 4   Von den 2 dicht beisammen stehenden auf der östlichen Seite der Muschel der nördliche
+ 154 Lyr  6  9 01 40 +60 20 4   Der südlichere derselben
+ 155 Lyr  7  8 21 00 +56 10 3   Von den 2 vorangehenden am Steg der nördlichere
+ 156 Lyr  8  8 20 50 +55 00 4-5 Der südlichere derselben
+ 157 Lyr  9  8 24 10 +55 20 3   Von den 2 nachfolgenden am Steg der nördlichere
+ 158 Lyr 10* 8 24 10 +54 45 4-5 Der südlichere derselben
+ 159 Cyg  1  9 04 30 +49 00 3   Der am Schnabel
+ 160 Cyg  2  9 09 00 +50 30 5   Der diesem nachfolgende im Kopf
+ 161 Cyg  3  9 16 20 +54 30 4-3 Der mitten am Hals
+ 162 Cyg  4  9 28 30 +57 20 3   Der an der Brust
+ 163 Cyg  5 10 09 10 +60 00 2   Der glänzende im Schwanz
+ 164 Cyg  6  9 19 20 +64 40 3   Der im Bug des rechten Flügels
+ 165 Cyg  7  9 22 30 +69 40 4   Von den 3 im rechten Fittig d. südliche
+ 166 Cyg  8  9 21 10 +71 30 4-3 Der mittelste von den drei
+ 167 Cyg  9  9 16 40 +74 00 4-3 Der nördliche derselben am Ende des Fittigs
+ 168 Cyg 10 10 00 50 +49 30 3   Der im Bug des linken Flügels
+ 169 Cyg 11 10 03 50 +52 10 4-3 Der nördlichere derselben in der Mitte desselben Flügels
+ 170 Cyg 12 10 06 40 +44 00 3   Der am Ende des Fittigs des linken Flügels
+ 171 Cyg 13 10 10 00 +55 10 4-3 Der im linken Fuße
+ 172 Cyg 14 10 14 30 +57 00 4-3 Der am linken Knie
+ 173 Cyg 15 10 01 10 +64 00 4   Von den 2 im rechten Fuße der vorangehende
+ 174 Cyg 16 10 02 40 +64 30 4   Der nachfolgende derselben
+ 175 Cyg 17 10 12 10 +64 45 5   Der nebelförmige am rechten Knie
+ 176 Cyg~ 1 10 10 40 +49 40 4-3 Von den 2 under dem linken Flügel der südlichere
+ 177 Cyg~ 2 10 13 50 +51 40 4-3 Der nördlichere derselben
+ 178 Cas  1  0 07 50 +45 20 4-3 Der im Kopf
+ 179 Cas  2  0 10 50 +46 45 3   Der auf der Brust
+ 180 Cas  3  0 13 00 +47 50 4   Der nördlichere als dieser im Gürtel
+ 181 Cas  4  0 16 40 +49 00 3-2 Der über dem Sessel in der Gegend der Schenkel
+ 182 Cas  5  0 20 40 +45 30 3   Der an den Knien
+ 183 Cas  6  0 27 00 +47 45 4   Der an dem Schienbein
+ 184 Cas  7  1 01 40 +47 20 4   Der am Ende des Fußes
+ 185 Cas  8  0 14 40 +44 20 4   Der am linken Arm
+ 186 Cas  9  0 17 40 +45 00 5   Der unterhalb des linken Armbugs
+ 187 Cas 10  0 02 20 +50 00 6   Der am rechten Ellbogen
+ 188 Cas 11  0 15 00 +52 40 4-5 Der oberhalb des Fußes des Throns
+ 189 Cas 12  0 07 50 +51 40 3   Der in der Mitte der Lehne
+ 190 Cas 13  0 03 40 +51 40 6   Der am Ende der Lehne
+ 191 Per  1  0 26 40 +40 30 neb Der Nebelfleck am Ende der rechten Hand
+ 192 Per  2  1 01 10 +37 30 4   Der am rechten Armbug
+ 193 Per  3  1 02 40 +34 30 3-4 Der an der rechten Schulter
+ 194 Per  4  0 27 30 +32 20 4   Der an der linken Schulter
+ 195 Per  5  1 00 40 +34 30 4   Der im Kopf
+ 196 Per  6  1 01 30 +31 10 4   Der im Raum zwischen den Schultern
+ 197 Per  7  1 04 50 +30 00 2   Der glänzende in der rechten Seite
+ 198 Per  8  1 05 20 +27 50 4   Von den drei nach dem in der Seite der vorangehende
+ 199 Per  9  1 07 00 +27 40 4   Der mittelste der drei
+ 200 Per 10  1 07 40 +27 20 3   Der nachfolgende derselben
+ 201 Per 11  1 00 30 +27 00 4   Der am linken Armbug
+ 202 Per 12  0 29 40 +23 00 2   Von denen im Medusenhaupte der glänzende
+ 203 Per 13  0 29 10 +21 00 4   Der diesem nachfolgende
+ 204 Per 14  0 27 40 +21 00 4   Der dem glänzenden vorangehende
+ 205 Per 15  0 26 50 +22 15 4   Der weiter diesem vorangehende letzte
+ 206 Per 16  1 14 50 +28 00 4   Der am rechten Knie
+ 207 Per 17  1 13 00 +28 10 4   Der ihm vorangehende über dem Knie
+ 208 Per 18  1 12 20 +25 00 4   Von den 2 oberhalb der Kniekehle der vorangehende
+ 209 Per 19  1 14 00 +26 15 4   Der nachfolgende an der Kniekehle selbst
+ 210 Per 20  1 14 10 +24 30 5   Der an der rechten Wade
+ 211 Per 21  1 16 20 +18 45 5   Der am rechten Fußknöchel
+ 212 Per 22  1 06 50 +21 50 4-3 Der am linken Schenkel
+ 213 Per 23  1 08 40 +19 15 3   Der am linken Knie
+ 214 Per 24  1 08 20 +14 45 4   Der an der linken Wade
+ 215 Per 25  1 04 10 +12 00 3-4 Der an der linken Ferse
+ 216 Per 26  1 06 20 +11 00 3-2 Der ihm nachfolgende am Ende des linken Fußes
+ 217 Per~ 1  1 11 50 +18 00 5   Der östlich von dem am linken Knie (ε)
+ 218 Per~ 2  1 15 00 +31 00 5   Der nördlich von denen am rechten Knie
+ 219 Per~ 3  0 24 40 +20 40 obs Der denen im Medusenhaupt vorangehende
+ 220 Aur  1  2 02 30 +30 00 4   Von den 2 am Kopf der südlichere
+ 221 Aur  2  2 02 20 +31 50 4   Der nördlichere über dem Kopf
+ 222 Aur  3  1 25 00 +22 30 1   Der an der linken Schulter, die sog. Capella
+ 223 Aur  4  2 02 50 +20 00 2   Der an der rechten Schulter
+ 224 Aur  5  2 01 10 +15 15 4   Der am rechten Armbug
+ 225 Aur  6  2 02 50 +13 20 4-3 Der an der rechten Handwurzel
+ 226 Aur  7  1 22 00 +20 40 4-3 Der am linken Armbug
+ 227 Aur  8  1 22 10 +18 00 4-3 Von den 2 an der linken Handwurzel, den sog. Zicklein, der nachfolgende
+ 228 Aur  9  1 22 00 +18 00 4   Der vorangehende derselben
+ 229 Aur 10  1 19 50 +10 10 3-4 Der am linken Fußknöchel
+ 230 Aur 11  1 25 40 +05 00 3-2 Der am rechten Fußknöchel, gemeinsam mit dem Horn (β Tauri)
+ 231 Aur 12  1 26 00 +08 30 5   Der nördlich des letzteren im Gewandsaum
+ 232 Aur 13  1 26 20 +12 10 5   Der noch nördlichere als dieser am Hinterbacken
+ 233 Aur 14  1 20 40 +16 00 6   Der kleine über dem linken Fuß
+ 234 Oph  1  7 24 50 +36 00 3-2 Der im Kopf
+ 235 Oph  2  7 28 00 +27 15 4-3 Von den 2 an der rechten Schulter der vorangehende
+ 236 Oph  3  7 29 00 +26 30 4   Der nachfolgende derselben
+ 237 Oph  4  7 13 20 +33 00 4   Von den 2 an der linken Schulter der vorangehende
+ 238 Oph  5  7 14 40 +31 50 4   Der nachfolgende derselben
+ 239 Oph  6  7 08 20 +24 30 4   Der am linken Armbug
+ 240 Oph  7  7 05 00 +17 00 3   Von den 2 am Ende der linken Hand der vorangehende
+ 241 Oph  8  7 06 00 +16 30 3   Der nachfolgende derselben
+ 242 Oph  9  7 26 40 +15 00 4   Der am rechten Armbug
+ 243 Oph 10  8 02 20 +13 40 4-5 Von den 2 am Ende der rechten Hand der vorangehende
+ 244 Oph 11  8 03 20 +14 20 4   Der nachfolgende derselben
+ 245 Oph 12  7 21 10 +07 30 3   Der am rechten Knie
+ 246 Oph 13* 7 23 40 +02 15 4-3 Der an dem rechten Schienbein
+ 247 Oph 14  7 23 00 -02 15 4   Von den 4 im rechten Fuß der vorangehende
+ 248 Oph 15  7 24 20 -01 30 4-3 Der diesem nachfolgende
+ 249 Oph 16  7 25 00 -00 20 4   Der weiter letzterem nachfolgende
+ 250 Oph 17  7 25 50 -00 15 5   Der letzte nachfolgende von den vier
+ 251 Oph 18  7 27 10 +01 00 5   Der diesen nachfolgende, der die Ferse berührt
+ 252 Oph 19  7 12 10 +11 50 3   Der am linken Knie
+ 253 Oph 20  7 11 40 +05 20 5-4 Von den 3 auf einer Geraden an dem linken Schienbein der nördliche
+ 254 Oph 21  7 10 40 +03 10 5   Der mittelste derselben
+ 255 Oph 22  7 09 50 +01 40 5-4 Der südliche der drei
+ 256 Oph 23  7 12 20 +00 40 5   Der an der linken Ferse
+ 257 Oph 24  7 10 40 -00 45 4   Der die Höhlung des linken Fußes berührende
+ 258 Oph~ 1  8 02 00 +28 10 4   Der nördliche von den 3 östlich der rechten Schulter
+ 259 Oph~ 2  8 02 40 +26 20 4   Der mittelste der drei
+ 260 Oph~ 3  8 03 00 +25 00 4   Der südliche derselben
+ 261 Oph~ 4  8 03 40 +27 00 4   Der den 3 nachfolgende über dem mittelsten
+ 262 Oph~ 5  8 04 40 +33 00 4   Der alleinstehende nördlichere als die vier
+ 263 Ser  1  6 18 50 +38 00 4   Von dem Viereck im Kopfe der am Ende der Kinnlade
+ 264 Ser  2  6 21 40 +40 00 4   Der die Nüstern berührende
+ 265 Ser  3  6 24 20 +36 00 3   Der am Schlaf
+ 266 Ser  4  6 22 00 +34 15 3   Der am Ansatz des Nackens
+ 267 Ser  5  6 21 20 +37 15 4   Der in der Mitte des Vierecks im Rachen
+ 268 Ser  6  6 26 10 +42 30 4   Der außerhalb nördlich des Kopfes
+ 269 Ser  7  6 21 40 +29 15 3   Der nach der ersten Krümmung des Nackens
+ 270 Ser  8  6 24 50 +26 30 4   Von den 3 nach diesem der nördliche
+ 271 Ser  9  6 24 20 +25 20 3   Der mittelste der drei
+ 272 Ser 10  6 26 20 +24 00 3   Der südliche derselben
+ 273 Ser 11  6 28 50 +16 30 4   Der nach der folgenden Krümmung der linken Hand (εδ) des Schlangenträgers vorangehende
+ 274 Ser 12  7 08 10 +13 15 5   Der den Sternen in der Hand nachfolgende
+ 275 Ser 13  7 23 40 +10 30 4   Der nach dem rechten Hinterschenkel des Schlangenträgers
+ 276 Ser 14  7 27 00 +08 30 4-3 Von den 2 ihm nachfolgenden der südlichere
+ 277 Ser 15  7 27 50 +10 50 4   Der nördlichere derselben
+ 278 Ser 16  8 03 40 +20 00 4   Der nach der rechten Hand (ντ) an der Krümmung des Schwanzes
+ 279 Ser 17  8 08 40 +21 10 4-3 Der diesem nachfolgende, gleichfalls im Schwanze
+ 280 Ser 18  8 18 20 +27 00 4   Der am Ende des Schwanzes
+ 281 Sge  1  9 10 10 +39 20 4   Der einzeln stehende an der Spitze
+ 282 Sge  2  9 06 40 +39 10 6   Von den 3 am Schaft der nachfolgende
+ 283 Sge  3  9 05 50 +39 30 5   Der mittelste derselben
+ 284 Sge  4  9 04 40 +39 00 5   Der vorangehende von den drei
+ 285 Sge  5  9 03 20 +38 40 5   Der am Ende des Einschnitts am Schaft
+ 286 Aql  1  9 07 10 +26 50 4   Der in der Mitte des Kopfes
+ 287 Aql  2  9 04 50 +27 10 3   Der diesem vorangehende am Halse
+ 288 Aql  3  9 03 50 +29 10 2-1 Der glänzende auf dem Rücken, der sog. Atair
+ 289 Aql  4  9 04 40 +30 00 3-4 Der nördlich in der Nähe des letzteren stehende
+ 290 Aql  5  9 03 10 +31 30 3   Von den 2 an der linken Schulter der vorangehende
+ 291 Aql  6  9 06 00 +31 30 5   Der nachfolgende derselben
+ 292 Aql  7  8 29 40 +28 40 5   Von den 2 an der rechten Schulter der vorangehende
+ 293 Aql  8  9 01 10 +26 40 5-4 Der nachfolgende derselben
+ 294 Aql  9  8 22 10 +36 40 3   Der under dem Schwanze des Adlers weiter ab stehende, der die Milchstraße berührt
+ 295 Aql~ 1  9 03 40 +21 40 3   Von den 2 südlich des Kopfes des Adlers der vorangehende
+ 296 Aql~ 2  9 08 50 +19 10 3   Der nachfolgende derselben
+ 297 Aql~ 3  8 26 00 +25 00 4-3 Der südwestlich von der rechten Schulter des Adlers
+ 298 Aql~ 4  8 28 30 +20 00 3   Der südlich von letzterem stehende
+ 299 Aql~ 5* 8 29 40 +15 30 5   Der noch südlichere als dieser
+ 300 Aql~ 6  8 21 10 +18 10 3   Der allen vorangehende
+ 301 Del  1  9 17 40 +29 10 3-4 Von den 3 im Schwanze der vorangehende
+ 302 Del  2  9 18 40 +29 00 4-5 Von den übrigen 2 der nördlichere
+ 303 Del  3  9 18 40 +27 45 4   Der südlichere derselben
+ 304 Del  4  9 18 30 +32 00 3-4 Von denen im rhombusförmigen Viereck der südliche der vorangeh. Seite
+ 305 Del  5  9 20 10 +33 50 3-4 Der nördlichere der vorangehenden Seite
+ 306 Del  6  9 21 20 +32 00 3-4 Von der nachfolgenden Seite des Rhombus der südliche
+ 307 Del  7  9 23 10 +33 10 3-4 Der nördliche der nachfolgenden Seite
+ 308 Del  8  9 17 30 +30 15 6   Von den 3 zwischen Schwanz und Rhombus der südliche
+ 309 Del  9  9 17 30 +31 50 6   Von den übrigen 2 nördlichen der vorangehende
+ 310 Del 10  9 19 00 +31 30 6   Der übrige nachfolgende derselben
+ 311 Equ  1  9 26 20 +20 30 obs Von den 2 im Kopf der vorangehende
+ 312 Equ  2  9 28 00 +20 40 obs Der nachfolgende derselben
+ 313 Equ  3  9 26 20 +25 30 obs Von den 2 am Maule der vorangehende
+ 314 Equ  4  9 27 40 +25 00 obs Der nachfolgende derselben
+ 315 Peg  1 11 17 50 +26 00 2-3 Der am Nabel, zugleich im Kopf der Andromeda
+ 316 Peg  2 11 12 10 +12 30 2-3 Der an der Hüfte und am Ende des Flügels
+ 317 Peg  3 11 02 10 +31 00 2-3 Der an der rechten Schulter und am Ansatz des Beins
+ 318 Peg  4 10 26 40 +19 40 2-3 Der auf dem Rücken und an der Schulter des Flügels
+ 319 Peg  5 11 04 30 +25 30 4   Von den 2 im Rumpf unter dem Flügel der nördlichere
+ 320 Peg  6 11 05 00 +25 00 4   Der südlichere derselben
+ 321 Peg  7 10 29 00 +35 00 3   Von den 2 im rechten Knie der nördlichere
+ 322 Peg  8 10 28 30 +34 30 5   Der südlichere derselben
+ 323 Peg  9 10 26 10 +29 00 4   Von den 2 dicht nebeneinander auf der Brust der vorangehende
+ 324 Peg 10 10 27 00 +29 30 4   Der nachfolgende derselben
+ 325 Peg 11 10 18 50 +18 00 3   Von den 2 dicht nebeneinander am Halse der vorangehende
+ 326 Peg 12 10 20 30 +19 00 4   Der nachfolgende derselben
+ 327 Peg 13 10 21 20 +15 00 5   Von den 2 in der Mähne der südlichere
+ 328 Peg 14 10 20 30 +16 00 5   Der nördlichere derselben
+ 329 Peg 15 10 09 20 +16 30 3   Von den 2 dicht nebeneinander im Kopf der nördlichere
+ 330 Peg 16 10 08 00 +16 00 4   Der südlichere derselben
+ 331 Peg 17 10 05 20 +22 30 3-2 Der am Maule
+ 332 Peg 18 10 23 20 +41 10 4-3 Der am rechten Knöchel
+ 333 Peg 19 10 17 20 +34 15 4-3 Der am linken Knie
+ 334 Peg 20 10 12 20 +36 50 4-3 Der am linken Knöchel
+ 335 And  1 11 25 20 +24 30 3   Der in dem Raume zwischen den Schultern
+ 336 And  2 11 26 20 +27 00 4   Der an der rechten Schulter
+ 337 And  3 11 24 20 +23 00 4   Der an der linken Schulter
+ 338 And  4 11 23 40 +32 00 4   Von den 3 am rechten Arm der südliche
+ 339 And  5 11 24 40 +33 30 4   Der nördliche derselben
+ 340 And  6 11 25 00 +32 20 5   Der mittelste der drei
+ 341 And  7 11 19 40 +41 00 4   Von den 3 am Ende der rechten Hand der südliche
+ 342 And  8 11 20 40 +42 00 4   Der mittelste derselben
+ 343 And  9 11 22 10 +44 00 4   Der nördliche der drei
+ 344 And 10 11 24 10 +17 30 4   Der am linken Arm
+ 345 And 11 11 25 40 +15 50 4   Der am linken Armbug
+ 346 And 12  0 03 50 +26 20 3   Von den 3 über dem Gürtel der südliche
+ 347 And 13* 0 02 00 +30 00 4   Der mittelste derselben
+ 348 And 14  0 01 50 +32 30 4   Der nördliche der drei
+ 349 And 15  0 16 50 +28 00 3   Der über dem linken Fuß
+ 350 And 16  0 17 10 +37 20 4-5 Der im rechten Fuß
+ 351 And 17  0 15 10 +35 40 4-3 Der südlichere als dieser
+ 352 And 18  0 12 20 +29 00 4   Von den 2 in der linken Kniekehle der nördlichere
+ 353 And 19  0 12 00 +28 00 4   Der südlichere derselben
+ 354 And 20  0 10 10 +35 30 5   Der am rechten Knie
+ 355 And 21  0 12 40 +34 30 5   Von den 2 in der Schleppe der nördlichere
+ 356 And 22  0 14 10 +32 30 5   Der südlichere derselben
+ 357 And 23 11 11 40 +44 00 3   Der den 3 am Ende der rechten Hand außerhalb vorangehende
+ 358 Tri  1  0 11 00 +16 30 3   Der an der Spitze des Dreiecks
+ 359 Tri  2  0 16 00 +20 40 3   Von den 3 an der Grundlinie der vorangehende
+ 360 Tri  3  0 16 20 +19 40 4   Der mittelste derselben
+ 361 Tri  4  0 16 50 +19 00 3   Der nachfolgende der drei
+ 362 Ari  1  0 06 40 +07 20 3-4 Von den 2 im Horn der vorangehende
+ 363 Ari  2  0 07 40 +08 20 3   Der nachfolgende derselben
+ 364 Ari  3  0 11 00 +07 40 5   Von den 2 an der Schnauze der nördlichere
+ 365 Ari  4  0 11 30 +06 00 5   Der südlichere derselben
+ 366 Ari  5* 0 06 50 +05 50 5   Der am Halse
+ 367 Ari  6  0 17 40 +06 00 6   Der an der Hüft
+ 368 Ari  7  0 21 20 +04 50 5   Der am Ansatz des Schwanzes
+ 369 Ari  8  0 23 50 +01 40 4   Von den 3 im Schwanze der vorangehende
+ 370 Ari  9  0 25 20 +02 30 4   Der mittelste der drei
+ 371 Ari 10  0 27 00 +01 50 4   Der nachfolgende derselben
+ 372 Ari 11  0 19 40 +01 30 5   Der am Hinterschenkel
+ 373 Ari 12  0 18 00 -01 30 5   Der unter der Kniekehle
+ 374 Ari 13* 0 15 00 -05 15 4-3 Der am Ende des Hinterbeins
+ 375 Ari~ 1  0 10 40 +10 30 3-2 Der über dem Kopf, den Hipparch an die Schnauze setzt
+ 376 Ari~ 2  0 21 40 +10 10 4   Von den 4 über der Hüfte der nachfolgende glänzendere
+ 377 Ari~ 3  0 21 20 +12 40 5   Von den übrigen 3 schwächeren der nördliche
+ 378 Ari~ 4  0 19 40 +11 10 5   Der mittelste der drei
+ 379 Ari~ 5  0 19 10 +10 40 5   Der südliche derselben
+ 380 Tau  1  0 26 20 -06 00 4   Von den 4 am Abschnitt der nördlichere
+ 381 Tau  2  0 26 00 -07 15 4   Der an ihn anschließende
+ 382 Tau  3  0 24 20 -08 30 4   Der weiter an diesen anschließende
+ 383 Tau  4  0 24 20 -09 15 4   Der südlichste der vier
+ 384 Tau  5  0 29 40 -09 30 5   Der diesen nachfolgende am rechten Schulterblatt
+ 385 Tau  6  1 03 40 -08 00 3   Der an der Brust
+ 386 Tau  7  1 06 40 -12 40 4   Der am rechten Knie
+ 387 Tau  8  1 03 00 -14 50 4   Der am rechten Knöchel
+ 388 Tau  9  1 12 10 -10 00 4   Der am linken Knie
+ 389 Tau 10* 1 10 20 -13 00 4   Der am linken Ellbug
+ 390 Tau 11  1 09 00 -05 45 3-4 Von den sog. Hyaden in der Stirn der an den Nüstern
+ 391 Tau 12  1 10 20 -04 15 3-4 Der zwischen diesem und dem nördlichen Auge (ε)
+ 392 Tau 13  1 10 50 -05 50 3-4 Der zwischen ihm (γ) und dem südlichen Auge (α)
+ 393 Tau 14  1 12 40 -05 10 1   Der rötliche glänzende der Hyaden im südlichen Auge
+ 394 Tau 15  1 11 50 -03 00 3-4 Der übrige (der Hyaden) im nördlichen Auge
+ 395 Tau 16  1 17 30 -04 00 4   Der am Ansatz des südlichen Horns und des Ohres
+ 396 Tau 17  1 20 20 -05 00 5   Von den 2 am südlichen Horn der südlichere
+ 397 Tau 18  1 20 00 -03 30 5   Der nördlichere derselben
+ 398 Tau 19  1 27 40 -02 30 3   Der an der Spitze des südlichen Horns
+ 399 Tau 20* 1 15 40 -00 15 4   Der am Ansatz des nördlichen Horns
+ 400 Tau 21  1 25 40 +05 00 3   Der an der Spitze des nördlichen Horns, derselbe wie der am rechten Fuße (γ) des Fuhrmanns
+ 401 Tau 22  1 12 00 +00 30 5   Von den 2 nahe beisammen stehenden am nördlichen Ohr der nördlichere
+ 402 Tau 23  1 11 40 +00 15 5   Der südlichere derselben
+ 403 Tau 24  1 07 00 +00 40 5   Von den 2 kleinen am Halse der vorangehende
+ 404 Tau 25  1 09 00 -01 00 6   Der nachfolgende derselben
+ 405 Tau 26  1 08 30 +05 00 5   Von der vorangehenden Seite des Vierecks im Nacken der südlichere
+ 406 Tau 27* 1 08 00 +07 20 5   Der nördlichere der vorangehend. Seite
+ 407 Tau 28  1 12 00 +03 00 5   Der südlichere der nachfolgenden Seite
+ 408 Tau 29  1 11 40 +05 00 5   Der nördlichere der nachfolgenden Seite
+ 409 Tau 30  1 02 10 +04 30 5   Von der Pleias das nördlichere Ende der vorangehenden Seite
+ 410 Tau 31  1 02 30 +03 40 5   Das südliche Ende der vorangehenden Seite
+ 411 Tau 32* 1 03 40 +03 20 5   Das nachfolgende dichteste Ende der Pleias (mit dem Hauptstern)
+ 412 Tau 33* 1 03 40 +05 00 4   Der außerhalb stehende kleine nördlich der Pleias
+ 413 Tau~ 1  0 25 00 -17 30 4   Der unter dem rechten Fuß und dem Schulterblatt
+ 414 Tau~ 2  1 20 00 -02 00 5   Von den 3 über dem südlichen Horn der vorangehende
+ 415 Tau~ 3* 1 24 00 -01 45 5   Der mittelste der drei
+ 416 Tau~ 4  1 26 00 -02 00 5   Der nachfolgende derselben
+ 417 Tau~ 5  1 29 00 -06 20 5   Von den 2 unter der Spitze des südlichen Horns der nördlichere
+ 418 Tau~ 6  1 29 00 -07 40 5   Der südlichere derselben
+ 419 Tau~ 7  1 27 00 +00 40 5   Von den 5 nachfolgenden unter dem nördlichen Horn der vorangehende
+ 420 Tau~ 8  1 29 00 +01 00 5   Der diesem nachfolgende
+ 421 Tau~ 9  2 01 00 +01 20 5   Der weiter diesem nachfolgende
+ 422 Tau~10  2 02 20 +03 20 5   Von den übrigen 2 nachfolgenden der nördlichere
+ 423 Tau~11  2 03 20 +01 15 5   Der südlichere derselben
+ 424 Gem  1  2 23 20 +09 30 2   Der im Kopf d. vorangehenden Zwillings
+ 425 Gem  2  2 26 40 +06 15 2   Der rötliche im Kopf des nachfolgenden Zwillings
+ 426 Gem  3  2 16 40 +10 00 4   Der am linken Ellbogen des vorangehenden Zwillings
+ 427 Gem  4  2 18 40 +07 20 4   Der an demselben Arm
+ 428 Gem  5  2 22 00 +05 30 4   Der ihm nachfolgende in dem Raume zwischen den Schultern
+ 429 Gem  6  2 24 00 +04 50 4   Der diesem nachfolgende an der rechten Schulter desselben Zwillings
+ 430 Gem  7  2 26 40 +02 40 4   Der an der nachfolgenden Schulter des nachfolgenden Zwillings
+ 431 Gem  8  2 21 40 +02 40 5   Der in der rechten Seite des vorangehenden Zwillings
+ 432 Gem  9  2 23 10 +00 20 5   Der in der linken Seite des nachfolgenden Zwillings
+ 433 Gem 10  2 13 00 +01 30 3   Der am linken Knie des vorang. Zw.
+ 434 Gem 11  2 18 15 -02 30 3   Der under dem linken Knie des nachfolgenden Zwillings
+ 435 Gem 12  2 21 40 -00 30 3   Der am linken Schoß des nachf. Zw.
+ 436 Gem 13  2 21 40 -06 00 3   Der über dem rechten Armbug desselben Zwillings
+ 437 Gem 14  2 06 30 -01 30 4-3 Dem am vorgesetzten Fuß des vorangehenden Zwillings
+ 438 Gem 15  2 08 30 -01 15 4-3 Der diesem nachfolgende in demselben Fuße
+ 439 Gem 16  2 10 10 -03 30 4-3 Der am Ende des rechten Fußes des vorangehenden Zwillings
+ 440 Gem 17  2 12 00 -07 30 3   Der am Ende des linken Fußes des nachfolgenden Zwillings
+ 441 Gem 18  2 14 40 -10 30 4   Der am Ende des rechten Fußes des nachfolgenden Zwillings
+ 442 Gem~ 1  2 04 10 -00 40 4   Der dem vorgesetzten Fuß (η) des vorangehenden Zwillings vorangehende
+ 443 Gem~ 2  2 06 30 +05 50 4-3 Der dem vorangehenden Knie (ε) vorangehende glänzende
+ 444 Gem~ 3  2 15 10 -02 15 5   Der dem linken Knie (ζ) des nachfolgenden Zwillings vorangehende
+ 445 Gem~ 4  2 28 20 -01 20 5   Von den 3 auf einer Geraden, die dem rechten Arm (λ) des nachf. Zw. nachfolgen, der nördliche
+ 446 Gem~ 5  2 26 20 -03 20 5   Der mittelste der drei
+ 447 Gem~ 6  2 26 00 -04 30 5   Der südliche derselben neben dem Ellbogen (λ) des Armes
+ 448 Gem~ 7* 3 03 00 -02 40 4   Der den 3 vorgenannten nachfolgende glänzende
+ 449 Cnc  1  3 10 20 +00 20 neb Die Mitte des auf dem Bruststück stehenden Nebelflecks, der sog. Krippe
+ 450 Cnc  2  3 07 40 +01 15 4-5 Von den 2 vorangehenden des Vierecks um den Nebelfleck der nördlichere
+ 451 Cnc  3  3 08 00 -01 10 4-5 Von den 2 vorangeh. der südlichere
+ 452 Cnc  4  3 10 20 +02 40 4-3 Von den 2 nachfolgenden des Vierecks, den sog. Eseln, der nördliche
+ 453 Cnc  5  3 11 20 -00 10 4-3 Der südliche der 2 vorgenannten
+ 454 Cnc  6  3 16 30 -05 30 4   Der an der südlichen Schere
+ 455 Cnc  7  3 08 20 +11 50 4   Der an der nördlichen Schere
+ 456 Cnc  8  3 02 40 +01 00 5   Der am nördlichen Hinterfuß
+ 457 Cnc  9  3 07 10 -07 30 4-3 Der am südlichen Hinterfuß
+ 458 Cnc~ 1  3 19 40 -02 20 4-5 Der über dem Bug der südlichen Schere
+ 459 Cnc~ 2  3 21 10 -05 40 4-5 Der dem Ende der südlichen Schere nachfolgende
+ 460 Cnc~ 3  3 14 00 +07 15 5   Von den 2 nachfolgenden über dem Nebelfleck der vorangehende
+ 461 Cnc~ 4  3 17 00 +04 50 5   Der nachfolgende derselben
+ 462 Leo  1  3 18 20 +10 00 4   Der am Ende der Nüster
+ 463 Leo  2  3 21 10 +07 30 4   Der im Rachen
+ 464 Leo  3  3 24 20 +12 00 3   Von den 2 im Kopf der nördlichere
+ 465 Leo  4  3 24 10 +09 30 3-2 Der südlichere derselben
+ 466 Leo  5  4 00 10 +11 00 3   Von den 3 am Halse der nördliche
+ 467 Leo  6  4 02 10 +08 30 2   Der anschließende mittelste der drei
+ 468 Leo  7  4 00 40 +04 30 3   Der südliche derselben
+ 469 Leo  8  4 02 30 +00 10 1   Der im Herzen, der sog. Regulus
+ 470 Leo  9  4 03 30 -01 50 4   Der südlichere als dieser, etwa auf der Brust
+ 471 Leo 10  4 00 00 -00 15 5   Der ein wenig dem im Herzen vorangehende
+ 472 Leo 11  3 27 20 +00 00 5   Der am rechten Knie
+ 473 Leo 12  3 24 10 -03 40 5   Der an der rechten Vorderklaue
+ 474 Leo 13  3 27 20 -04 10 4   Der an der linken Vorderklaue
+ 475 Leo 14  4 02 30 -04 15 4   Der am linken Knie
+ 476 Leo 15  4 09 10 -00 10 4   Der an der linken Achsel
+ 477 Leo 16  4 07 00 +04 00 6   Von den 3 am Bauch der vorangehende
+ 478 Leo 17  4 10 20 +05 20 6   Von den übrigen 2 nachfolgenden der nördliche
+ 479 Leo 18  4 12 10 +02 20 6   Der südlichere derselben
+ 480 Leo 19  4 11 20 +12 15 6   Von den 2 an der Hüfte der vorangehende
+ 481 Leo 20  4 14 10 +13 40 2-3 Der nachfolgende derselben
+ 482 Leo 21  4 14 20 +11 10 5   Von den 2 an den Hinterbacken der nördlichere
+ 483 Leo 22  4 16 20 +09 40 3   Der südlichere derselben
+ 484 Leo 23  4 20 20 +05 50 3   Der an den Hinterschenkeln
+ 485 Leo 24  4 21 40 +01 15 4   Der an den hinteren Kniekehlen
+ 486 Leo 25  4 24 40 -00 50 4   Der südlichere als dieser, etwa an den Ellbogen
+ 487 Leo 26* 4 27 30 -03 10 5   Der an den Hinterklauen
+ 488 Leo 27  4 24 30 +11 50 1-2 Der am Ende des Schwanzes
+ 489 Leo~ 1  4 06 00 +13 20 5   Von den 2 über dem Rücken der vorangehende
+ 490 Leo~ 2  4 08 10 +15 30 5   Der nachfolgende derselben
+ 491 Leo~ 3  4 17 30 +01 10 4-5 Von den 3 unter den Weichen der nördliche
+ 492 Leo~ 4  4 17 10 -00 30 5   Der mittelste derselben
+ 493 Leo~ 5  4 18 00 -02 40 5   Der südliche derselben
+ 494 Leo~ 6  4 24 50 +30 00 obs Der nördlichste Teil der zwischen den äußersten Sternen von Löwe und Bär gelegenen nebelförmigen Gruppe, des sog. Haupthaares
+ 495 Leo~ 7  4 24 20 +25 00 obs Von den südlichen Ausläufern des Haupthaares der vorangehende
+ 496 Leo~ 8  4 28 30 +25 30 obs Der nachfolgende derselben in einer Figur von der Form eines Efeublattes
+ 497 Vir  1  4 26 20 +04 15 5   Von den 2 oben am Schädel der südliche
+ 498 Vir  2* 4 26 00 +05 40 5   Der nördlichere derselben
+ 499 Vir  3  5 00 40 +08 00 5   Von den 2 ihnen nachfolgenden im Antlitz der nördlichere
+ 500 Vir  4  5 00 30 +05 30 5   Der südlichere derselben
+ 501 Vir  5  4 29 00 +00 20 3   Der am Ende des südlichen, d. i. linken Flügels
+ 502 Vir  6  5 08 15 +01 30 3   Von den 4 im linken Flügel der vorangehende
+ 503 Vir  7  5 13 10 +02 50 3   Der diesem nachfolgende
+ 504 Vir  8  5 17 30 +02 30 5   Der weiter diesem nachfolgende
+ 505 Vir  9  5 21 00 +01 40 4   Der letzte nachfolgende von den vier
+ 506 Vir 10  5 14 20 +08 30 3   Der in der rechten Seite unter dem Gürtel
+ 507 Vir 11  5 08 10 +13 30 5   Von den 3 im rechten, d. i. nördlichen Flügel der vorangehende
+ 508 Vir 12  5 10 10 +11 40 6   Von den übrigen 2 der südliche
+ 509 Vir 13  5 12 10 +15 10 3-2 Der nördliche derselben, die sog. Vindemiatrix
+ 510 Vir 14  5 26 40 -02 00 1   Der am Ende der linken Hand, die sog. Spika
+ 511 Vir 15  5 24 50 +08 40 3   Der unter dem Gürtel, etwa am rechten Hinterbacken
+ 512 Vir 16  5 26 20 +03 20 5   Von der vorang. Seite des Vierecks am linken Schenkel der nördliche
+ 513 Vir 17* 5 27 15 +00 10 6   Der südliche der vorangehenden Seite
+ 514 Vir 18  6 00 00 +01 30 4-5 Von den 2 der nachfolgenden Seite der nördlichere
+ 515 Vir 19* 5 28 00 -03 00 5   Der südlichere der nachfolgenden Seite
+ 516 Vir 20  6 01 40 -01 30 5   Der am linken Knie
+ 517 Vir 21  5 28 00 +08 30 5   Der am rechten Hinterschenkel
+ 518 Vir 22  6 06 40 +07 10 4   Von den 3 in der Schleppe um die Füße der mittelste
+ 519 Vir 23  6 07 20 +02 40 4   Der südliche derselben
+ 520 Vir 24  6 08 20 +11 40 4   Der nördliche der drei
+ 521 Vir 25  6 10 00 +00 30 4   Der am Ende des linken, d. i. südlichen Fußes
+ 522 Vir 26  6 12 40 +09 50 4   Der am Ende des rechten, d. i. nördlichen Fußes
+ 523 Vir~ 1  5 14 40 -03 30 5   Von den 3 auf einer Geraden unter dem linken Ellbogen der vorangehende
+ 524 Vir~ 2  5 19 00 -03 30 5   Der mittlste derselben
+ 525 Vir~ 3  5 22 15 -03 20 5   Der nachfolgende der drei
+ 526 Vir~ 4  5 27 10 -07 10 6   Von den 3 etwa auf einer Geraden unter der Spika der vorangehende
+ 527 Vir~ 5* 5 28 10 -08 20 5   Der mittelsete derselben, ein Doppelstern
+ 528 Vir~ 6  6 05 00 -07 50 6   Der nachfolgende der drei
+ 529 Lib  1  6 18 00 +00 40 2   Von denen am Ende der südlichen Schere der glänzende
+ 530 Lib  2  6 17 00 +02 30 5   Der nördlichere als dieser u. schwächere
+ 531 Lib  3  6 22 10 +08 50 2   Von denen am Ende der nördlichen Schere der glänzende
+ 532 Lib  4  6 17 40 +08 30 5   Der ihm vorangehende schwache
+ 533 Lib  5  6 24 00 -01 40 4   Der in der Mitte der südlichen Schere
+ 534 Lib  6  6 21 20 +01 15 4   Der diesem vorangehende an derselben Schere
+ 535 Lib  7  6 27 50 +04 45 4   Der in der Mitte der nördlichen Schere
+ 536 Lib  8  7 03 00 +03 30 4-5 Der ihm nachf. in derselben Schere
+ 537 Lib~ 1  6 26 10 +09 00 5   Von den 3 nördlicheren als die nördliche Schere der vorangehende
+ 538 Lib~ 2  7 03 40 +06 40 4-5 Von den 2 nachfolgenden der südlichere
+ 539 Lib~ 3  7 04 20 +09 15 4-5 Der nördliche derselben
+ 540 Lib~ 4  7 03 30 +00 30 6   Von den 3 zwischen den Scheren der nachfolgende
+ 541 Lib~ 5  7 00 40 +00 20 5   Von den übrigen 2 vorangehenden der nördliche
+ 542 Lib~ 6* 7 01 10 -01 30 4   Der südliche derselben
+ 543 Lib~ 7  6 23 00 -07 30 3   Von den 3 südlicheren als die südliche Schere der vorangehende
+ 544 Lib~ 8  7 01 10 -08 30 4   Von den übrigen 2 nachfolgenden der nördlichere
+ 545 Lib~ 9  7 02 00 -09 40 4   Der südlichere derselben
+ 546 Sco  1  7 06 20 +01 20 3   Von den 3 glänzenden in der Stirn der nördliche
+ 547 Sco  2  7 05 40 -01 40 3   Der mittelste derselben
+ 548 Sco  3  7 05 40 -05 00 3   Der südlichere der drei
+ 549 Sco  4  7 06 00 -07 50 3   Der noch südlichere als dieser an einem der Füße
+ 550 Sco  5  7 07 00 +01 40 4   Von den 2 Begleitern des nördlichsten (β) der glänzenden der nördliche
+ 551 Sco  6  7 06 20 +00 30 4   Der südliche derselben (ein doppelter)
+ 552 Sco  7  7 10 40 -03 45 3   Von den 3 glänzenden im Körper der vorangehende
+ 553 Sco  8  7 12 40 -04 00 2   Der rötliche mittelste derselben, der sog. Antares
+ 554 Sco  9  7 14 30 -05 30 3   Der nachfolgende der drei
+ 555 Sco 10  7 09 20 -06 30 5   Von den 2 unter ihnen etwa am äußersten Fuße der vorangehende
+ 556 Sco 11  7 10 40 -06 40 5   Der nachfolgende derselben
+ 557 Sco 12  7 18 30 -11 00 3   Der im 1. Schwanzgelenk vom Körper ab
+ 558 Sco 13  7 18 50 -15 00 3   Der nach diesem im 2. Schwanzgelenk
+ 559 Sco 14* 7 20 00 -18 00 4   Der nördliche des Doppelsterns im 3. Schwanzgelenk
+ 560 Sco 15  7 20 10 -18 40 4   Der südlichere des Doppelsterns
+ 561 Sco 16  7 23 10 -19 30 3   Der folgende im 4. Schwanzgelenk
+ 562 Sco 17  7 28 10 -18 50 3   Der nach ihm im 5. Schwanzgelenk
+ 563 Sco 18  8 00 30 -16 40 3   Der weiter folgende im 6. Schwanzgelenk
+ 564 Sco 19  7 29 00 -15 10 3   Der im 7. Schwanzgelenk neben dem Stachel
+ 565 Sco 20  7 27 30 -13 20 3   Von den 2 im Stachel der nachfolgende
+ 566 Sco 21  7 27 00 -13 30 4   Der vorangehende derselben
+ 567 Sco~ 1* 8 01 10 -13 15 neb Der dem Stachel nachfolgende nebelförmige
+ 568 Sco~ 2  7 25 30 -06 10 5   Von den 2 nördlich des Stachels der vorangehende
+ 569 Sco~ 3* 7 25 30 -04 10 5   Der nachfolgende derselben
+ 570 Sgr  1  8 04 30 -06 30 3   Der an der Pfeilspitze
+ 571 Sgr  2  8 07 40 -06 30 3   Der an der von der linken Hand erfaßten Stelle (des Bogens)
+ 572 Sgr  3  8 08 00 -10 50 3   Der im südlichen Teile des Bogens
+ 573 Sgr  4  8 09 00 -01 30 3   Von denen im nördlichen Teile des Bogens der südlichere
+ 574 Sgr  5  8 06 40 +02 50 4   Der nördlichere derselben am Ende des Bogens
+ 575 Sgr  6  8 15 20 -03 10 3   Der an der linken Schulter
+ 576 Sgr  7  8 13 00 -03 30 4   Der diesem vorangehende am Pfeil
+ 577 Sgr  8  8 15 10 +00 45 neb Der nebelförmige Doppelstern im Auge
+ 578 Sgr  9  8 15 40 +02 10 4   Von den 3 im Kopf der vorangehende
+ 579 Sgr 10  8 17 40 +01 30 4   Der mittelste derselben
+ 580 Sgr 11  8 19 10 +02 00 4   Der nachfolgende der drei
+ 581 Sgr 12  8 21 20 +02 50 5   Von den 3 im nördlichen Oberkleid der südliche
+ 582 Sgr 13  8 22 20 +04 30 4   Der mittelste derselben
+ 583 Sgr 14  8 22 50 +06 30 4   Der nördliche der drei
+ 584 Sgr 15  8 25 40 +05 30 6   Der den 3 nachfolgende schwache
+ 585 Sgr 16  8 29 30 +05 50 5   Von den 2 im südlichen Oberkleid der nördlichere
+ 586 Sgr 17  8 27 40 +02 00 6   Der südlichere derselben
+ 587 Sgr 18  8 22 40 -01 50 5   Der an der rechten Schulter
+ 588 Sgr 19  8 24 50 -02 50 4   Der am rechten Armbug
+ 589 Sgr 20  8 20 00 -02 30 5   Von den 3 auf dem Rücken der im Raum zwischen den Schultern
+ 590 Sgr 21  8 17 40 -04 30 4-3 Der mittelste derselben am Schulterblatt
+ 591 Sgr 22  8 16 20 -06 45 3   Der übrige unter der Achsel
+ 592 Sgr 23  8 17 40 -23 00 2   Der am vorderen linken Knöchel
+ 593 Sgr 24  8 17 00 -18 00 2-3 Der am Knie desselben Fußes
+ 594 Sgr 25  8 06 40 -13 00 3   Der am vorderen rechten Knöchel
+ 595 Sgr 26  8 27 20 -13 30 3   Der am linken Schenkel
+ 596 Sgr 27  8 23 50 -20 10 3   Der am hinteren rechten Ellbogen
+ 597 Sgr 28  8 27 40 -04 50 5   Von den 4 im Ansatz des Schwanzes der vorangehende der nördlichen Seite
+ 598 Sgr 29  8 28 50 -04 50 5   Der nachfolgende der nördlichen Seite
+ 599 Sgr 30  8 28 50 -05 50 5   Der vorangehende der südlichen Seite
+ 600 Sgr 31  8 29 40 -06 30 5   Der nachfolgende der südlichen Seite
+ 601 Cap  1  9 07 20 +07 20 3   Von den 3 im nachfolgenden Horn der nördliche
+ 602 Cap  2  9 07 40 +06 40 6   Der mittelste derselben
+ 603 Cap  3  9 07 20 +05 00 3   Der südliche der drei
+ 604 Cap  4  9 05 00 +08 00 6   Der an der Spitze des vorangehenden Horns
+ 605 Cap  5  9 09 00 +00 45 6   Von den 3 an der Schnauze der südliche
+ 606 Cap  6  9 08 40 +01 45 6   Von den übrigen 2 der vorangehende
+ 607 Cap  7  9 08 50 +01 30 6   Der nachfolgende derselben
+ 608 Cap  8  9 06 10 +00 40 5   Der den 3 vorangehende unter dem rechten Auge
+ 609 Cap  9* 9 11 40 +03 50 6   Von den 2 am Halse der nördlichere
+ 610 Cap 10  9 11 50 +00 50 5   Der südlichere derselben
+ 611 Cap 11  9 11 40 -08 40 4   Der am linken gebeugten Knie
+ 612 Cap 12  9 10 50 -06 30 4   Der unter dem rechten Knie
+ 613 Cap 13  9 16 40 -07 40 4   Der an der linken Schulter
+ 614 Cap 14  9 20 10 -06 50 4   Von 2 dicht nebeneinander stehenden unter dem Bauch der vorangehende
+ 615 Cap 15  9 20 20 -06 00 5   Der nachfolgende derselben
+ 616 Cap 16  9 18 30 -04 15 5   Von den 3 in der Mitte des Leibes der nachfolgende
+ 617 Cap 17  9 16 40 -04 00 5   Von den übrigen 2 vorangehenden der südlichere
+ 618 Cap 18  9 16 40 -02 50 5   Der nördlichere derselben
+ 619 Cap 19  9 16 40 +00 00 4   Von den 2 auf dem Rücken der vorangehende
+ 620 Cap 20  9 21 00 -00 50 4   Der nachfolgende derselben
+ 621 Cap 21* 9 23 20 -04 45 4   Von den 2 am Steißbein des Rückgrats der vorangehende
+ 622 Cap 22  9 25 00 -04 30 4   Der nachfolgende derselben
+ 623 Cap 23  9 24 50 -02 10 3   Von den 2 in der Gegend des Schwanzes der vorangehende
+ 624 Cap 24  9 26 20 -02 00 3   Der nachfolgende derselben
+ 625 Cap 25  9 26 50 +00 20 4   Von den 4 im nördlichen Teil des Schwanzes der vorangehende
+ 626 Cap 26  9 28 40 +00 00 5   Von den übrigen 3 der südliche
+ 627 Cap 27  9 27 40 +02 50 5   Der mittelste derselben
+ 628 Cap 28  9 28 40 +04 20 5   Der nördliche derselben am Ende des Schwanzes
+ 629 Aqr  1 10 00 20 +15 45 5   Der im Kopf des Wassermanns
+ 630 Aqr  2 10 06 20 +11 00 3   Von den 2 an der rechten Schulter der glänzendere
+ 631 Aqr  3 10 05 10 +09 40 5   Der unter ihm stehende schwächere
+ 632 Aqr  4  9 26 30 +08 50 3   Der an der linken Schulter
+ 633 Aqr  5  9 27 20 +06 15 5   Der unter ihm auf dem Rücken, etwa unter der Achsel
+ 634 Aqr  6  9 17 40 +05 30 3   Von den 3 in der linken Hand am Mantel der nachfolgende
+ 635 Aqr  7  9 16 10 +08 00 4   Der mittelste derselben
+ 636 Aqr  8  9 14 40 +08 40 3   Der vorangehende der drei
+ 637 Aqr  9 10 09 30 +08 45 3   Der am rechten Ellbogen
+ 638 Aqr 10 10 11 40 +10 45 3   Von den 3 am Ende der rechten Hand der nördliche
+ 639 Aqr 11 10 12 00 +09 00 3   Von den übrigen 2 nördlichen der vorangehende
+ 640 Aqr 12 10 13 20 +08 30 3   Der nachfolgende derselben
+ 641 Aqr 13 10 06 10 +03 10 4   Von den 2 dicht beieinander stehenden an d. Vertief. d. rechten Hüfte d. vorang.
+ 642 Aqr 14*10 07 00 +03 00 5   Der nachfolgende derselben
+ 643 Aqr 15 10 08 40 -00 50 4   Der auf dem rechten Hinterbacken
+ 644 Aqr 16 10 01 40 -01 40 4   Von den 2 auf dem linken Hinterbacken der südliche
+ 645 Aqr 17*10 03 10 -00 15 6   Der nördlichere derselben
+ 646 Aqr 18 10 11 40 -07 30 3   Von den 2 an der rechten Wade der südlichere
+ 647 Aqr 19 10 11 20 -05 00 4   Der nördlichere derselben unter der Kniekehle
+ 648 Aqr 20 10 04 40 -05 40 5   Der am linken Hinterschenkel
+ 649 Aqr 21 10 08 20 -10 00 5   Von den 2 an der linken Wade der südlichere
+ 650 Aqr 22 10 07 50 -09 00 5   Der nördlichere derselben unter dem Knie
+ 651 Aqr 23*10 15 00 +02 00 4   Von denen im Wasserguß von d. Hand ab der vorangehende
+ 652 Aqr 24*10 14 50 +00 10 4   Der anschließende südlich des vorgenannten
+ 653 Aqr 25 10 17 40 -01 10 4   Der an diesen aschließende nach der Krümmung
+ 654 Aqr 26 10 20 00 -00 30 4   Der weiter diesem nachfolgende
+ 655 Aqr 27 10 20 30 -01 40 4   Der in der Krümmung südlich von diesem
+ 656 Aqr 28 10 19 00 -03 30 4   Von den 2 südlich des letzteren der nördlichere
+ 657 Aqr 29*10 19 50 -04 10 4   Der südlichere der zwei
+ 658 Aqr 30 10 20 50 -08 15 5   Der von diesen nach Süden abstehende einzelne
+ 659 Aqr 31 10 22 40 -11 00 5   Von den 2 nach letzterem dicht beieinander stehenden der vorangehende
+ 660 Aqr 32*10 23 10 -10 50 5   Der nachfolgende derselben
+ 661 Aqr 33 10 21 40 -14 00 5   Von den 3 in der anschließenden Gruppe der nördliche
+ 662 Aqr 34 10 22 10 -14 45 5   Der mittelste der drei
+ 663 Aqr 35*10 23 10 -15 40 5   Der nachfolgende derselben
+ 664 Aqr 36 10 17 00 -14 10 4   Desgleichen von den folgenden 3 der nördliche
+ 665 Aqr 37 10 18 20 -15 45 4   Der südliche der drei
+ 666 Aqr 38 10 17 30 -15 00 4   Der mittelste derselben
+ 667 Aqr 39*10 11 50 -15 20 4   Von den 3 in der noch übrigen Gruppe der vorangehende
+ 668 Aqr 40 10 12 20 -14 45 4   Von den 2 übrigen der südlichere
+ 669 Aqr 41 10 13 10 -14 00 4   Der nördlichere derselben
+ 670 Aqr 42 10 07 00 -20 20 1   Der letzte im Wasserguß an der Schnauze des Südl. Fisches
+ 671 Aqr~ 1 10 26 40 -15 30 4-3 Von den 3 der Krümmung des Wassergusses nachf. der vorangehende
+ 672 Aqr~ 2 10 29 40 -14 40 4-3 Von den 2 übrigen der nördlichere
+ 673 Aqr~ 3 10 29 00 -18 15 4-3 Der südlichere derselben
+ 674 Psc  1 10 21 40 +09 15 4   Der an dem Maule des vorangehenden Fisches
+ 675 Psc  2 10 24 10 +07 30 4   Von den 2 am Schädel desselben der südlichere
+ 676 Psc  3 10 26 00 +09 20 4   Der nördlichere derselben
+ 677 Psc  4 10 28 10 +09 30 4   Von den 2 auf dem Rücken der vorangehende
+ 678 Psc  5 11 00 40 +07 30 4   Der nachfolgende derselben
+ 679 Psc  6 10 26 00 +04 30 4   Von den 2 am Bauche der vorangehende
+ 680 Psc  7 10 29 40 +03 30 4   Der nachfolgende derselben
+ 681 Psc  8 11 06 00 +06 20 4   Der im Schwanze desselben Fisches
+ 682 Psc  9 11 11 00 +05 45 6   Von denen im Band desselben der erste vom Schwanz ab
+ 683 Psc 10 11 13 00 +03 45 6   Der nachfolgende derselben
+ 684 Psc 11 11 17 10 +02 15 4   Von den folgenden 3 glänzenden der vorangehende
+ 685 Psc 12 11 20 30 +01 10 4   Der mittelste derselben
+ 686 Psc 13 11 23 00 -00 10 4   Der nachfolgende der drei
+ 687 Psc 14 11 22 20 -02 00 6   Von den 2 kleinen unter letzteren in d. Krümmung d. nördlichere
+ 688 Psc 15 11 23 00 -05 00 6   Der südlichere derselben
+ 689 Psc 16 11 26 30 -02 20 4   Von den 3 nach der Krümmung der vorangehende
+ 690 Psc 17 11 28 40 -04 40 4   Der mittelste derselben
+ 691 Psc 18  0 00 40 -07 45 4   Der nachfolgende der drei
+ 692 Psc 19  0 02 30 -08 30 3   Der im Knoten der beiden Bänder
+ 693 Psc 20  0 00 30 -01 40 4   Von denen im nördl. Bande der vorangehende vom Knoten ab
+ 694 Psc 21  0 00 10 +01 50 5   Von den 3 nach ihm folgenden der südliche
+ 695 Psc 22  0 00 40 +05 20 3   Der mittelste derselben
+ 696 Psc 23  0 00 30 +09 00 4   Der nördliche von den 3 am Ende des Schwanzes
+ 697 Psc 24  0 02 00 +21 45 5   Von den 2 am Maule des nachfolgenden Fisches der nördlichere
+ 698 Psc 25  0 01 40 +21 40 5   Der südliche derselben
+ 699 Psc 26 11 28 40 +20 00 6   Von den 3 kleinen im Kopf der nachfolgende
+ 700 Psc 27 11 27 40 +19 50 6   Der mittelste derselben
+ 701 Psc 28 11 27 00 +20 20 6   Der vorangehende der drei
+ 702 Psc 29 11 25 40 +14 20 4   Von den 3 in der Rückenflosse nach dem am Ellbogen (η) der Andromeda der vorangehende
+ 703 Psc 30 11 26 20 +13 15 4   Der mittelste derselben
+ 704 Psc 31 11 27 40 +12 00 4   Der nachfolgende der drei
+ 705 Psc 32  0 02 10 +17 00 4   Von den 2 am Bauch der nördlichere
+ 706 Psc 33 11 29 50 +15 20 4   Der südlichere derselben
+ 707 Psc 34  0 00 00 +11 45 4   Der in der nachfolgenden Rückenflosse am Schwanze
+ 708 Psc~ 1 11 01 10 -02 40 4   Von dem Viereck unter dem vorangehenden Fisch der vorangehende der 2 nördlichen
+ 709 Psc~ 2 11 02 15 -02 30 4   Der nachfolgende derselben
+ 710 Psc~ 3 11 00 40 -05 30 4   Von der südlichen Seite der vorangehende
+ 711 Psc~ 4 11 02 20 -05 30 4   Der nachfolgenden der südlichen Seite
+ 712 Cet  1  0 17 40 -07 45 4   Der am Ende der Nüster
+ 713 Cet  2  0 17 40 -12 20 3   Von den 3 an der Schnauze der nachfolgende am Ende der Kiefer
+ 714 Cet  3  0 12 40 -11 30 3   Der mittelste derselben mitten im Maule
+ 715 Cet  4  0 10 30 -14 00 3   Der vorangehende der 3 am Kinnbacken
+ 716 Cet  5  0 10 10 -08 10 4   Der an der Augenbraue und dem Auge
+ 717 Cet  6  0 12 40 -06 20 4   Der nördlichere als dieser, etwa am (Stirn-) Haar
+ 718 Cet  7  0 07 40 -04 10 4   Der diesen vorangehende, etwa in der Mähne
+ 719 Cet  8  0 03 00 -24 30 4   Von dem Viereck auf der Brust der nördliche der vorangehenden Seite
+ 720 Cet  9  0 03 20 -28 00 4   Der südliche der vorangehenden Seite
+ 721 Cet 10  0 06 40 -25 10 4   Der nördliche der nachfolgenden Seite
+ 722 Cet 11  0 07 00 -27 30 3   Der südliche der nachfolgenden Seite
+ 723 Cet 12 11 22 00 -25 20 3   Von den 3 im Leibe der mittelste
+ 724 Cet 13 11 23 00 -30 50 4   Der südliche derselben
+ 725 Cet 14 11 25 00 -20 00 3   Der nördliche der drei
+ 726 Cet 15 11 19 40 -15 40 3   Von den 2 nahe der Schwanzgegend der nachfolgende
+ 727 Cet 16 11 15 00 -15 40 3   Der vorangehende derselben
+ 728 Cet 17*11 11 00 -13 40 5   Von dem Viereck in der Schwanzgegend der nördl. der nachf. Seite
+ 729 Cet 18 11 10 40 -14 40 5   Der südliche der nachfolgenden Seite
+ 730 Cet 19 11 09 20 -13 00 5-4 Der nördliche der vorangehenden Seite
+ 731 Cet 20 11 09 00 -14 00 5-4 Der südliche der vorangehenden Seite
+ 732 Cet 21 11 04 20 -09 40 3-4 Von den 2 an den Schwanzenden der am nördlichen Ende
+ 733 Cet 22 11 05 40 -20 20 3   Der am südlichen Schwanzende
+ 734 Ori  1  1 27 00 -13 30 neb Der nebelförmige im Kopf des Orion
+ 735 Ori  2  2 02 00 -17 00 1-2 Der glänzende rötliche an der rechten Schulter
+ 736 Ori  3  1 24 00 -17 30 2   Der an der linken Schulter
+ 737 Ori  4  1 25 00 -18 00 4-5 Der unter diesem nachfolgende
+ 738 Ori  5  2 04 20 -14 30 4   Der am rechten Armbug
+ 739 Ori  6  2 06 20 -11 50 6   Der am rechten Ellbogen
+ 740 Ori  7* 2 06 30 -10 00 4   Von dem Viereck am Ende der rechten Hand der nachfolgende der südlichen Seite, ein Doppelstern
+ 741 Ori  8  2 06 00 -09 45 4   Der vorangehende der südlichen Seite
+ 742 Ori  9  2 07 20 -08 15 6   Der nachfolgende der nördlichen Seite
+ 743 Ori 10  2 06 40 -08 15 6   Der vorangehende der nördlichen Seite
+ 744 Ori 11  2 01 40 -03 45 5   Von den 2 in der Keule der vorangehende
+ 745 Ori 12  2 04 40 -04 15 5   Der nachfolgende derselben
+ 746 Ori 13  1 27 50 -19 40 4   Von den 4 auf dem Rücken, ungef. auf einer Geraden, der nachfolgende
+ 747 Ori 14  1 26 20 -20 00 6   Der diesem vorangehende
+ 748 Ori 15  1 25 20 -20 10 6   Der weiter letzterem vorangehende
+ 749 Ori 16  1 24 10 -20 40 5   Der übrige vorangehende der vier
+ 750 Ori 17  1 20 30 -08 00 4   Von denen im Fell der linken Hand der nördliche
+ 751 Ori 18  1 19 20 -08 10 4   Der zweite vom nördlichsten ab
+ 752 Ori 19  1 18 00 -10 15 4   Der dritte vom nördlichsten ab
+ 753 Ori 20  1 16 20 -12 50 4   Der vierte vom nördlichsten ab
+ 754 Ori 21  1 15 10 -14 15 4   Der fünfte vom nördlichsten ab
+ 755 Ori 22  1 14 50 -15 50 3   Der sechste vom nördlichsten ab
+ 756 Ori 23  1 14 50 -17 10 3   Der siebente vom nördlichsten ab
+ 757 Ori 24  1 15 20 -20 20 3   Der achte vom nördlichsten ab
+ 758 Ori 25  1 16 20 -21 30 3   Der letzte und südlichste von denen im Fell
+ 759 Ori 26  1 25 20 -24 10 2   Von den 3 im Gürtel der vorangehende
+ 760 Ori 27  1 27 20 -24 50 2   Der mittelste derselben
+ 761 Ori 28  1 28 10 -25 40 2   Der nachfolgende der drei
+ 762 Ori 29  1 23 50 -25 50 3   Der am Schwertgriff
+ 763 Ori 30  1 26 30 -28 20 4   Von den 3 dichtgedrängten am Ende des Schwertes der nördliche
+ 764 Ori 31  1 26 40 -29 10 3-4 Der mittelste derselben
+ 765 Ori 32  1 27 00 -29 50 3   Der südliche der drei
+ 766 Ori 33  1 27 40 -30 40 4   Von den 2 unter der Spitze des Schwertes der nachfolgende
+ 767 Ori 34  1 26 30 -30 50 4   Der vorangehende derselben
+ 768 Ori 35  1 19 50 -31 30 1   Der glänzende am Ende des linken Fußes mit dem Fluß gemeinsame
+ 769 Ori 36* 1 21 00 -30 15 4-3 Der nördlichere als dieser über dem Knöchel an der linken Wade
+ 770 Ori 37  1 23 20 -31 10 4   Der unter der linken Ferse außerhalb
+ 771 Ori 38  2 00 10 -33 30 3-2 Der unter dem rechten, d. i. nachfolgenden Knie
+ 772 Eri  1  1 18 20 -31 50 4-3 Der nach dem (β) am Ende des Fußes des Orion am Anfange des Flusses
+ 773 Eri  2  1 18 30 -28 15 4   Der nördlichere als dieser in der Krümmung bei der Wade (τ) des Orion
+ 774 Eri  3  1 18 00 -29 50 4   Von den nach diesem folgenden 2 der nachfolgende
+ 775 Eri  4  1 14 40 -28 15 4   Der vorangehende derselben
+ 776 Eri  5  1 13 10 -25 50 4   Von den weiter folgenden 2 der nachfolgende
+ 777 Eri  6  1 10 10 -25 20 4   Der vorangehende derselben
+ 778 Eri  7  1 06 20 -26 00 5   Von den 3 nach diesem der nachfolgende
+ 779 Eri  8  1 05 30 -27 00 4   Der mittelste derselben
+ 780 Eri  9  1 02 50 -27 50 4   Der vorangehende der drei
+ 781 Eri 10  0 27 00 -32 50 3   Von den 4 im folgenden Abstand der nachfolgende
+ 782 Eri 11  0 24 20 -31 00 4   Der diesem vorangehende
+ 783 Eri 12  0 24 10 -28 50 3   Der weiter letzterem vorangehende
+ 784 Eri 13  0 22 00 -28 00 3   Der vorangehende der vier
+ 785 Eri 14  0 17 10 -25 30 3   Desgl. von den 4 im folgenden Abstand der nachfolgende
+ 786 Eri 15  0 14 30 -23 50 4   Der diesem vorangehende
+ 787 Eri 16  0 12 10 -23 20 3   Der weiter letzterem vorangehende
+ 788 Eri 17  0 10 30 -23 15 4   Der vorangehende von den vier
+ 789 Eri 18  0 05 10 -32 10 4   Der erste in der Windung des Fl., der d. Brust des Walfisches berührt
+ 790 Eri 19  0 05 50 -34 50 4   Der diesem nachfolgende
+ 791 Eri 20  0 08 50 -38 30 4   Von den folgenden 3 der vorangehende
+ 792 Eri 21  0 13 50 -38 10 4   Der mittelste derselben
+ 793 Eri 22  0 17 30 -39 00 4   Der nachfolgende der drei
+ 794 Eri 23  0 21 20 -41 20 4   Von den folg. etwa ein Trapez bildenden vier der nördl. der vorang. Seite
+ 795 Eri 24  0 21 30 -42 30 5   Der südlichere der vorangehenden Seite
+ 796 Eri 25  0 22 10 -43 15 4   Der vorangehende der nachfolgenden Seite
+ 797 Eri 26  0 24 40 -43 20 4   Der diesem vorangehende letzte der vier
+ 798 Eri 27  1 04 10 -50 20 4   Von den ostwärts abstehenden dicht beieinander stehenden 2 d. nördliche
+ 799 Eri 28  1 05 00 -51 45 4   Der südlichere derselben
+ 800 Eri 29  0 28 10 -53 50 4   Von den 2 folgenden nach der Krümmung der nachfolgende
+ 801 Eri 30  0 25 50 -53 10 4   Der vorangehende derselben
+ 802 Eri 31  0 17 50 -53 00 4   Von den 3 im folgenden Abstand der nachfolgende
+ 803 Eri 32  0 14 50 -53 30 4   Der mittelste derselben
+ 804 Eri 33  0 11 50 -52 30 4   Der vorangehende der drei
+ 805 Eri 34  0 00 10 -53 30 1   Der äußerste glänzende des Flusses
+ 806 Lep  1  1 19 40 -35 00 5   Von dem Viereck an den Ohren der nördliche der vorangehenden Seite
+ 807 Lep  2  1 19 50 -36 30 5   Der südliche der vorangehenden Seite
+ 808 Lep  3  1 21 20 -35 40 5   Der nördliche der nachfolgenden Seite
+ 809 Lep  4  1 21 20 -36 40 5   Der südliche der nachfolgenden Seite
+ 810 Lep  5  1 19 10 -39 15 4-3 Der am Kinn
+ 811 Lep  6  1 16 10 -45 15 4-3 Der am Ende der linken Vorderpfote
+ 812 Lep  7  1 25 50 -41 30 3   Der in der Mitte des Leibes
+ 813 Lep  8  1 24 50 -44 20 3   Der unter dem Bauch
+ 814 Lep  9  2 01 00 -44 10 4-3 Von den 2 in den Hinterpfoten der nördlichere
+ 815 Lep 10  1 29 00 -45 50 4-3 Der südlichere derselben
+ 816 Lep 11  2 00 00 -38 20 4-3 Der an der Hüfte
+ 817 Lep 12  2 02 40 -38 10 4-3 Der am Ende des Schwanzes
+ 818 CMa  1  2 17 40 -39 10 1   Der glänzendste rötliche am Maule, d. sog. Hundsstern (Sirius)
+ 819 CMa  2  2 19 40 -35 00 4   Der an den Ohren
+ 820 CMa  3  2 21 20 -36 30 5   Der am Kopf
+ 821 CMa  4  2 23 20 -37 45 4   Von den 2 am Halse der nördliche
+ 822 CMa  5* 2 21 20 -40 00 4   Der südliche derselben
+ 823 CMa  6  2 20 30 -42 40 5   Der an der Brust
+ 824 CMa  7  2 16 10 -41 15 5   Von 2 am rechten Knie der nördliche
+ 825 CMa  8  2 16 00 -42 30 5   Der südlichere derselben
+ 826 CMa  9  2 11 00 -41 20 3   Der am Ende der Vorderpfote
+ 827 CMa 10  2 14 40 -46 30 5   Von den 2 am linken Knie der vorangehende
+ 828 CMa 11  2 16 10 -45 50 5   Der nachfolgende derselben
+ 829 CMa 12  2 24 40 -46 10 4   Von den 2 an der linken Schulter der nachfolgende
+ 830 CMa 13  2 21 40 -47 00 5   Der vorangehende derselben
+ 831 CMa 14  2 26 40 -48 45 3-4 Der am Ansatz des linken Schenkels
+ 832 CMa 15  2 23 40 -51 30 3   Der unter dem Bauch im Raume zw. den Schenkeln
+ 833 CMa 16  2 23 00 -55 10 4   Der am Bug der rechten Pfote
+ 834 CMa 17  2 09 40 -53 45 3   Der am Ende der rechten Pfote
+ 835 CMa 18  3 02 10 -50 40 3-4 Der am Schwanz
+ 836 CMa~ 1  2 19 30 -25 15 4   Der nördlich vom Kopf des Hundes
+ 837 CMa~ 2  2 10 00 -61 30 4   Von den 4 unter den Hinterpfoten etwa auf einer Geraden stehenden der südlichste
+ 838 CMa~ 3  2 11 20 -58 45 4   Der nördlichere als dieser
+ 839 CMa~ 4* 2 13 00 -57 00 4   Der noch nördlichere als letzterer
+ 840 CMa~ 5  2 14 10 -56 00 4   Der noch übrige nördlichere der vier
+ 841 CMa~ 6* 1 28 00 -55 30 4   Von den 3 westlich dieser vier etwa auf einer Geraden stehenden der vorangehende
+ 842 CMa~ 7  2 00 20 -57 40 4   Der mittelste derselben
+ 843 CMa~ 8  2 02 20 -59 50 4   Der nachfolgende der drei
+ 844 CMa~ 9  1 29 00 -59 40 2   Von den 2 glänzenden unter letzteren der nachfolgende
+ 845 CMa~10  1 26 00 -57 40 2   Der vorangehende derselben
+ 846 CMa~11  1 22 10 -59 30 4   Der übrige südlichere als die vorgenannten
+ 847 CMi  1  2 25 00 -14 00 4   Der im Nacken
+ 848 CMi  2  2 29 10 -16 10 1   Der glänzende an den Hinterpfoten, der sog. Procyon
+ 849 Nav  1  3 10 20 -42 30 5   Von den 2 am Galjon der vorangeh.
+ 850 Nav  2  3 14 20 -43 20 3   Der nachfolgende derselben
+ 851 Nav  3  3 08 50 -45 00 4   Von den 2 dicht beieinander stehenden über dem kleinen Schild am Hinterteil der nördlichere
+ 852 Nav  4  3 08 40 -46 10 4   Der südlichere derselben
+ 853 Nav  5* 3 05 20 -45 30 4   Der diesen vorangehende
+ 854 Nav  6  3 06 20 -47 15 3   Der glänzende in der Mitte des kleinen Schildes
+ 855 Nav  7  3 05 20 -49 45 4   Von den 3 unter dem kleinen Schild der vorangehende
+ 856 Nav  8  3 09 20 -49 30 4   Der nachfolgende derselben
+ 857 Nav  9  3 08 30 -49 15 4   Der mittelste der drei
+ 858 Nav 10* 3 14 00 -49 50 4   Der an der kleinen Gans
+ 859 Nav 11* 3 04 00 -53 00 4   Von den 2 am Kiel des Hinterteils der nördlichere
+ 860 Nav 12  3 04 00 -58 40 3   Der südlichere derselben
+ 861 Nav 13  3 10 10 -55 30 5   Von denen am Verdeck des Hinterteils der nördlichere
+ 862 Nav 14  3 12 10 -58 40 5   Von den 3 folgenden der vorangehende
+ 863 Nav 15  3 13 40 -57 15 4   Der mittelste derselben
+ 864 Nav 16  3 16 30 -57 50 4   Der nachfolgende der drei
+ 865 Nav 17  3 21 10 -58 40 2   Der diesen nachfolgende glänzende am Verdeck
+ 866 Nav 18  3 18 10 -60 00 5   Von den 2 schwachen unter dem glänzenden der vorangehende
+ 867 Nav 19  3 21 00 -59 20 5   Der nachfolgende derselben
+ 868 Nav 20  3 23 10 -56 40 5   Von den 2 über dem genannten glänzenden der vorangehende
+ 869 Nav 21  3 24 20 -57 40 5   Der nachfolgende derselben
+ 870 Nav 22  4 05 40 -51 30 4-3 Von den 3 an den Schildchen etwa am Mastbehälter der nördliche
+ 871 Nav 23  4 06 10 -55 40 4-3 Der mittelste derselben
+ 872 Nav 24  4 04 00 -57 10 4-3 Der südliche der drei
+ 873 Nav 25  4 09 10 -60 00 4-3 Von den 2 unter letzteren dicht beieinander stehenden der nördlichere
+ 874 Nav 26  4 09 00 -61 15 4-3 Der südlichere derselben
+ 875 Nav 27  4 00 10 -51 50 3   Von den 2 in der Mitte des Mastes der südliche
+ 876 Nav 28  3 29 20 -49 00 3   Der nördlichere derselben
+ 877 Nav 29  3 28 00 -43 20 4   Von den 2 an der Spitze des Mastes der vorangehende
+ 878 Nav 30  3 29 00 -43 30 4   Der nachfolgende derselben
+ 879 Nav 31  4 14 10 -54 30 2   Der unterhalb des nachfolgenden dritten Schildchens
+ 880 Nav 32  4 17 30 -51 15 2-3 Der an der Schnittlinie des Verdecks
+ 881 Nav 33  3 11 10 -63 00 4   Der zwischen den Steuerrudern am Kiel
+ 882 Nav 34  3 19 00 -64 30 6   Der diesem nachfolgende schwache
+ 883 Nav 35  4 00 00 -63 50 2   Der diesem nachfolgende glänzende unter dem Verdeck
+ 884 Nav 36  4 08 30 -69 40 2   Der von diesem südlich stehende glänzende am untern Kiel
+ 885 Nav 37  4 15 10 -65 40 3   Von den 3 letzterem nachfolgenden der vorangehende
+ 886 Nav 38  4 21 20 -65 50 3   Der mittelste derselben
+ 887 Nav 39  4 26 00 -67 20 2   Der nachfolgende der drei
+ 888 Nav 40  5 01 00 -62 50 3   Von den 2 diesen nachfolgenden der vorangehende dicht an der Schnittlinie
+ 889 Nav 41  5 08 00 -62 15 3   Der nachfolgende derselben
+ 890 Nav 42  2 04 00 -65 50 4-3 Von den 2 am nördlichen, d. i. vorangehend. Steuerruder der vorangehende
+ 891 Nav 43  2 20 10 -65 40 3-2 Der nachfolgende derselben
+ 892 Nav 44  2 17 10 -75 00 1   Von den 2 am andern Steuerruder der vorangehende, der sog. Kanobus
+ 893 Nav 45* 2 29 00 -71 45 3-2 Der noch übrige nachfolgende derselben
+ 894 Hya  1  3 14 00 -15 00 4   Von den 5 im Kopf der südlichere der 2 vorangehenden an den Nüstern
+ 895 Hya  2  3 13 20 -13 10 4   Der nördlichere derselben oberhalb des Auges
+ 896 Hya  3  3 15 20 -11 30 4   Von den 2 ihnen nachfolgenden der nördliche, etwa am Schädel
+ 897 Hya  4  3 15 30 -14 15 4   Der südlichere derselben am Rachen
+ 898 Hya  5  3 17 30 -12 15 4   Der allen nachfolgende, etwa am Kinnbacken
+ 899 Hya  6  3 20 20 -11 50 5   Von den 2 im Ansatz des Nackens der vorangehende
+ 900 Hya  7  3 23 20 -13 40 4   Der nachfolgende derselben
+ 901 Hya  8  3 28 50 -15 20 4   Von den 3 folgenden in der Krümmung des Nackens der mittelste
+ 902 Hya  9  4 00 40 -14 50 4   Der nachfolgende der drei
+ 903 Hya 10  3 28 30 -17 10 4   Der südlichste derselben
+ 904 Hya 11  3 29 10 -19 45 6   Von den 2 südlich dicht beieinander stehenden der schwache nördliche
+ 905 Hya 12  4 00 00 -20 30 2   Von den 2 dicht beieinander stehenden der glänzende
+ 906 Hya 13  4 06 00 -26 30 4   Von den 3 nachfolgenden nach der Krümmung der vorangehende
+ 907 Hya 14  4 08 40 -26 00 4   Der mittelste derselben
+ 908 Hya 15  4 11 10 -23 15 4   Der nachfolgende der drei
+ 909 Hya 16  4 18 00 -24 40 3   Von den drei folgenden auf einer Geraden der vorangehende
+ 910 Hya 17  4 20 00 -23 15 4   Der mittelste derselben
+ 911 Hya 18  4 23 00 -22 10 3   Der nachfolgende der drei
+ 912 Hya 19  5 01 30 -25 45 4-3 Von den 2 nach dem Fuß des Bechers der nördlichere
+ 913 Hya 20  5 02 20 -30 10 4   Der südlichere derselben
+ 914 Hya 21  5 12 10 -31 20 4   Von den 3 nach diesen ein Dreieck bildenden der vorangehende
+ 915 Hya 22  5 14 30 -33 10 4   Der mittelste südlichere derselben
+ 916 Hya 23  5 16 10 -31 20 3   Der nachfolgende der drei
+ 917 Hya 24  6 00 00 -13 40 4-3 Der nach dem Raben in der Schwanzgegend
+ 918 Hya 25* 6 13 30 -13 40 4-3 Der am Ende des Schwanzes
+ 919 Hya~ 1  3 12 30 -23 15 3   Der südlich des Kopfes
+ 920 Hya~ 2  4 11 00 -16 20 3   Der in einiger Entfernung den Sternen (τ² ι τ¹) im Nacken nachfolgende
+ 921 Crt  1  4 26 20 -23 00 4   Der am Fuße des Bechers mit der Wasserschlange gemeinsame
+ 922 Crt  2  5 02 30 -19 20 4   Von den 2 in der Mitte des Bechers der südlichere
+ 923 Crt  3  5 00 00 -18 00 4   Der nördlichere derselben
+ 924 Crt  4  5 07 00 -18 30 4-3 Der am südlichen Rande der Mündung
+ 925 Crt  5  4 29 20 -13 40 4   Der am nördlichen Rande
+ 926 Crt  6  5 09 10 -16 10 4-5 Der am südlichen Henkel
+ 927 Crt  7  5 01 40 -11 30 4   Der am nördlichen Henkel
+ 928 Crv  1  5 15 20 -21 40 3   Der am Schnabel mit der Wasserschlange gemeinsame
+ 929 Crv  2  5 14 20 -19 40 3   Der am Halse beim Kopf
+ 930 Crv  3  5 16 40 -18 10 5   Der auf der Brust
+ 931 Crv  4  5 13 20 -14 50 3   Der im vorangehenden, d. i. rechten Flügel
+ 932 Crv  5  5 16 40 -12 30 3   Von den 2 im nachfolgenden Flügel der vorangehende
+ 933 Crv  6  5 17 00 -11 40 4   Der nachfolgende derselben
+ 934 Crv  7  5 20 30 -18 10 3   Der am Ende des Fußes mit der Wasserschlange gemeinsame
+ 935 Cen  1  6 10 30 -21 40 5-4 Von den 4 im Kopf der südlichste
+ 936 Cen  2  6 10 00 -18 50 5-4 Der nördlichste derselben
+ 937 Cen  3  6 09 10 -20 30 4-3 Von den noch übrigen 2 mittelsten der vorangehende
+ 938 Cen  4  6 10 00 -20 00 5-4 Der nachfolgende noch übrige der vier
+ 939 Cen  5  6 06 10 -25 40 3   Der an der linken, d. i. vorangehenden Schulter
+ 940 Cen  6  6 15 40 -22 30 3   Der an der rechten Schulter
+ 941 Cen  7  6 09 10 -27 30 4   Der am linken Schulterblatt
+ 942 Cen  8  6 18 10 -22 20 4   Von den 4 im Thyrsusstabe der nördlichere der 2 vorangehenden
+ 943 Cen  9  6 19 10 -23 45 4   Der südlichere derselben
+ 944 Cen 10  6 22 00 -18 15 4   Von den noch übrigen 2 der am Ende des Thyrsusstabes
+ 945 Cen 11  6 22 30 -20 50 4   Der noch übrige südlichere als der letztere
+ 946 Cen 12  6 13 20 -28 20 4-3 Von den 3 in der rechten Seite der vorangehende
+ 947 Cen 13  6 14 00 -29 20 4-3 Der mittelste derselben
+ 948 Cen 14  6 15 10 -28 00 4-3 Der nachfolgende der drei
+ 949 Cen 15  6 16 20 -26 30 4-3 Der am rechten Arm
+ 950 Cen 16  6 22 50 -25 15 3   Der am rechten Ellbogen
+ 951 Cen 17  6 27 30 -24 15 4   Der am Ende der rechten Hand
+ 952 Cen 18  6 18 00 -33 30 3-2 Der glänzende am Ansatz des Menschenleibes
+ 953 Cen 19  6 17 40 -31 00 5   Von den 2 schwachen nördlicheren als letzterer der nachfolgende
+ 954 Cen 20  6 16 50 -33 00 5   Der vorangehende derselben
+ 955 Cen 21  6 12 10 -34 50 5   Der am Ansatz des Rückens
+ 956 Cen 22  6 09 00 -37 40 5   Der diesem vorangehende auf dem Pferderücken
+ 957 Cen 23  6 05 50 -40 00 3   Von den 3 an der Hüfte der nachfolgende
+ 958 Cen 24  6 05 00 -43 00 4   Der mittelste derselben
+ 959 Cen 25  6 02 40 -41 00 5   Der vorangehende der drei
+ 960 Cen 26  6 02 40 -46 10 3   Von den 2 am rechten Schenkel dicht beineinander stehenden der vorangehende
+ 961 Cen 27  6 03 20 -46 45 4   Der nachfolgende derselben
+ 962 Cen 28  6 18 20 -40 45 4   Der auf der Brust unter der Achsel des Pferdes
+ 963 Cen 29  6 16 20 -43 00 2   Von den 2 unter dem Bauche der vorangehende
+ 964 Cen 30  6 17 40 -43 45 3   Der nachfolgende derselben
+ 965 Cen 31* 6 10 00 -51 10 2   Der am Bug des rechten (Hinter-) Fußes
+ 966 Cen 32  6 15 20 -51 40 2   Der am Knöchel desselben Fußes
+ 967 Cen 33* 6 06 20 -55 10 4   Der unter dem Bug des linken (Hinter-) Fußes
+ 968 Cen 34* 6 11 10 -55 20 2   Der an der Höhlung des Hufs desselben Fußes
+ 969 Cen 35  7 08 20 -41 10 1   Der am Ende des rechten Vorderfußes
+ 970 Cen 36* 6 24 10 -45 20 2   Der am Knie des linken (Vorder-) Fußes
+ 971 Cen 37  6 14 40 -49 10 4   Der außerhalb unter dem rechten Hinterfuß
+ 972 Lup  1  6 28 00 -24 50 3   Der am Ende des Hinterfußes bei der Hand (κ) des Zentauren
+ 973 Lup  2  6 25 50 -29 10 3   Der am Bug desselben Fußes
+ 974 Lup  3  7 01 00 -21 15 4   Von den 2 am Schulterblatt der vorangehende
+ 975 Lup  4  7 04 10 -21 00 4   Der nachfolgende derselben
+ 976 Lup  5  7 03 00 -25 10 4   Der in der Mitte des Leibes des Wolfes
+ 977 Lup  6  7 00 10 -27 00 5   Der am Bauch unter den Weichen
+ 978 Lup  7  7 00 30 -29 00 5   Der am Schenkel
+ 979 Lup  8  7 04 40 -28 30 5   Von den 2 am Ansatz des Schenkels der nördlichere
+ 980 Lup  9  7 03 40 -30 10 5   Der südlichere derselben
+ 981 Lup 10  7 05 40 -33 10 5   Der am Ende der Hüfte
+ 982 Lup 11  6 22 00 -31 20 5   Von den 3 am Ende des Schwanzes der südliche
+ 983 Lup 12  6 21 50 -30 30 4   Der mittelste der drei
+ 984 Lup 13  6 23 00 -29 20 4-3 Der nördliche derselben
+ 985 Lup 14  7 08 50 -17 00 4   Von den 2 im Nacken der südlichere
+ 986 Lup 15  7 09 20 -15 20 4-3 Der nördlichere derselben
+ 987 Lup 16  7 05 40 -13 20 4   Von den 2 an der Schnauze der vorangehende
+ 988 Lup 17  7 06 40 -11 50 4   Der nachfolgende derselben
+ 989 Lup 18  6 27 10 -11 50 4-3 Von den 2 im Vorderfuß der südlichere
+ 990 Lup 19* 6 26 30 -10 00 4-3 Der nördlichere derselben
+ 991 Ara  1  7 27 40 -22 40 5   Von den 2 an der Basis der nördlichere
+ 992 Ara  2  8 03 00 -25 45 4   Der südlichere derselben
+ 993 Ara  3  7 26 20 -26 30 4-3 Der in der Mitte des kleinen Altars
+ 994 Ara  4  7 20 40 -30 20 5   Von den 3 an der Brandstelle der nördliche
+ 995 Ara  5  7 25 10 -34 10 4-3 Von den übrigen 2 dicht beieinander stehenden der südlichere
+ 996 Ara  6  7 25 00 -33 20 4   Der nördlichere derselben
+ 997 Ara  7  7 20 50 -34 15 4   Der am Ende der Brennröhre
+ 998 CrA  1  8 09 10 -21 30 4   Der außerhalb des südlichen Bogens vorangehende
+ 999 CrA  2  8 11 40 -21 00 5   Der nachfolgende in der Krone selbst
+1000 CrA  3  8 13 10 -23 00 5   Der diesem nachfolgende
+1001 CrA  4  8 14 50 -20 00 4   Der weiter letzterem nachfolgende
+1002 CrA  5  8 16 10 -18 30 5   Der nach diesem vor dem Knie (α) des Schützen
+1003 CrA  6  8 17 00 -17 10 4   Der nach diesem nördlichere als der glänzende (α) am Knie
+1004 CrA  7  8 16 50 -16 00 4   Der nördlichere als dieser
+1005 CrA  8  8 16 30 -15 10 4   Der noch nördlichere als letzterer
+1006 CrA  9  8 15 10 -15 20 6   Von den 2 vorangehenden nach diesem im nördlichen Bogen der nachfolgende
+1007 CrA 10  8 14 40 -14 50 6   Der vorangehende von den 2 schwachen
+1008 CrA 11  8 11 50 -14 40 5   Der letzterem eine geraume Strecke vorangehende
+1009 CrA 12  8 09 40 -15 50 5   Der weiter letzterem vorangehende
+1010 CrA 13  8 09 10 -18 30 5   Der letzte südlichere als der vorgenannte
+1011 PsA  1 10 07 00 -20 20 1   Der am Maule, derselbe wie am Anfang des Wassergusses
+1012 PsA  2 10 00 40 -20 20 4   Von den 3 im südlichen Bogen des Kopfes der vorangehende
+1013 PsA  3 10 04 10 -22 15 4   Der mittelste derselben
+1014 PsA  4 10 05 20 -22 30 4   Der nachfolgende der drei
+1015 PsA  5 10 04 20 -16 15 4-3 Der am Kiemen
+1016 PsA  6  9 25 10 -19 30 5   Der an der südlichen Rückenflosse
+1017 PsA  7 10 01 10 -15 10 5   Von den 2 am Bauch der nachfolgende
+1018 PsA  8  9 28 50 -14 40 4   Der vorangehende derselben
+1019 PsA  9  9 25 10 -15 00 4   Von den 3 in der nördlichen Flosse der nachfolgende
+1020 PsA 10  9 21 50 -16 30 4   Der mittelste derselben
+1021 PsA 11  9 21 00 -18 10 4   Der vorangehende der drei
+1022 PsA 12  9 20 10 -22 15 4   Der am Ende des Schwanzes
+1023 PsA~ 1  9 08 00 -22 20 3-4 Von den dem Fisch vorahgehenden 3 glänzenden der vorangehende
+1024 PsA~ 2  9 11 10 -22 10 3-4 Der mittelste derselben
+1025 PsA~ 3* 9 14 00 -21 10 3-4 Der nachfolgende der drei
+1026 PsA~ 4  9 12 00 -20 50 5   Der diesem vorangehende schwache
+1027 PsA~ 5  9 13 50 -17 00 4   Von den noch übrigen 2 nach Norden der südlichere
+1028 PsA~ 6  9 13 50 -14 50 4   Der nördlichere derselben

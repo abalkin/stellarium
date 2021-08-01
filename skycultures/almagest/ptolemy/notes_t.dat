@@ -1,0 +1,100 @@
+Notes on Toomer's version of Ptolemy's catalogue
+-------------------------------------------------------------------------------
+
+- In descriptions, references to other stars have been converted to the
+  notation <pcon> <pnum> or <pcon>~<pnum> (Ptolemy constellation abbreviation,
+  Ptolemy number within constellation).
+
+- Stars without identification in the file but with identification in the book.
+
+ 191 Per  1 : double cluster Per h (NGC 869), Per chi (NGC 884)
+ 449 Cnc  1 : open cluster Praesepe M44 (NGC 2632)
+
+- Features of the original not captured in the file or otherwise noteworhty
+  [ and their resolution ]
+
+ 147 Her 29 : no data, same star as 96 Boo 9 [ copied data from 96 Boo 9 ]
+ 191 Per  1 : designation is 'CGal 884 + 869'
+ 206 Per 16 : designation Per.72.b as in Peters & Knobel but there is no Per.72
+ 295 Aql~ 1 <
+ ...        | the name 'Antinous' is given to these stars
+ 300 Aql~ 6 >
+ 449 Cnc  1 : designation is 'CGal 2632 (Messier 44)'
+ 567 Sco~ 1 : designation is 'G Sco + CGlo 6441'
+ 849 Nav  1 : Pup.11.e was Bayer's Nav..e, now Pup.11.j
+ 852 Nav  4 : Pup..omi was Bayer's Nav..omi, now Pup..o
+ 859 Nav 11 : no designation -- note says it can be any or any combination of
+              HR.2819, HR.2823, HR.2834 [ retained all ]
+
+  CGal stands for Cumulus Galacticus (Galactic cluster)
+  CGlo stands for Cumulus Globaris (Globular cluster) (note p. 341)
+
+- Differences between Toomer (T) and Manitius (M)
+
+ PNO PID    | LO (T)  LA (T)  MAG | LO (M)  LA (M)  MAG |
+------------+---------------------+---------------------+
+   3 UMi  3 | 2 10 10             | 2 16 00             |
+  42 UMa~ 7 |         + 20 20     |         + 23 00     |
+  61 Dra 18 |         + 83 30     |         + 87 30     |
+  69 Dra 26 | 5 13 00             | 5 10 20             |
+ 129 Her 11 |         + 53 10     |         + 50 40     |
+ 233 Aur 14 |         + 10 20     |         + 16 00     |
+ 268 Ser  6 | 6 23 10             | 6 26 10             |
+ 347 And 13 | 0 01 50             | 0 02 00             |
+ 348 And 14 | 0 02 00             | 0 01 50             |
+ 366 Ari  5 | 0 06 30 + 05 30     | 0 06 50 + 05 50     |
+ 375 Ari~ 1 |         + 10 00     |         + 10 30     |
+ 389 Tau 10 | 1 13 00             | 1 10 20             |
+ 395 Tau 16 | 1 17 10             | 1 17 30             |
+ 405 Tau 26 | 1 08 00             | 1 08 30             |
+ 406 Tau 27 | 1 08 30             | 1 08 00             |
+ 448 Gem~ 7 | 3 00 40             | 3 03 00             |
+ 498 Vir  2 | 4 27 00             | 4 26 00             |
+ 501 Vir  5 |         + 00 10     |         + 00 20     |
+ 502 Vir  6 |         + 01 10     |         + 01 30     |
+ 504 Vir  8 |         + 02 50     |         + 02 30     |
+ 518 Vir 22 |         + 07 30     |         + 07 10     |
+ 559 Sco 14 | 7 20 10             | 7 20 00             |
+ 560 Sco 15 | 7 20 00             | 7 20 10             |
+ 568 Sco~ 2 |                 5-4 |                 5   |
+ 569 Sco~ 3 | 7 29 30             | 7 25 30             |
+ 596 Sgr 27 | 8 26 50             | 8 23 50             |
+ 641 Aqr 13 |         + 03 00     |         + 03 10     |
+ 642 Aqr 14 |         + 03 10     |         + 03 00     |
+ 645 Aqr 17 |         + 00 15     |         - 00 15     |
+ 667 Aqr 39 |         - 14 45     |         - 15 20     |
+ 668 Aqr 40 |         - 15 20     |         - 14 45     |
+ 787 Eri 16 |         - 23 30     |         - 23 20     |
+ 822 CMa  5 | 2 25 20             | 2 21 20             |
+ 852 Nav  4 |         - 46 00     |         - 46 10     |
+ 855 Nav  7 |         - 49 30     |         - 49 45     |
+ 864 Nav 16 |         - 57 45     |         - 57 50     |
+ 918 Hya 25 |         - 17 40     |         - 13 40     |
+ 922 Crt  2 |         - 19 30     |         - 19 20     |
+ 931 Crv  4 | 5 13 30             | 5 13 20             |
+ 933 Crv  6 |         - 11 45     |         - 11 40     |
+ 954 Cen 20 |         - 30 20     |         - 33 00     |
+ 958 Cen 24 |         - 40 20     |         - 43 00     |
+ 961 Cen 27 | 6 03 30             | 6 03 20             |
+------------+---------------------+---------------------+
+
+- Differences between Toomer (T) and VizieR's catalog J/A+A/544/A31 (A)
+
+ PNO PID    | LO (T)  LA (T)      | LO (A)  LA (A)      |
+------------+---------------------+---------------------+
+ 405 Tau 26 | 1 08 00             | 1 08 30             | (1)
+ 406 Tau 27 | 1 08 30             | 1 08 00             | (1)
+ 498 Vir  2 | 4 27 00             | 4 26 00             | (2)
+ 559 Sco 14 | 7 20 10             | 7 20 00             | (3)
+ 560 Sco 15 | 7 20 00             | 7 20 10             | (3)
+ 787 Eri 16 |         - 23 30     |         - 23 20     | (4)
+ 864 Nav 16 |         - 57 45     |         - 57 50     | (5)
+------------+---------------------+---------------------+
+
+(1) longitudes are swapped as in Manitius (Toomer, note 186, p. 363)
+(2) longitude corrected as in Manitius (Toomer, note 225, p. 368)
+(3) longitudes are swapped (Toomer, note 7, p. 372)
+(4) latitude as in Manitius
+(5) latitude as in Manitius but not according to the corrigenda p. xiii
+
+-------------------------------------------------------------------------------

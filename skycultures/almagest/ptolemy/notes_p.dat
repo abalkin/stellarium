@@ -1,0 +1,103 @@
+Notes on Peters & Knobel's version of Ptolemy's catalogue
+-------------------------------------------------------------------------------
+
+- Features of the original not captured in the file or otherwise noteworhty
+  [ and their resolution ]
+
+  Piazzi identifications are written <roman num>.<arabic num>, such as XVI.31,
+  and refer to Giuseppe Piazzi's catalog "Praecipuarum stellarum inerrantium
+  positiones mediae" (Panormi, 1814).
+
+  Hev. identifiers refer sometimes to Flamsteed's edition of Hevelius's catalog
+  in "Historia Coelestis Britannica", Vol. 3 (London, 1725, pp. 45--76), and
+  sometimes to Hevelius's own version in "Prodromus Astronomiæ" (Gdansk, 1660,
+  pp. 143--268), as specified below.
+
+  Lac. identifiers refer to "A catalogue of 9766 stars in the southern
+  hemisphere ...", London: Taylor, 1847 based on Lacaille's observations,
+  reduced and published under the direction of Francis Baily.
+
+  LL. identifiers refer to "A Catalogue of Those Stars in the Histoire Céleste
+  Française of Jérôme Delalande, ...", London: Richard & John E. Taylor, 1847
+  reduced under the direction Francis Baily.
+
+  W. identifiers refer to the catalog by Maksymilian Weisse, "Positiones mediae
+  stellarum fixarum in zonis regiomontanis a Besselio inter -15° et +15°
+  declinationis observatarum, ad annum 1825 reductae et in catalogum
+  ordinatae", Petropoli: Typis Academiæ Scientiarum, 1846.
+
+  42 UMa~ 7 : Lyn..36 and VIII.245 are distinct stars
+ 184 Cas  7 : name '35 Hev.' refers to Flamsteed's version
+ 191 Per  1 : '(cum)' in name Per.7.chi
+ 196 Per  6 : name '18 Hev.' refers to Flamsteed's version
+ 206 Per 16 : name has Per.72.b but there is no Per.72
+              name '21 Hev.' refers to Hevelius's version
+ 218 Per~ 2 : name '14 Hev.' refers to Hevelius's version
+ 251 Oph 18 : '?' in name between Oph.52 and Sgr.2
+ 274 Ser 12 : '?' in latitude
+ 355 And 21 : 'A' in name And.49.A looks like capital lambda [ retained A ]
+ 409 Tau 30 : name has 'Taygeta'
+ 410 Tau 31 : name has 'Merope'
+ 411 Tau 32 : name has 'Atlas'
+ 482 Leo 21 : '?' in name and two latitudes are given
+ 482        < alignment of Baily numbers to Ptolemy numbers
+ ...        | is off due to 482
+ 488        > having two latitudes [ rectified alignment ]
+ 509 Vir 13 : '?' in latitude
+ 542 Lib~ 6 : unresolved name '0h Arg. 14782'
+ 595 Sgr 26 : XIX.330 and XIX.333 correspond to Sgr..the, not Sgr..kap
+              (confusion with Lacaille's Sgr.K ?) [ retained Sgr..the ]
+ 639 Aqr 11 : 'dup' in name Aqr.55.zet
+ 651 Aqr 23 : '?' in name Aqr.63.kap
+ 683 Psc 10 : 'dup' in name Psc.51
+ 686 Psc 13 : 'dup' in name Psc.86.zet
+ 692 Psc 19 : 'dup' in name Psc.113.alp
+ 701 Psc 28 : 'dup' in name Psc.65.i
+ 702 Psc 29 : 'dup' in name Psc.74.psi.1
+ 716 Cet  5 : '?' in name
+ 717 Cet  6 : '?' in name
+ 734 Ori  1 : 'dup' in name Ori.29.lam
+ 740 Ori  7 : note says that the star is called double due to
+              LL.11748 (HR.2191) and LL.11884 (HR.2222) in the vicinity
+ 761 Ori 28 : 'dup' in name Ori.50.zet
+ 788 Eri 17 : '?' in name
+ 805 Eri 34 : 'dup' in name Eri..the, II.238, II.239
+ 849 Nav  1 : Nav.11.e was Bayer's Nav..e, now Pup.11.j
+ 854 Nav  6 : 'dup' in name VII.175
+ 859 Nav 11 : 'group' in name VII.99, VII.108
+ 865 Nav 17 : note speaks of the group VII.102, VII.108, VII.113 which relates
+              to 859 Nav 11, not this one
+ 867 Nav 19 : name 'Lac. 3128'
+ 870 Nav 22 : name 'Lac. 3580'
+ 882 Nav 34 : VII.235 is not Pup..P [ retained both ]
+ 885 Nav 37 : name is Pup..omi or Pup..o but should be Vel..omi
+ 904 Hya 11 : name LL.18657 (HR.3750) and W.9h439
+ 955 Cen 21 : 'cum' in name Cen..ome
+ 978 Lup  7 : XV.242 is not Lup..pi and way off [ retained Lup..pi ]
+ 982 Lup 11 : '?' in name Lup..rho and three latitudes are given
+ 990 Lup 19 : '?' in longitude
+1000 CrA  3 : name 'Lac. 7909'
+1009 CrA 12 : name 'Lac. 7748'
+
+- Stars without identification in the original.
+
+ 482 Leo 21 :
+ 542 Lib~ 6 :
+ 716 Cet  5 :
+ 717 Cet  6 :
+ 788 Eri 17 :
+ 904 Hya 11 :
+
+- Unresolved identifications.
+
+546 Lib~ 6 : 0h Arg. 14782
+
+- Comments on "Differences in identification" table p. 116
+
+ 755 Ori 22 : erroneously numbered Ori 23
+ 756 Ori 23 : erroneously numbered Ori 24
+ 875 Nav 27 : refers to Herschel's constellation Malus
+ 885 Nav 37 : erroneous identification Pup..omi for Vel..omi is repeated here
+ 887 Nav 39 : Baily's identification is nu, not ups
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+Notes on Halma's version of Ptolemy's catalog
+-------------------------------------------------------------------------------
+
+- The catalog does not have any explicit numbering.  Numberings compatible with
+  the other versions have been added for convenience.
+
+- In this version, as in Baily's, the magnitude values are all given as
+  integers.  The qualifiers μείζων (greater) and ἐλάσσων (smaller) from the
+  original and captured in other versions have been discarded (Baily, p. 14).
+
+- Features of the orginal [ and their resolution ]
+
+   147 Her 29 : no data, but note that it is the same star as 96 Boo 9 [ copied data from 96 Boo 9 ]
+   766 Ori 33 : LA degrees -1 instead of -31 ?
+   767 Ori 34 : LA degrees -1 instead of -31 ?
+   775 Eri  4 : unusual LO fraction 1/5
+   805 Eri 34 : alternative LO and LA marked 'incertaine'
+   909 Hya 16 : LA sign O instead of A [ fixed ]
+   917 Hya 24 : no LO degrees
+   964 Cen 30 : magnitude is blank
+
+- Features of the original related to star descriptions
+
+              : 'aile' (wing) is sometimes spelled 'aîle' [ kept both spellings ]
+   141 Her 23 : 'cuisse' is misspelled 'cnisse' [ fixed ]
+   581 Sgr 12 : 'méridionale' is followed by an unnecessary period [ fixed ]
+   593 Sgr 24 : 'genou' is misspelled 'geuou' [ fixed ]
+   598 Sgr 29 : 'du' is misspelled 'dn' [ fixed ]
+   599 Sgr 30 : 'occidentale' is misspelled 'occidental' [ fixed ]
+   670 Aqr 42 : 'dernière' is abbreviated 'd^{re}' [ used the full word ]
+   789 Eri 18 : 'fleuve' in abbreviated 'fl^{ve}' [ used the full word ]
+   794 Eri 23 : 'occidental' is misspelled 'occidentale' [ fixed ]
+   813 Lep  8 : 'ς᾽ after the description [ dropped ]
+   815 Lep 10 : 'entr'elles' is misspelled 'entrelles' [ fixed ]
+   965 Cen 31 : 'cou-de-pied' is misspelled 'coude-pied' [ fixed ]
+  1016 PsA  6 : 'dorsale' is misspelled 'd'orsale' [ fixed ]
+  1022 PsA 12 : 'extrémité' is misspelled 'extremité' [ fixed ]
+
+- Alternative longitude or latitude values have been completed even when only
+  sign, degrees or minutes are given.
+
+  PNO  PID   |LO       LA    |
+  ----+------+--------+------+
+     3 UMi  3|.. 10 30       |
+     6 UMi  6|.. .. 20       |
+    13 UMa  5|.. 27 ..       |
+    14 UMa  6|.. .. 30       |
+    15 UMa  7|         .43 ..|
+    29 UMa 21|.. 24 ..       |
+   212 Per 22|         .21 ..|
+   341 And  7|.. 19 ..       |
+   805 Eri 34|11 27 30       |
+  ----+------+--------+------+

@@ -1,0 +1,73 @@
+Notes on Baily's version of Ptolemy's catalogue
+-------------------------------------------------------------------------------
+
+- Additional Piazzi and Lacaille identifications from Baily's notes were
+  captured in the file when they are definite.
+
+  Piazzi identifications are written <roman num>.<arabic num>, such as XVI.31,
+  and refer to Giuseppe Piazzi's catalog "Praecipuarum stellarum inerrantium
+  positiones mediae" (Panormi, 1814).
+  <https://books.google.com/books?id=c40RAAAAYAAJ>
+
+  Lacaille identifications are written CA.<num>, such as CA.1354, and refer to
+  Nicolas-Louis de Lacaille's catalog of 1942 stars of the Southern hemisphere
+  in "Coelum Australe Stelliferum" (Paris, 1763).
+  <https://books.google.com/books?id=ijEVAAAAQAAJ>
+
+- In this version, as in Halma's, the magnitude values are all given as
+  integers.  The qualifiers μείζων (greater) and ἐλάσσων (smaller) from the
+  original and captured in other versions have been discarded because of the
+  inconsistency between the various editions in this respect (Baily, p. 14).
+
+- Features of the original not captured in the file
+
+ 457 Cnc  9 : '?' in name Cnc.17.bet
+ 517 Vir 21 : '?' in name Vir.90.p
+ 604 Cap  4 : '?' in name Cap.2.xi.2
+ 648 Aqr 20 : '?' in name Aqr.53
+ 651 Aqr 23 : '?' in name Aqr.67
+ 658 Aqr 30 : '?' in name Aqr.94
+
+- Typos and other notable features
+
+ 426 Gem  3 : note mentions Tau.34 instead of Gem.34 (typo)
+ 670 Aqr 42 : has a different latitude 20:20 from 1011 PsA 1 even though they
+              are the same star
+ 749 Ori 16 : name has Ori.20 instead of Ori.30 for Ori..psi.2 [ kept Ori.20 ]
+ 828 CMa 11 : 'ὀ' instead of 'ὁ' (presumably) in description [ fixed ]
+ 968 Cen 34 : maybe confusion zet/xi [ left as is ] between
+              Bayer Cen..zet = CA.1027 = Cen..C.3 instead of
+              Bayer Cen..xi  = CA.1082 = Cen..alp.1/2
+              (Cen 32 is already associated with Cen..xi)
+ 969 Cen 35 : zodiac sign is Vir (5) but should be Sco (7) (the symbols are
+              easily confused) [ fixed ]
+1011 PsA  1 : has a different latitude 23:00 from 670 Aqr 42 even though they
+              are the same star
+1015 PsA  5 : name has PsA.20 instead of PsA.18 for PsA..eps [ kept PsA.20 ]
+
+- Additional identification information from Baily's notes
+
+ 246 Oph 13 : maybe Oph.40 or Kepler's stella nova of 1604
+ 460 Cnc~ 3 < should swap latitudes
+ 461 Cnc~ 4 > for better match
+ 528 Vir~ 6 : Vir.87 or Vir.89 if longitude is 5°0'
+ 920 Hya~ 2 : no match except maybe Sex.2
+
+- Stars without identification in the original.
+
+  41 UMa~ 6 :
+  42 UMa~ 7 :
+ 148 Her~ 1 :
+ 494 Leo~ 6 :
+ 730 Cet 19 :
+ 920 Hya~ 2 :
+ 963 Cen 29 :
+1027 PsA~ 5 :
+
+- Stars with unresolved identifications.
+
+ 788 Eri 17 : Bayer's lost star Eri.sig
+1001 CrA  4 : Bayer's CrA.bet, Brisbane 6530
+1025 PsA~ 3 : probably Brisbane 7020
+
+-------------------------------------------------------------------------------

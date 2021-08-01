@@ -1,0 +1,104 @@
+Notes on Manitius's version of Ptolemy's catalog
+-------------------------------------------------------------------------------
+
+- The global numbering from Baily's version has been added to the file for
+  convenience.
+
+- The catalog does not restart the numbering by constellation at 1 for informes
+  stars.  The file does, for compatibility with the other versions.  The
+  conversion is easy, knowing the number of the first informis in each
+  constellation from the following table:
+    UMi  8 | UMa 28 | Cep 12 | Boo 23 | Her 30 | Cyg 18 | Per 27 | Oph 25
+    Aql 10 | Ari 14 | Tau 34 | Gem 19 | Cnc 10 | Leo 28 | Vir 27 | Lib  9
+    Sco 22 | Aqr 43 | Psc 35 | CMa 19 | Hya 26 | PsA 13
+
+- The 'H' identifiers correspond to Heis's catalog (note (4) p. 400).
+  Eduard Heis, "Atlas Coelestis Novus" (Cöln, 1872).
+  https://archive.org/details/atlascoelestisn00heisgoog
+
+  The Ambronn identifiers correspond to
+  J. Ambronn & R. Ambronn (Dr. L. Ambronn, Ed.),
+  "Sternverzeichnis Enthaltend Alle Sterne bis zur 6.5ten Grösse für das
+  Jahr 1900.0" (Berlin: Springer, 1907).
+
+- Features of the original not captured in the file or otherwise noteworhty
+  [ and their resolution ]
+
+ 147 Her 29 : no data, same star as 96 Boo 9 [ copied data from 96 Boo 9 ]
+ 191 Per  1 : name is Per..h (Bayer nebulosity NGC 869)
+ 218 Per~ 2 : name is Heis 34 Cam
+ 345 And 11 : longitude unreadable, assuming 25° according to other versions
+ 401 Tau 22 : the ups.2 from Heis 101 Tau, should be ups [ kept ups.2 ]
+ 412 Tau 33 : name is Heis 38
+ 544 Lib~ 8 : name is Heis 2 Sco
+ 658 Aqr 30 : name is Heis 131
+ 707 Psc 34 : name is Heis 99
+ 662 Aqr 34 : iot.1 most likely confused with i.1 [ kept iot.1 ]
+ 663 Aqr 35 : iot.2 most likely confused with i.2 [ kept iot.2 ]
+ 800 Eri 29 : Eri..d (Lacaille) is now Eri.43.ups.3 (Argelander)
+ 802 Eri 31 : Eri..ups.5 (Bevis) is now Eri..i (Lacaille)
+ 849 Nav  1 : Pup..e   instead of Arg..e (Pup.11.j)
+ 850 Nav  2 : Pup..iot instead of Arg..iot (Pup.15.rho)
+ 852 Nav  4 : Pup..omi instead of Arg..omi (Pup..o)
+ 854 Nav  6 : Pup..kap instead of Arg..kap (Pup..k)
+ 855 Nav  7 : Pup..rho instead of Arg..rho (Pup..p)
+ 856 Nav  8 : Pup..tau instead of Arg..tau (Pup.3.l)
+ 857 Nav  9 : name is Heis 17 (or 47 ?) Arg but neither is a very good match
+ 858 Nav 10 : Pup..chi instead of Arg..chi
+ 859 Nav 11 : name is Heis 3 Arg
+ 890 Nav 42 : 'd. i.' written 'd i.' [ fixed ]
+ 908 Hya 15 : the lam.2 from Heis 91 Hya, should be lam [ kept lam.2 ]
+ 920 Hya~ 2 : name looks like 'del Sit.' [ assumed del Sex ]
+ 945 Cen 11 : name is c.9 most likely a typo for c.2 [ kept c.9 ]
+1011 PsA  1 : is numbered 0 (it is a duplicate star) and the numbering of the
+              rest of PsA is off with respect to the other versions [ used the
+              compatible numbering ]
+
+- Stars without identification in the original.
+
+  98 Boo 11 :
+ 866 Nav 18 :
+ 867 Nav 19 :
+ 881 Nav 33 :
+ 882 Nav 34 :
+ 960 Cen 26 :
+ 961 Cen 27 :
+ 968 Cen 34 :
+ 971 Cen 37 :
+1027 PsA~ 5 :
+1028 PsA~ 6 :
+
+- Stars with unresolved identifications.
+
+1000 CrA  3 : Ambronn 6062
+1007 CrA 10 : Ambronn 6094
+
+- Differences between Manitius (M) and VizieR's catalog V/61 (V)
+
+ BN  PID    | LO (M)  LA (M)  MAG | LO (V)  LA (V)  MAG |
+------------+---------------------+---------------------+
+ 305 Del  5 |         + 33 50     |         + 33 00     |
+ 505 Vir  9 |  171 00             |  161 00             |
+ 703 Psc 30 |  356 20             |  256 20             |
+------------+---------------------+---------------------+
+
+- Differences between Manitius (M) and John Pratt's version (J)
+  (http://www.johnpratt.com/items/astronomy/ptolemy_stars.csv)
+
+ BN  PID    | LO (M)  LA (M)  MAG | LO (J)  LA (J)  MAG |
+------------+---------------------+---------------------+
+  40 UMa~ 5 |                 obs |                 6   |
+  41 UMa~ 6 |                 obs |                 6   |
+  42 UMa~ 7 |                 obs |                 6   |
+  43 UMa~ 8 |                 obs |                 6   |
+ 219 Per~ 3 |                 obs |                 6   |
+ 305 Del  5 |         + 33 50     |         + 33 00     |
+ 311 Equ  1 |                 obs |                 6   |
+ 312 Equ  2 |                 obs |                 6   |
+ 313 Equ  3 |                 obs |                 6   |
+ 314 Equ  4 |                 obs |                 6   |
+ 494 Leo~ 6 |                 obs |                 6   |
+ 495 Leo~ 7 |                 obs |                 6   |
+ 496 Leo~ 8 |                 obs |                 6   |
+ 568 Sco~ 2 |                 5   |                 5-4 |
+------------+---------------------+---------------------+

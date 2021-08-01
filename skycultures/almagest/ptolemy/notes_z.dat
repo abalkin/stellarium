@@ -1,0 +1,243 @@
+Notes on Flamsteed's version of Ptolemy's catalog
+-------------------------------------------------------------------------------
+
+- The global numbering from Baily's version has been added to the file for
+  convenience.
+
+- The descriptions use abbreviations
+  + of 'quadrilaterus' or 'quadratum' by a square [ used {quad} ]
+    (6, 24, 53, 306, 450, 452, 512, 597, 708, 719, 728, 730, 740)
+  + of 'triangulum' by a triangle [ used {tri} ]
+    (57, 58, 60, 63, 914 )
+  + of Piscis by the zodiac sign [ used {psc} ]
+    (708)
+
+- Other features of the orginal [ and their resolution ]
+  (even if erroneous values are kept in the file, the maps may correct them
+  according to the suggested assumptions)
+
+   8 UMi~ 1 : letter a for UMi.5 in Fl.'s catalog
+            : magnitude unreadable [ assume 4 ]
+  17 UMa  9 : letter unreadable [ assume ups based on Flamsteed's catalog ]
+  66 Dra 23 : letter h assumed to correspond to Dra.19 and Dra.20
+  98 Boo 11 : letter psi shared with 100 Boo 13 (error ?)
+ 132 Her 14 : letter c for Her.61 in Fl.'s catalog
+ 138 Her 20 : letter kap is a typo for x (also in Fl.'s catalog)
+ 147 Her 29 : same position as 96 Boo 9 but no identifier
+ 247 Oph 14 : letter rho shared with 257 Oph 24
+              (should be xi as corrected by Baily in Fl.'s catalog)
+ 233 Aur 14 : letter m doesn't exist in Aur (?)
+ 400 Tau 21 : no coordinates [ copied them from 230 Aur 11 ]
+ 409 Tau 30 : letter d for Tau.23 in Fl.'s catalog
+ 411 Tau 32 : letter o without reasonable interpretation even in Fl.'s catalog
+              (assume typo for c) [ kept o ]
+              letter c for Tau.20 in Fl.'s catalog
+ 412 Tau 33 : letter f for Tau.27 in Fl.'s catalog
+ 445 Gem~ 4 : letter l for Gem.85 in Fl.'s catalog
+ 464 Leo  3 : swapped coordinates and label Leo.17.eps with 465 Leo 4
+ 465 Leo  4 : swapped coordinates and label Leo.24.mu with 465 Leo 3
+              compared to other versions
+ 478 Leo 17 : letter K is a typo for k (also in Fl.'s catalog)
+ 495 Leo~ 7 : letter h and description 'In .. Comæ' for Com.7 in Fl.'s catalog
+ 525 Vir~ 3 : letter g for Vir.49 in Fl.'s catalog
+ 563 Sco 18 : letter r doesn't exist in Sco (typo for iot ?)
+ 598 Sgr 29 : letter a for Sgr.60.A in Fl.'s catalog, not Sgr.7
+ 625 Cap 25 : letter d for Cap.42 & Cap.44 in Fl.'s catalog
+ 628 Cap 28 : letter o doesn't exist in Cap (assume typo for c) [ kept o ]
+ 661 Aqr 33 < letter A interpreted according to Ptolemy number assigments in
+ 662 Aqr 34 | Flamsteed's catalog
+ 663 Aqr 35 > (see Wagman for Flamsteed's confusion about Aqr..A)
+ 667 Aqr 39 <
+ 668 Aqr 40 | letter c interpreted according to Fl.'s catalog
+ 669 Aqr 41 >
+ 670 Aqr 42 : same position as 1011 PsA 1 but no identifier
+ 671 Aqr~ 1 : letter g for Cet.2 in Fl.'s catalog
+ 672 Aqr~ 2 : letter f for Cet.6 in Fl.'s catalog
+ 673 Aqr~ 3 : letter h for Cet.7 in Fl.'s catalog
+ 714 Cet  3 : letter unreadable if any [ left blank ]
+ 716 Cet  5 : letter unreadable if any [ left blank ]
+ 721 Cet 10 : letter barely readable [ assumed eps ]
+ 729 Cet 18 : letter phi interpreted according to Fl.'s catalog
+ 745 Ori 12 : letter chi interpreted according to Fl.'s catalog
+ 746 Ori 13 : magnitude unreadable [ assumed 4 as in other versions ]
+ 747 Ori 14 : letter ome interpreted according to Fl.'s catalog
+              (see Wagman on Ori..n)
+ 753 Ori 20 < indices in pi.1 and pi.2 interpreted as in Fl.'s catalog but
+ 754 Ori 21 > should be swapped
+ 773 Eri  2 : letter h is a typo for bet (also in Fl.'s catalog)
+ 788 Eri 17 : unresolved letter sig (Bayer lost star)
+ 818 CMa  1 : letter unreadable [ assumed alp ]
+ 823 CMa  6 : letter pi interpreted as in Fl.'s catalog
+ 850 Nav  2 : Bayer letter b corresponds to Vel..kap (Baily) but doesn't match
+ 859 Nav 11 : letter barely readable [ assumed ups ]
+ 864 Nav 16 : letter chi duplicated by error on Bayer's map, should be xi
+              (see Baily's note), this is Pup..b
+ 865 Nav 17 : Bayer letter bet unresolved
+ 904 Hya 11 : letter A interpreted as in Fl.'s catalog
+ 907 Hya 14 : letter 'seq. ad kap' interpreted as Hya.39.ups.1 [ kept kap ]
+ 926 Crt  6 : zodiac sign Virgo is missing, affecting the longitudes of all the
+              stars from 926 Crt 6 to 934 Crv 7 [ fixed ]
+ 942 Cen  8 : 'Thyrso' is misspelled (?) 'Thryso' [ left as is ]
+ 944 Cen 10 : 'Thyrso' is misspelled (?) 'Thryso' [ left as is ]
+ 964 Cen 30 : magnitude unreadable or missing [ left blank ]
+ 988 Lup 17 : latitude unreadable [ assuming 11° as in other versions ]
+1001 CrA  4 : Bayer letter bet unresolved
+
+- Stars with unresolved identification.
+
+ 233 Aur 14 : Aur m
+ 563 Sco 18 : Sco r
+ 788 Eri 17 : Eri sig
+ 865 Nav 17 : Nav bet
+1001 CrA  4 : CrA bet
+
+- Stars without identification in the original.
+
+  36 UMa~ 1 :
+  37 UMa~ 2 :
+  38 UMa~ 3 :
+  39 UMa~ 4 :
+  40 UMa~ 5 :
+  41 UMa~ 6 :
+  42 UMa~ 7 :
+  43 UMa~ 8 :
+  63 Dra 20 :
+  86 Cep~ 1 :
+  87 Cep~ 2 :
+ 147 Her 29 :
+ 148 Her~ 1 :
+ 217 Per~ 1 :
+ 218 Per~ 2 :
+ 219 Per~ 3 :
+ 249 Oph 16 :
+ 250 Oph 17 :
+ 251 Oph 18 :
+ 258 Oph~ 1 :
+ 259 Oph~ 2 :
+ 260 Oph~ 3 :
+ 261 Oph~ 4 :
+ 262 Oph~ 5 :
+ 376 Ari~ 2 :
+ 377 Ari~ 3 :
+ 378 Ari~ 4 :
+ 379 Ari~ 5 :
+ 400 Tau 21 :
+ 413 Tau~ 1 :
+ 415 Tau~ 3 :
+ 417 Tau~ 5 :
+ 418 Tau~ 6 :
+ 419 Tau~ 7 :
+ 420 Tau~ 8 :
+ 421 Tau~ 9 :
+ 422 Tau~10 :
+ 423 Tau~11 :
+ 432 Gem  9 :
+ 443 Gem~ 2 :
+ 444 Gem~ 3 :
+ 448 Gem~ 7 :
+ 489 Leo~ 1 :
+ 490 Leo~ 2 :
+ 494 Leo~ 6 :
+ 496 Leo~ 8 :
+ 515 Vir 19 :
+ 516 Vir 20 :
+ 526 Vir~ 4 :
+ 527 Vir~ 5 :
+ 528 Vir~ 6 :
+ 538 Lib~ 2 :
+ 542 Lib~ 6 :
+ 544 Lib~ 8 :
+ 545 Lib~ 9 :
+ 567 Sco~ 1 :
+ 568 Sco~ 2 :
+ 569 Sco~ 3 :
+ 601 Cap  1 :
+ 658 Aqr 30 :
+ 664 Aqr 36 :
+ 670 Aqr 42 :
+ 683 Psc 10 :
+ 708 Psc~ 1 :
+ 709 Psc~ 2 :
+ 710 Psc~ 3 :
+ 711 Psc~ 4 :
+ 714 Cet  3 :
+ 716 Cet  5 :
+ 728 Cet 17 :
+ 730 Cet 19 :
+ 731 Cet 20 :
+ 755 Ori 22 :
+ 756 Ori 23 :
+ 757 Ori 24 :
+ 758 Ori 25 :
+ 791 Eri 20 :
+ 792 Eri 21 :
+ 793 Eri 22 :
+ 794 Eri 23 :
+ 795 Eri 24 :
+ 796 Eri 25 :
+ 797 Eri 26 :
+ 800 Eri 29 :
+ 801 Eri 30 :
+ 802 Eri 31 :
+ 803 Eri 32 :
+ 804 Eri 33 :
+ 836 CMa~ 1 :
+ 837 CMa~ 2 :
+ 838 CMa~ 3 :
+ 839 CMa~ 4 :
+ 841 CMa~ 6 :
+ 842 CMa~ 7 :
+ 843 CMa~ 8 :
+ 844 CMa~ 9 :
+ 845 CMa~10 :
+ 846 CMa~11 :
+ 850 Nav  2 :
+ 858 Nav 10 :
+ 866 Nav 18 :
+ 867 Nav 19 :
+ 868 Nav 20 :
+ 869 Nav 21 :
+ 870 Nav 22 :
+ 871 Nav 23 :
+ 872 Nav 24 :
+ 873 Nav 25 :
+ 874 Nav 26 :
+ 879 Nav 31 :
+ 880 Nav 32 :
+ 881 Nav 33 :
+ 882 Nav 34 :
+ 883 Nav 35 :
+ 884 Nav 36 :
+ 885 Nav 37 :
+ 886 Nav 38 :
+ 887 Nav 39 :
+ 888 Nav 40 :
+ 889 Nav 41 :
+ 890 Nav 42 :
+ 891 Nav 43 :
+ 892 Nav 44 :
+ 893 Nav 45 :
+ 919 Hya~ 1 :
+ 920 Hya~ 2 :
+ 966 Cen 32 :
+ 967 Cen 33 :
+ 968 Cen 34 :
+ 969 Cen 35 :
+ 970 Cen 36 :
+ 971 Cen 37 :
+ 991 Ara  1 :
+ 992 Ara  2 :
+ 993 Ara  3 :
+ 994 Ara  4 :
+ 995 Ara  5 :
+ 996 Ara  6 :
+ 997 Ara  7 :
+1022 PsA 12 :
+1023 PsA~ 1 :
+1024 PsA~ 2 :
+1025 PsA~ 3 :
+1026 PsA~ 4 :
+1027 PsA~ 5 :
+1028 PsA~ 6 :
+
+-------------------------------------------------------------------------------

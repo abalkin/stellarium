@@ -1,0 +1,1031 @@
+   1 UMi  1  2 00 10 +66 00 3   Quæ est in extremitate caudæ
+   2 UMi  2  2 02 30 +70 00 4   Quæ post ipsam in cauda est
+   3 UMi  3  2 10*10 +74 20 4   Quæ post istam prope radicem caudæ
+   4 UMi  4  2 29 40 +75 40 4   Australis stella præcedentis lateris figuræ quadrilateræ
+   5 UMi  5  3 03 40 +77 40 4   Borealis ejusdem lateris
+   6 UMi  6  3 17*10 +72 50 2   Australis earum quæ in sequenti latere sunt
+   7 UMi  7  3 26 10 +74 50 2   Borealis ejusdem lateris
+   8 UMi~ 1  3 13 00 +71 10 4   Australissima extra figuram in recta sequentis lateris
+   9 UMa  1  2 25 20 +39 50 4   Quæ est in extremitate rictus
+  10 UMa  2  2 25 50 +43 00 5   Præcedens earum quæ in duobus oculis sunt
+  11 UMa  3  2 26 20 +43 00 5   Sequens earum
+  12 UMa  4  2 26*10 +47 10 5   Præcedens earum quæ in fronte sunt
+  13 UMa  5  2 27*40 +47 00 5   Sequens earum
+  14 UMa  6  2 28 10 +50 30 5   Quæ in extremitate præcedentis auris est
+  15 UMa  7  3 00 30 +43 50 4   Præcedens earum quæ in collo sunt
+  16 UMa  8  3 02 30 +44 20 4   Sequens earum
+  17 UMa  9  3 09 00 +42 00 4   Borealior de duabus quæ in pectore sunt
+  18 UMa 10  3 11 00 +37*15 4-5 Australior ipsarum
+  19 UMa 11  3 10 40 +35 00 3   Quæ in genu sinistro est
+  20 UMa 12  3 05 30 +29 20 3   Borealis earum quæ in anterioris extremitate pedis sinistri sunt
+  21 UMa 13  3 06 20 +28 20 3   Australior ipsarum
+  22 UMa 14  3 05 40 +36 00 4   Quæ supra genu dextrum est
+  23 UMa 15  3 05 50 +33 00 4   Quæ infra genu dextrum est
+  24 UMa 16  3 17 40 +49 00 2   Earum quæ sunt in quadrilatera figura, illa in dorso est
+  25 UMa 17  3 22*10 +44 30 2   Quæ de istis in ursæ latere est
+  26 UMa 18  4 03*10 +51 00 3   Quæ in radice caudæ
+  27 UMa 19  4 03 00 +46 30 2   Reliqua quæ est in posteriori sinistra coxa
+  28 UMa 20  3 22 40 +29 20 3   Præcedens earum quæ in extremitate posteriorum sinistri pedis sunt
+  29 UMa 21  3 24 10 +28 15 3   Quæ istam sequitur
+  30 UMa 22  4 01 40 +35 15 4-3 Quæ est in poplite sinistro
+  31 UMa 23  4 09 50 +25 50 3   Borealium earum quæ in extremitate posterioris dextri pedis sunt
+  32 UMa 24  4 10 20 +25 00 3   Australior earum
+  33 UMa 25  4 12 10 +53 30 2   De tribus in cauda locatarum, prima post caudæ radicem
+  34 UMa 26  4 18 00 +55 40 2   Media ipsarum
+  35 UMa 27  4 29 50 +54 00 2   Tertia, et in ipsa extremitate caudæ
+  36 UMa~ 1  4 27 50 +39 45 3   Quæ sub cauda procul ad austrum est
+  37 UMa~ 2  4 20 10 +41 20 5   Quæ istam præcedit obscurior
+  38 UMa~ 3  3 15 00 +17 15 4   Australior quæ inter anteriores ursæ pedes et caput Leonis est
+  39 UMa~ 4  3 13 20 +19 10 4   Borealior hac
+  40 UMa~ 5  3 16 10 +20 00 obs Sequens reliquarum trium obscurarum
+  41 UMa~ 6  3 15*10 +22*45 obs Præcedens istam
+  42 UMa~ 7  3 11 10 +20*20 obs Hanc etiam præcedens
+  43 UMa~ 8  3 00 00 +22 15 obs Quæ inter anteriores pedes et Geminos est
+  44 Dra  1  6 26 40 +76 30 4   Quæ in lingua draconis est
+  45 Dra  2  7 11 50 +78 30 4-3 Quæ in ore est
+  46 Dra  3  7 13 10 +75 40 3   Quæ supra oculum
+  47 Dra  4  7 27 20 +80 20 4   Quæ in maxilla
+  48 Dra  5  7 29 40 +75 30 3   Quæ supra caput
+  49 Dra  6  8 24 40 +82 20 4   Borealis de tribus quæ sunt in recta linea et in prima flexione colli
+  50 Dra  7  9 02 20 +78 15 4   Australis ipsarum
+  51 Dra  8  8 28 50 +80 20 4   Media ipsarum
+  52 Dra  9  9 19 30 +81 10 4   Sequens istas versus ortum
+  53 Dra 10 11 08 00 +81 40 4   Quæ in sequenti fluxu est, australior earum quæ sunt in præcedente latere quadrilateræ
+  54 Dra 11 11 20 30 +83 00 4   Borealior earum quæ sunt in antecedente latere
+  55 Dra 12  0 07 40 +78 50 4   Borealis earum quæ sunt in latere sequente
+  56 Dra 13 11 22 50 +77 50 4   Australis lateris sequentis
+  57 Dra 14  0 10 40 +80 30 5   Australis sequenti fluxu, trianguli
+  58 Dra 15  0 21 40 +81*40 5   Præcedens de reliquis duabus trianguli
+  59 Dra 16  0 26 10 +80 15 5   Sequens de ipsis
+  60 Dra 17  2 13 20 +84 30 4   Sequens de tribus quæ in antecedente deinceps triangulo sunt
+  61 Dra 18  1 20 20 +83 30 4   Australis de reliquis duabus trianguli
+  62 Dra 19  1 11 50 +84 50 4   Borealior reliquis duabus
+  63 Dra 20  3 28 40 +87 30 6   Quæ de duabus parvis ad occidentalem partem trianguli sequitur
+  64 Dra 21  3 21 40 +86 50 6   Præcedens de ipsis
+  65 Dra 22  5 09 00 +81 15 5   Australior de tribus quæ deinceps per rectam lineam sunt
+  66 Dra 23  5 09 20 +83 00 5   Media ipsarum
+  67 Dra 24  5 08 20 +84 50 3   Borealior ipsarum
+  68 Dra 25  5 10 00 +78 00 3   Borealior duarum quæ deinceps ad occasum sunt
+  69 Dra 26  5 13 00 +74 40 4-3 Australior ipsarum
+  70 Dra 27  5 12 40 +70 00 3   Quæ de istis in flexu caudæ ad occasum est
+  71 Dra 28  4 07 20 +64 40 4   Præcedens de duabus satis ab ista distantibus
+  72 Dra 29  4 11 10 +65 30 3   Quæ ipsas sequitur
+  73 Dra 30  3 19 10 +61 15 3   Quæ istis prope caudam adhæret
+  74 Dra 31  3 13 10 +56 15 3   Reliqua quæ in extremitate caudæ est
+  75 Cep  1  1 05*00 +75 40 4   Quæ in pede dextro est
+  76 Cep  2  1 03 00 +64 15 4   Quæ in pede sinistro
+  77 Cep  3  0 07 20 +71 10 4   Quæ ad cingulum est in dextro latere
+  78 Cep  4 11 16 40 +69 00 3   Quæ super dextrum humerum est tangens ipsum
+  79 Cep  5 11 09 20 +72 00 4   Quæ supra dextrum cubitum tangens ipsum
+  80 Cep  6 11 10 00 +74 00 4   Quæ sub hoc cubito ipsum quoque tangens
+  81 Cep  7 11 28 30 +65 30 5   Quæ in pectore
+  82 Cep  8  0 07 30 +62 30 4-3 Quæ in sinistro brachio
+  83 Cep  9 11 16 20 +60 15 5   Australis de tribus quæ in tiara sunt
+  84 Cep 10 11 17 20 +61 15 4   Media ipsarum
+  85 Cep 11 11 19 00 +61 20 5   Borealis ipsarum
+  86 Cep~ 1 11 13 40 +64 00 5   Præcedens tiaram
+  87 Cep~ 2 11 21 20 +59 30 4   Sequens tiaram
+  88 Boo  1  5 02 20 +58 40 5   Præcedens de tribus quæ sunt in manu sinistra
+  89 Boo  2  5 04 10 +58 20 5   Media et australior de tribus
+  90 Boo  3  5 05 40 +60 10 5   Sequens de tribus
+  91 Boo  4  5 09 40 +54 40 5   Quæ in sinistro cubito est
+  92 Boo  5  5 19 40 +49 00 3   Quæ est in humero sinistro
+  93 Boo  6  5 26 40 +53 50 4-3 Quæ est in capite
+  94 Boo  7  6 05 40 +48 40 4-3 Quæ in humero dextro
+  95 Boo  8  6 05 40 +53 15 4   Borealior ipsarum et in collorobo
+  96 Boo  9  6 05 00 +57 30 4   Adhuc borealior ista et in extremitate collorobi
+  97 Boo 10  6 07 40 +46*30 4-3 Borealior duarum quæ sunt in clava sub humero
+  98 Boo 11  6 08 30 +45 30 5   Australior ipsarum
+  99 Boo 12  6 08 10 +41 40 5   Quæ in extremitate dextræ manus est
+ 100 Boo 13  6 06 40 +41 40 5   Præcedens de duabus quæ in vola manus sunt
+ 101 Boo 14  6 07 00 +42 30 5   Sequens ipsarum
+ 102 Boo 15  6 07 40 +40 20 5   Quæ in extremitate capuli collorobi
+ 103 Boo 16  6 00 00 +40 15 3   Quæ in crure dextro juxta cingulum
+ 104 Boo 17  5 25 40 +41 40 4   Sequens de duabus quæ in cingulo sunt
+ 105 Boo 18  5 25 00 +42 10 4-3 Præcedens ipsarum
+ 106 Boo 19  6 05 20 +28 00 3   Quæ est in dextro calcaneo
+ 107 Boo 20  5 21 20 +28 00 3   Borealis de tribus quæ sunt in sinistra tibia
+ 108 Boo 21  5 20 30 +26 30 4   Media ipsarum
+ 109 Boo 22  5 21 20 +25 00 4   Australis ipsarum
+ 110 Boo~ 1  5 27 00 +31 30 1   Quæ est inter crura et vocatur Arcturus subrufa
+ 111 CrB  1  6 14 40 +44 30 2-1 Fulgens earum quæ sunt in corona
+ 112 CrB  2  6 11 40 +46*10 4-3 Quæ omnes istas præcedit
+ 113 CrB  3  6 11 50 +48 00 5   Borealior quæ istam sequitur
+ 114 CrB  4  6 13 40 +50 30 6   Sequens istam et borealior ista
+ 115 CrB  5  6 17 10 +44 45 4   Quæ fulgentem a meridie sequitur
+ 116 CrB  6  6 19 10 +44 50 4   Quæ istam propius sequitur
+ 117 CrB  7  6 21 20 +46 10 4   Quæ post istas rursus sequitur
+ 118 CrB  8  6 21 40 +49 20 4   Sequens cunctas quæ in corona sunt
+ 119 Her  1  7 17 40 +37 30 3   Quæ in capite
+ 120 Her  2  7 03 40 +43 00 3   Quæ in humero dextro penes axillam seu scapulam
+ 121 Her  3  7 01 40 +40 10 3   Quæ in brachio dextro
+ 122 Her  4  6 28 00 +37 10 4   Quæ in cubito dextro
+ 123 Her  5  7 16 40 +48 00 3   Quæ in humero sinistro
+ 124 Her  6  7 22 00 +49 30 4-3 Quæ in brachio sinistro
+ 125 Her  7  7 27 40 +52 00 4-3 Quæ in sinistro cubito
+ 126 Her  8  8 05 30 +52 50 4-3 De tribus quæ sunt in sinistra manus vola illa quæ sequitur
+ 127 Her  9  8 01 40 +54 00 4-3 Borealis de duabus reliquis
+ 128 Her 10  8 01 30 +53 00 4-3 Australior ipsarum
+ 129 Her 11  7 03*50 +53*10 3   Quæ in dextro latere
+ 130 Her 12  7 10 10 +53 30 4-3 Quæ in latere sinistro
+ 131 Her 13  7 10 00 +56*10 5   Borealior ista in vertebro sinistræ coxæ
+ 132 Her 14  7 11 10 +58 30 5   Quæ in capite cruris ejusdem
+ 133 Her 15  7 14 00 +59 50 4   Præcedens de tribus quæ sunt in sinistro crure
+ 134 Her 16  7 15 20 +60 20 4   Sequens istam
+ 135 Her 17  7 16 20 +61 15 4-3 Quæ adhuc istam sequitur
+ 136 Her 18  8 00 50 +61 00 4   Quæ in genu sinistro
+ 137 Her 19  7 22 10 +69 20 4   Quæ in sinistra sura
+ 138 Her 20  7 15 20 +70 15 6   Præcedens de tribus quæ sunt in extremitate pedis sinistri
+ 139 Her 21  7 16 50 +71 15 6   Media de tribus
+ 140 Her 22  7 19 40 +72*00 6   Sequens ipsarum
+ 141 Her 23  7 00 40 +60 15 4-3 Quæ in vertebro coxæ dextræ
+ 142 Her 24  6 25 20 +63 00 4   Borealior ista in eodem crure
+ 143 Her 25  6 15 40 +65 30 4-3 Quæ in genu dextro
+ 144 Her 26  6 13 40 +63 40 4   Australior duarum quæ in genu dextro sunt
+ 145 Her 27  6 10 10 +64 15 4   Borealior ipsarum
+ 146 Her 28  6 11 10 +60 00 4   Quæ in tibia dextra
+ 147 Her 29  6 05 00 +57 30 4   Quæ in extremitate dextri pedis est ipsa eadem in extremitate collorobi
+ 148 Her~ 1  7 02 40 +38 10 5   Australior illa quæ est in brachio dextro
+ 149 Lyr  1  8 17 20 +62 00 1   Fulgens quæ in testa est et vocatur Lyra
+ 150 Lyr  2  8 20 20 +62 40 4-3 Borealis de duabus quæ isti adhærent
+ 151 Lyr  3  8 20 20 +61 00 4-3 Australior ipsarum
+ 152 Lyr  4  8 23 40 +60 00 4   Quæ istas sequitur et media inter ortum cornuum
+ 153 Lyr  5  9 02 00 +61 20 4   Borealior de duabus contiguis quæ sunt ad orientalem testæ partem
+ 154 Lyr  6  9 02*40 +60 20 4-5 Australior ipsarum
+ 155 Lyr  7  8 21 00 +56 10 3   Borealior duarum præcedentium quæ in jugo lyræ sunt
+ 156 Lyr  8  8 20 50 +55 00 4-5 Australior ipsarum
+ 157 Lyr  9  8 24 10 +55 20 3   Borealior duarum sequentium quæ in jugo lyræ sunt
+ 158 Lyr 10  8 24 00 +54 45 4-5 Australior ipsarum
+ 159 Cyg  1  9 04 30 +49*20 3   Quæ est in ore
+ 160 Cyg  2  9 09 00 +50 30 5   Quæ istam sequitur et est in capite
+ 161 Cyg  3  9 16 20 +54 30 4-3 Quæ in medio collo
+ 162 Cyg  4  9 28 30 +57 20 3   Quæ in pectore
+ 163 Cyg  5 10 09 10 +60 00 2   Fulgens quæ in cauda est
+ 164 Cyg  6  9 19*40 +64 40 3   Quæ in cubito alæ dextræ est
+ 165 Cyg  7  9 22 30 +69 40 4   Australis de tribus quæ sunt in pectine dextræ alæ
+ 166 Cyg  8  9 21 10 +71 30 4-3 Media de tribus
+ 167 Cyg  9  9 16 40 +74 00 4-3 Borealis ipsarum quæ est in extremitate pectinis
+ 168 Cyg 10 10 00 50 +49 30 3   Quæ in cubito alæ sinistræ
+ 169 Cyg 11 10 03 50 +52 10 4-3 Borealior ipsarum et in medio ejusdem alæ
+ 170 Cyg 12 10 06 40 +44 00 3   Quæ in extremitate pectinis alæ sinistræ
+ 171 Cyg 13 10 10 00 +55 10 4-3 Quæ in pede sinistro
+ 172 Cyg 14 10 14 30 +57 00 4-3 Quæ in genu sinistro
+ 173 Cyg 15 10 01 10 +64 00 4   Præcedens de duabus quæ sunt in pede dextro
+ 174 Cyg 16 10 02 40 +64 30 4   Sequens ipsarum
+ 175 Cyg 17 10 12 10 +63*45 5   Quæ in genu dextro nubi similis
+ 176 Cyg~ 1 10 10 40 +49 40 4-3 Australior duarum quæ sunt sub ala sinistra
+ 177 Cyg~ 2 10 13 50 +51 40 4-3 Borealior ipsarum
+ 178 Cas  1  0 07 50 +45 20 4-3 Quæ in capite
+ 179 Cas  2  0 10 50 +46 45 3   Quæ in pectore
+ 180 Cas  3  0 13 00 +47 50 4   Borealior ipsa et est in cingulo
+ 181 Cas  4  0 16 40 +49 00 3-2 Quæ supra sedem in cruribus est
+ 182 Cas  5  0 20 40 +45 30 3   Quæ in genibus
+ 183 Cas  6  0 27 00 +47 45 4   Quæ in tibia
+ 184 Cas  7  1 01 40 +47 20 4   Quæ in extremitate pedis
+ 185 Cas  8  0 14 40 +44 20 4   Quæ in sinistro brachio
+ 186 Cas  9  0 17 40 +45 00 5   Quæ sub cubito sinistro
+ 187 Cas 10  0 02 20 +50 00 6   Quæ in brachio dextro
+ 188 Cas 11  0 15 00 +52 40 4-5 Quæ supra pedem sedis est
+ 189 Cas 12  0 07 50 +51 40 3   Quæ in media sede seu cathedra
+ 190 Cas 13  0 03*40 +51 40 6   Quæ in extremitate sedis
+ 191 Per  1  0 26 40 +40 30 neb Quæ in dextræ manus extremitate et est nebulosa
+ 192 Per  2  1 01 10 +37 30 4   Quæ in dextro cubito
+ 193 Per  3  1 02 40 +34 30 3-4 Quæ in humero dextro
+ 194 Per  4  0 27 30 +32 20 4   Quæ in humero sinistro
+ 195 Per  5  1 00 40 +34 30 4   Quæ in capite
+ 196 Per  6  1 01 30 +31 10 4   Quæ in occipite
+ 197 Per  7  1 04 50 +30 00 2   Fulgens quæ est in dextro latere Persei
+ 198 Per  8  1 05 20 +27 50 4   Præcedens de tribus quæ sunt post illam quæ est in latere
+ 199 Per  9  1 07 00 +27 40 4   Media de tribus
+ 200 Per 10  1 07 40 +27 20 3   Sequens ipsarum
+ 201 Per 11  1 00 30 +27 00 4   Quæ in cubito sinistro
+ 202 Per 12  0 29 40 +23 00 2   Fulgens quæ est in Gorgoneo
+ 203 Per 13  0 29 10 +21 00 4   Quæ istam sequitur
+ 204 Per 14  0 27 40 +21 00 4   Quæ splendidam præcedit
+ 205 Per 15  0 26 50 +22 15 4   Reliqua quæ istam adhuc præcedit
+ 206 Per 16  1 14 50 +28*15 4   Quæ in genu dextro
+ 207 Per 17  1 13 00 +28 10 4   Præcedens ipsam et est supra genu
+ 208 Per 18  1 12 20 +25 00 4   Præcedens de duabus quæ supra poplitem
+ 209 Per 19  1 14 00 +26 15 4   Sequens quæ in ipso poplite est
+ 210 Per 20  1 14 10 +24 30 5   Quæ in dextra sura
+ 211 Per 21  1 16 20 +18 45 5-4 Quæ in talo dextro
+ 212 Per 22  1 06 50 +21 50 4-3 Quæ in crure sinistro
+ 213 Per 23  1 08 40 +19 15 3   Quæ in genu sinistro
+ 214 Per 24  1 08 20 +14 45 4   Quæ in tibia sinistra
+ 215 Per 25  1 04 10 +12 00 3-4 Quæ in sinistro calcaneo
+ 216 Per 26  1 06 20 +11 00 3-2 Quæ istam sequitur et est in extremitate pedis sinistri
+ 217 Per~ 1  1 11 50 +18 00 5   Quæ ad ortum respectu ejus quæ in genu sinistro est
+ 218 Per~ 2  1 15 00 +31 00 5   Quæ ad septentrionem respectu earum quæ in genu dextro est
+ 219 Per~ 3  0 24 40 +20 40 obs Præcedens earum quæ in Gorgoneo sunt
+ 220 Aur  1  2 02 30 +30 00 4   Australior de tribus quæ sunt in capite
+ 221 Aur  2  2 02 20 +31 50 4   Borealior et est supra caput
+ 222 Aur  3  1 25 00 +22 30 1   Quæ in humero sinistro et vocatur Capella
+ 223 Aur  4  2 02 50 +20 00 2   Quæ in humero dextro
+ 224 Aur  5  2 01 10 +15 15 4   Quæ in cubito dextro
+ 225 Aur  6  2 02 50 +13 20 4-3 Quæ in vola dextra
+ 226 Aur  7  1 22 00 +20 40 4-3 Quæ in cubito sinistro
+ 227 Aur  8  1 22 10 +18 00 4-3 Sequens de duabus quæ sunt in vola sinistra et vocantur hœdi
+ 228 Aur  9  1 22 00 +18 00 4   Præcedens ipsas
+ 229 Aur 10  1 19 50 +10 10 3-4 Quæ in talo sinistro
+ 230 Aur 11  1 25 40 +05 00 3-2 Quæ in talo dextro communis cum Tauri cornu
+ 231 Aur 12  1 26 00 +08 30 5   Quæ ad septentrionem respectu ejus est in extremitate pedis
+ 232 Aur 13  1 26 20 +12 10 5   Adhuc borealior ista et est in vertebro
+ 233 Aur 14  1 23*00 +10*20 6   Parva quæ est supra sinistrum pedem
+ 234 Oph  1  7 24 50 +36 00 3-2 Quæ in capite
+ 235 Oph  2  7 28 00 +27 15 4-3 Præcedens de duabus quæ sunt in humero dextro
+ 236 Oph  3  7 29 00 +26 30 4   Sequens ipsarum
+ 237 Oph  4  7 13 20 +33 00 4   Præcedens de duabus quæ sunt in humero sinistro
+ 238 Oph  5  7 14 40 +31 50 4   Sequens ipsarum
+ 239 Oph  6  7 08 20 +23*45 4   Quæ in cubito sinistro
+ 240 Oph  7  7 05 00 +17 00 3   Præcedens de duabus quæ sunt in extremitate manus sinistræ
+ 241 Oph  8  7 06 00 +16 30 3   Sequens ipsarum
+ 242 Oph  9  7 26 40 +15 00 4   Quæ in cubito dextro
+ 243 Oph 10  8 02 20 +13 40 4-5 Præcedens de duabus quæ sunt in extremitate manus dextræ
+ 244 Oph 11  8 03 20 +14 20 4   Sequens ipsarum
+ 245 Oph 12  7 21 10 +07 30 3   Quæ in genu dextro
+ 246 Oph 13  7 23*40 +02 15 4-3 Quæ in tibia dextra
+ 247 Oph 14  7 23 00 -02 15 4   Præcedens de quatuor quæ sunt in pede dextro
+ 248 Oph 15  7 24 20 -01 30 4-3 Quæ istam sequitur
+ 249 Oph 16  7 25 00 -00 20 4   Quæ adhuc istam sequitur
+ 250 Oph 17  7 25 50 -00*15 5   Reliqua de quatuor quæ omnes sequitur
+ 251 Oph 18  7 27 10 +01 00 5   Quæ istas sequitur et tangit calcaneum
+ 252 Oph 19  7 12 10 +11 50 3   Quæ in sinistro genu
+ 253 Oph 20  7 11 40 +05 20 5-4 Borealior de tribus quæ sunt in sinistra tibia secundum rectam lineam
+ 254 Oph 21  7 10 40 +03 10 5   Media ipsarum
+ 255 Oph 22  7 09 50 +01*40 5-4 Australior de tribus
+ 256 Oph 23  7 12 20 +00 40 5   Quæ in sinistro calcaneo
+ 257 Oph 24  7 10 40 -00 45 4   Quæ tangit plantam sinistri pedis
+ 258 Oph~ 1  8 02 00 +28 10 4   Borealior de tribus quæ sunt ad ortum humeri dextri
+ 259 Oph~ 2  8 02 40 +26 20 4   Media de tribus
+ 260 Oph~ 3  8 03 00 +25 00 4   Australior ipsarum
+ 261 Oph~ 4  8 03 40 +27 00 4   Sequens de tribus quasi supra mediam
+ 262 Oph~ 5  8 04 40 +33 00 4   Borealior de quatuor et est solitaria
+ 263 Ser  1  6 18 50 +38 00 4   Quæ in extremitate maxillæ est de illis quæ in capite quadrilateræ sunt
+ 264 Ser  2  6 21 40 +40 00 4   Quæ nares tangit
+ 265 Ser  3  6 24 20 +36 00 3   Quæ in tempore
+ 266 Ser  4  6 22 00 +34 15 3   Quæ in radice colli
+ 267 Ser  5  6 21 20 +37 15 4   Media quadrilateri et est in ore
+ 268 Ser  6  6 23 10 +42 30 4   Exterior et ad septentrionem capitis
+ 269 Ser  7  6 21 40 +29 15 3   Quæ post primum colli flexum est
+ 270 Ser  8  6 24 50 +26 30 4   Borealis de tribus deinceps sequentibus
+ 271 Ser  9  6 24 20 +25 20 3   Media de tribus
+ 272 Ser 10  6 26 20 +24 00 3   Australis ipsarum
+ 273 Ser 11  6 28 50 +16 30 4   Præcedens manum sinistram Ophiuchi post sequentem flexum
+ 274 Ser 12  7 08 10 +13*15 5   Sequens eas quæ in manu sunt
+ 275 Ser 13  7 23 40 +10 30 4   Quæ post posteriorem partem dextri cruris Ophiuchi
+ 276 Ser 14  7 27 00 +08 30 4-3 Australior de duabus sequentibus istam
+ 277 Ser 15  7 27 50 +10 50 4   Borealior ipsarum
+ 278 Ser 16  8 03 40 +20 00 4   Quæ post manum dextram in flexu caudæ
+ 279 Ser 17  8 08 40 +21 10 4-3 Quæ istam sequitur et est in cauda similiter
+ 280 Ser 18  8 18 20 +27 00 4   Quæ in extrema cauda est
+ 281 Sge  1  9 10 10 +39 20 4   Quæ in ferro sagittæ solitaria est
+ 282 Sge  2  9 06 40 +39 10 6   Sequens de tribus quæ in arundine sunt
+ 283 Sge  3  9 05 50 +39 50 5   Media ipsarum
+ 284 Sge  4  9 04 40 +39 00 5   Præcedens de tribus
+ 285 Sge  5  9 03 20 +38*40 5   Quæ in extremitate γλυφίδου sagittæ
+ 286 Aql  1  9 07 10 +26 50 4   Quæ in medio capite
+ 287 Aql  2  9 04 50 +27 10 3   Quæ istam præcedit et est in collo
+ 288 Aql  3  9 03 50 +29 10 2-1 Fulgens quæ in occipite et vocatur Aquila
+ 289 Aql  4  9 04 40 +30 00 3-4 Quæ prope hanc ad septentrionem est
+ 290 Aql  5  9 03 10 +31 30 3   Præcedens de duabus quæ sunt in humero sinistro
+ 291 Aql  6  9 06 00 +31 30 5   Quæ istam sequitur
+ 292 Aql  7  8 29 40 +28 40 5   Præcedens de duabus quæ sunt in humero dextro
+ 293 Aql  8  9 01 10 +26*40 5-4 Quæ hanc sequitur
+ 294 Aql  9  8 22 10 +36 20 3   Quæ sub Aquilæ cauda remotior est et lacteum circulum tangit
+ 295 Aql~ 1  9 03 40 +21 40 3   Præcedens de duabus quæ sunt ab australi capitis parte
+ 296 Aql~ 2  9 08 50 +19 10 3   Quæ istam sequitur
+ 297 Aql~ 3  8 26 00 +25 00 4-3 Quæ ab austro et africo dextri aquilæ humeri est
+ 298 Aql~ 4  8 28 10 +20 00 3   Quæ a meridie hujus est
+ 299 Aql~ 5  8 29 40 +15 30 5   Quæ australior hac adhuc est
+ 300 Aql~ 6  8 20*10 +18 10 3   Quæ cunctas præcedit
+ 301 Del  1  9 17 40 +29 10 3-4 Præcedens de tribus quæ in cauda sunt
+ 302 Del  2  9 18 40 +29 00 4-5 Borealior de duabus reliquis
+ 303 Del  3  9 18 40 +27 45 4   Australior ipsarum
+ 304 Del  4  9 18 30 +32 00 3-4 Australis earum quæ sunt in antecedente latere quadrilateri rhomboidis
+ 305 Del  5  9 20 10 +33*20 3-4 Borealior antecedentis lateris
+ 306 Del  6  9 21 20 +32 00 3-4 Australis sequentis lateris rhombi
+ 307 Del  7  9 23 10 +33 10 3-4 Borealis sequentis lateris
+ 308 Del  8  9 17 30 +30 15 6   Australis de tribus quæ sunt inter caudam et rhombum
+ 309 Del  9  9 17*30 +31 50 6   Præcedens de duabus reliquis borealibus
+ 310 Del 10  9 19 00 +31 30 6   Reliqua de ipsis et sequens
+ 311 Equ  1  9 26 20 +20 30 obs Præcedens duarum quæ sunt in capite
+ 312 Equ  2  9 28 00 +20 40 obs Quæ ipsam sequitur
+ 313 Equ  3  9 26 20 +25 30 obs Præcedens duarum quæ in ore sunt
+ 314 Equ  4  9 27 40 +25 00 obs Quæ ipsam sequitur
+ 315 Peg  1 11 17 50 +26 00 2-3 Quæ in umbilico est et communis cum capite Andromedæ
+ 316 Peg  2 11 12 10 +12 30 2-3 Quæ in lumbis et extremitate pennæ
+ 317 Peg  3 11 02 10 +31 00 2-3 Quæ in humero dextro et in ipsa pedis radice
+ 318 Peg  4 10 26 40 +19 40 2-3 Quæ in occipite et humero alæ
+ 319 Peg  5 11 04 30 +25 30 4   Borealior duarum quæ sunt in corpore sub ala
+ 320 Peg  6 11 05 00 +25 00 4   Australior ipsarum
+ 321 Peg  7 10 29 00 +35 00 3   Borealior duarum quæ in genu dextro sunt
+ 322 Peg  8 10 28 30 +34 30 5   Australior ipsarum
+ 323 Peg  9 10 26 10 +29 00 4   Antecedens duarum propinquarum quæ in pectore sunt
+ 324 Peg 10 10 27 00 +29 30 4   Sequens ipsarum
+ 325 Peg 11 10 18 50 +18 00 3   Præcedens duarum propinquarum quæ in collo sunt
+ 326 Peg 12 10 20 30 +19 00 4   Sequens ipsarum
+ 327 Peg 13 10 21 20 +15 00 5   Australior duarum quæ in juba sunt
+ 328 Peg 14 10 20 30 +16 00 5   Borealior ipsarum
+ 329 Peg 15 10 09*20 +16 50 3   Borealior duarum propinquarum quæ in capite sunt
+ 330 Peg 16 10 08 00 +16 00 4   Australior ipsarum
+ 331 Peg 17 10 05 20 +22 30 3-2 Quæ in rictu est
+ 332 Peg 18 10 23 40 +41 10 4-3 Quæ in dextro talo
+ 333 Peg 19 10 17 40 +34 15 4-3 Quæ in genu sinistro
+ 334 Peg 20 10 12 20 +36 50 4-3 Quæ in talo sinistro
+ 335 And  1 11 25 20 +24 30 3   Quæ in occipite
+ 336 And  2 11 26 20 +27 00 4   Quæ in humero dextro
+ 337 And  3 11 24 20 +23 00 4   Quæ in humero sinistro
+ 338 And  4 11 23 40 +32 00 4   Australis de tribus quæ sunt in dextro brachio
+ 339 And  5 11 24 40 +33 30 4   Borealior ipsarum
+ 340 And  6 11 25 00 +32 20 5   Media de tribus
+ 341 And  7 11 19 40 +41 00 4   Australis de tribus quæ sunt in extremitate manus dextræ
+ 342 And  8 11 20 40 +42 00 4   Media ipsarum
+ 343 And  9 11 22 10 +44 00 4   Borealis de tribus
+ 344 And 10 11 24 10 +17 30 4   Quæ in brachio sinistro
+ 345 And 11 11 25 40 +15 50 4   Quæ in cubito sinistro
+ 346 And 12  0 03 50 +26*20 3   Australior de tribus quæ sunt supra cingulum
+ 347 And 13  0 01 50 +30 00 4   Media ipsarum
+ 348 And 14  0 02 00 +32 30 4   Borealis de tribus
+ 349 And 15  0 16 50 +28 00 3   Quæ supra pedem sinistrum
+ 350 And 16  0 17 10 +37 20 4-3 Quæ in pede dextro
+ 351 And 17  0 15 10 +35 40 4-3 Australior hac
+ 352 And 18  0 12 20 +29 00 4-3 Borealior duarum quæ sunt in poplite sinistro
+ 353 And 19  0 12 00 +28 00 4   Australior ipsarum
+ 354 And 20  0 10 10 +35 30 5   Quæ in genu dextro
+ 355 And 21  0 12 40 +34 30 5   Borealior duarum quæ sunt in syrmate
+ 356 And 22  0 14 10 +32 30 5   Australior ipsarum
+ 357 And 23 11 11 40 +44 00 3   Exterior præcedensque de tribus quæ sunt in extremitate manus dextræ
+ 358 Tri  1  0 11 00 +16 30 3   Quæ in vertice trianguli est
+ 359 Tri  2  0 16 00 +20 40 3   Præcedens de tribus quæ sunt in basi
+ 360 Tri  3  0 16*20 +19 40 4   Media ipsarum
+ 361 Tri  4  0 16 50 +19 00 3   Sequens de tribus
+ 362 Ari  1  0 06 40 +07 20 3-4 Præcedens duarum quæ sunt in cornu
+ 363 Ari  2  0 07 40 +08 20 3   Sequens ipsarum
+ 364 Ari  3  0 11 00 +07 40 5   Borealior duarum quæ in rictu sunt
+ 365 Ari  4  0 11 30 +06 00 5   Australior ipsarum
+ 366 Ari  5  0 06 30 +05 30 5   Quæ in collo est
+ 367 Ari  6  0 17 40 +06 00 6   Quæ in lumbo est
+ 368 Ari  7  0 21 20 +04 50 5   Quæ in radice caudæ
+ 369 Ari  8  0 23 50 +01 40 4   Præcedens de tribus quæ in cauda sunt
+ 370 Ari  9  0 25 20 +02 30 4   Media de tribus
+ 371 Ari 10  0 27 00 +01 50 4   Sequens ipsarum
+ 372 Ari 11  0 19 40 +01*10 5   Quæ in posteriore parte cruris est
+ 373 Ari 12  0 18 00 -01 30 5   Quæ sub poplite
+ 374 Ari 13  0 15 00 -05 15 4-3 Quæ in extremitate posterioris pedis
+ 375 Ari~ 1  0 10 40 +10*00 3-2 Quæ supra caput est quam Hipparchus in collo dicit
+ 376 Ari~ 2  0 21 40 +10 10 4   Sequens fulgentiorque de quatuor quæ supra lumbos sunt
+ 377 Ari~ 3  0 21 20 +12 40 5   Borealior reliquarum trium minusque splendidarum
+ 378 Ari~ 4  0 19 40 +11 10 5   Media de tribus
+ 379 Ari~ 5  0 19 10 +10 40 5   Australis ipsarum
+ 380 Tau  1  0 26 20 -06 00 4   Borealis de quatuor quæ sunt in abscissione
+ 381 Tau  2  0 26 00 -07 15 4   Sequens ipsam
+ 382 Tau  3  0 24*40 -08 30 4   Quæ istam adhuc sequitur
+ 383 Tau  4  0 24 20 -09 15 4   Australissima de quatuor
+ 384 Tau  5  0 29 40 -09 30 5   Quæ istas sequitur et est in dextra scapula
+ 385 Tau  6  1 03 40 -08 00 3   Quæ in pectore
+ 386 Tau  7  1 06 40 -12 40 4   Quæ in genu dextro
+ 387 Tau  8  1 03 00 -14 50 4   Quæ in talo dextro
+ 388 Tau  9  1 12 10 -10 00 4   Quæ in genu sinistro
+ 389 Tau 10  1 13 00 -13 00 4   Quæ in cubito sinistro
+ 390 Tau 11  1 09 00 -05 45 3-4 De Hyades, sic enim vocantur quæ in facie sunt, ea quæ in naribus
+ 391 Tau 12  1 10 20 -04 15 3-4 Quæ inter hanc et borealem oculum est
+ 392 Tau 13  1 10 50 -05 50 3-4 Quæ inter istam et australem oculum
+ 393 Tau 14  1 12 40 -05 10 1   Fulgens de Hyades, et est in oculo australi subrufa
+ 394 Tau 15  1 11*50 -03 00 3-4 Reliqua quæ est in oculo boreali
+ 395 Tau 16  1 17*10 -04 00 4   Quæ est in radice australis cornu et in aure
+ 396 Tau 17  1 20 20 -05 00 5   Australior duarum quæ sunt in cornu australi
+ 397 Tau 18  1 20 00 -03 30 5   Borealior ipsarum
+ 398 Tau 19  1 27 40 -02 30 3   Quæ est in extremitate cornu australis
+ 399 Tau 20  1 15 40 -00*15 4   Quæ est in radice cornu borealis
+ 400 Tau 21  1 25 40 +05 00 3   Quæ est in extremitate borealis cornu, eademque in dextro pede Aurigæ
+ 401 Tau 22  1 12 00 +00 30 5   Borealior duarum propinquarum quæ sunt in aure boreali
+ 402 Tau 23  1 11 40 +00 15 5   Australior ipsarum
+ 403 Tau 24  1 07 00 +00 40 5   Præcedens duarum parvarum quæ in collo sunt
+ 404 Tau 25  1 09 00 -01*00 6   Quæ ipsam sequitur
+ 405 Tau 26  1 08 00 +05 00 5   Australior antecedentis lateris quadrilateræ figuræ quæ in collo est
+ 406 Tau 27  1 08 30 +07*10 5   Borealior antecedentis lateris
+ 407 Tau 28  1 12 00 +03 00 5   Australior sequentis lateris
+ 408 Tau 29  1 11 40 +05 00 5   Borealior sequentis lateris
+ 409 Tau 30  1 02 10 +04 30 5   Borealis terminus antecedentis Pleiadum lateris
+ 410 Tau 31  1 02*30 +03 40 5   Australis terminus antecedentis lateris
+ 411 Tau 32  1 03 40 +03 40 5   Sequens et angustissimus Pleiadum terminus
+ 412 Tau 33  1 03 40 +05 00 4   Exterior et parva Pleiadum a septentrione
+ 413 Tau~ 1  0 25 00 -17 30 4   Quæ sub pede dextro est et scapula
+ 414 Tau~ 2  1 20 00 -02 00 5   Præcedens de tribus quæ supra cornu australe
+ 415 Tau~ 3  1 24*00 -01 45 5   Media de tribus
+ 416 Tau~ 4  1 26 00 -02 00 5   Sequens ipsarum
+ 417 Tau~ 5  1 29 00 -06 20 5   Borealior de duabus quæ sunt sub extremitate cornu australis
+ 418 Tau~ 6  1 29 00 -07 40 5   Australior ipsarum
+ 419 Tau~ 7  1 27 00 +00 40 5   Præcedens de quinque quæ sub cornu boreali sequuntur
+ 420 Tau~ 8  1 29 00 +01 00 5   Quæ istam sequitur
+ 421 Tau~ 9  2 01 00 +01 20 5   Quæ istam adhuc sequitur
+ 422 Tau~10  2 02 20 +03 20 5   Borealior reliquarum duarum sequentium
+ 423 Tau~11  2 03 20 +01 15 5   Australior ipsarum
+ 424 Gem  1  2 23 20 +09*40 2   Quæ est in capite præcedentis Geminorum
+ 425 Gem  2  2 26 40 +06 15 2   Quæ est in capite sequentis Geminorum, subrufa
+ 426 Gem  3  2 16 40 +10 00 4   Quæ est in sinistro præcedentis Geminorum cubito
+ 427 Gem  4  2 18 40 +07 20 4   Quæ in eodem brachio
+ 428 Gem  5  2 22 00 +05 30 4   Quæ ipsam sequitur et est in occipite
+ 429 Gem  6  2 24 00 +04 50 4   Quæ istam sequitur et est in dextro humero ejusdem
+ 430 Gem  7  2 26 40 +02 40 4   Quæ in humero sequenti sequentis Geminorum
+ 431 Gem  8  2 21 40 +02 40 5   Quæ in dextro latere antecedentis Geminorum
+ 432 Gem  9  2 23*10 +00*20 5   Quæ in sinistro latere sequentis Geminorum
+ 433 Gem 10  2 13 00 +01 30 3   Quæ in sinistro genu præcedentis Geminorum
+ 434 Gem 11  2 18*10 -02 30 3   Quæ sub sinistro genu sequentis Geminorum
+ 435 Gem 12  2 21 40 -00 30 3   Quæ in sinistra sequentis Geminorum axilla
+ 436 Gem 13  2 21*40 -06*00 3   Quæ supra dextrum poplitem ejusdem Geminorum
+ 437 Gem 14  2 06 30 -01 30 4-3 Quæ in extremo pede præcedentis Geminorum
+ 438 Gem 15  2 08*10 -01 15 4-3 Quæ hanc in eodem pede sequitur
+ 439 Gem 16  2 10 10 -03 30 4-3 Quæ in extremitate dextri pedis præcedentis Geminorum
+ 440 Gem 17  2 12 00 -07 30 3   Quæ in extremitate sinistri pedis sequentis Geminorum
+ 441 Gem 18  2 14 40 -10 30 4   Quæ in extremitate dextri pedis sequentis Geminorum
+ 442 Gem~ 1  2 04 10 -00 40 4   Præcedens extremitatem pedum antecedentis Geminorum
+ 443 Gem~ 2  2 06 30 +05 50 4-3 Præcedens eam quæ est in genu antecedentis Geminorum et est splendida
+ 444 Gem~ 3  2 15 10 -02 15 5   Quæ præcedit genu sinistrum sequentis Geminorum
+ 445 Gem~ 4  2 28 20 -01 20 5   Borealis trium sequentium dextram sequentis Geminorum per rectam lineam
+ 446 Gem~ 5  2 26 20 -03 20 5   Media de tribus
+ 447 Gem~ 6  2 26 00 -04 30 5   Australis ipsarum et ad cubitum manus
+ 448 Gem~ 7  3 05 40 -02 40 4   Quæ dictas tres sequitur et est splendida
+ 449 Cnc  1  3 10 20 +00*40 neb Media nubiformis convolutionis quæ in pectore dicta Præsepe
+ 450 Cnc  2  3 07 40 +01 15 4-5 Borealior duarum præcedentium quadrilateræ figuræ, quæ est in nebula
+ 451 Cnc  3  3 08 00 -01 10 4-5 Australior præcedentium duarum
+ 452 Cnc  4  3 10 20 +02 40 4-3 Borealis duarum sequentium quadrilateræ quæ vocantur Aselli
+ 453 Cnc  5  3 11 20 -00 10 4-3 Australis ipsarum
+ 454 Cnc  6  3 16 30 -05 30 4   Quæ in australi forfice
+ 455 Cnc  7  3 08 20 +11 50 4   Quæ in boreali forfice
+ 456 Cnc  8  3 02 40 +01 00 5   Quæ in posteriore pede boreali
+ 457 Cnc  9  3 07 10 -10*30 4-3 Quæ in posteriore pede australi
+ 458 Cnc~ 1  3 15*40 -02 20 4-5 Quæ super cubitum australis forficis est
+ 459 Cnc~ 2  3 21 10 -05 40 4-5 Quæ sequitur extremitatem australis forficis
+ 460 Cnc~ 3  3 14 00 +07*15 5   Præcedens duarum sequentium quæ sunt super nebulam
+ 461 Cnc~ 4  3 17 00 +04*50 5   Sequens ipsarum
+ 462 Leo  1  3 18 20 +10 00 4   Quæ in extremitate naris
+ 463 Leo  2  3 21 10 +07 30 4   Quæ in apertione oris
+ 464 Leo  3  3 24 20 +12 00 3   Borealior duarum quæ sunt in capite
+ 465 Leo  4  3 24 10 +09 30 3-2 Australior ipsarum
+ 466 Leo  5  4 00 10 +11 00 3   Borealis de tribus quæ in collo sunt
+ 467 Leo  6  4 02 10 +08 30 2   Sequens et media de tribus
+ 468 Leo  7  4 00 40 +04 30 3   Australis ipsarum
+ 469 Leo  8  4 02 30 +00 10 1   Quæ est in corde et vocatur Regulus
+ 470 Leo  9  4 03 30 -01 50 4   Australior ipsa et est quasi in pectore
+ 471 Leo 10  4 00 00 -00 15 5   Parum antecedens illam quæ in corde est
+ 472 Leo 11  3 27 20 +00 00 5   Quæ in genu dextro
+ 473 Leo 12  3 24 10 -03 40 6   Quæ in anteriore dextræ vola
+ 474 Leo 13  3 27 20 -04 10 4   Quæ in anteriore sinistræ vola
+ 475 Leo 14  4 02 30 -04 15 4   Quæ in genu sinistro
+ 476 Leo 15  4 09 10 -00 10 4   Quæ in axilla sinistra
+ 477 Leo 16  4 07 00 +04 00 6   Præcedens de tribus quæ sunt in ventre
+ 478 Leo 17  4 10 20 +05 20 6   Borealis reliquarum et sequentium duarum
+ 479 Leo 18  4 12*20 +02 20 6   Australior ipsarum
+ 480 Leo 19  4 11 20 +12 15 5   Præcedens de duabus quæ sunt in lumbis
+ 481 Leo 20  4 14 10 +13 40 2-3 Sequens ipsarum
+ 482 Leo 21  4 14 20 +11*20 5   Borealior duarum quæ sunt in vertebris
+                     +11*10
+ 483 Leo 22  4 16 20 +09 40 3   Australior ipsarum
+ 484 Leo 23  4 20 20 +05 50 3   Quæ in posterioribus cruribus
+ 485 Leo 24  4 21 40 +01 15 4   Quæ in posterioribus poplitibus
+ 486 Leo 25  4 24 40 -00 50 4   Australior hac et quasi in cubitis
+ 487 Leo 26  4 27 30 -03*00 5   Quæ in posterioribus volis
+ 488 Leo 27  4 24 30 +11 50 1-2 Quæ in extremitate caudæ
+ 489 Leo~ 1  4 06 00 +13 20 5   Præcedens de duabus quæ sunt super scapulam
+ 490 Leo~ 2  4 08 10 +15 30 5   Sequens ipsarum
+ 491 Leo~ 3  4 17 30 +01 10 4-5 Borealis de tribus, quæ sunt sub latere
+ 492 Leo~ 4  4 17 10 -00 30 5   Media ipsarum
+ 493 Leo~ 5  4 18 00 -02 40 5   Australis ipsarum
+ 494 Leo~ 6  4 24 50 +30 00 obs Borealissimum convolutionis nubilosæ quæ Coma Berenices vocatur, et est inter extrema Leonis et Ursæ
+ 495 Leo~ 7  4 24 20 +25 00 obs Præcedens de australibus eminentibus Comæ Berenices
+ 496 Leo~ 8  4 28 30 +25 30 obs Sequens de ipsis in figura folii edere
+ 497 Vir  1  4 27*00 +04 15 5   Australis de duabus quæ sunt in extremo craneo Virginis
+ 498 Vir  2  4 26*20 +05 40 5   Borealior ipsarum
+ 499 Vir  3  5 00 40 +08 00 5   Borealior de sequentibus ipsas in facie
+ 500 Vir  4  5 00 10 +05 30 5   Australior ipsarum
+ 501 Vir  5  4 29 00 +00 10 3   Quæ est in extremitate australis alæ atque sinistræ
+ 502 Vir  6  5 08 15 +01 10 3   Præcedens de quatuor, quæ sunt in ala sinistra
+ 503 Vir  7  5 13 10 +02 50 3   Quæ ipsam sequitur
+ 504 Vir  8  5 17 10 +02 50 5   Quæ adhuc istam sequitur
+ 505 Vir  9  5 21 00 +01 40 4   Ultima et sequens de quatuor
+ 506 Vir 10  5 14 20 +08 30 3   Quæ est sub cingulo in dextro latere
+ 507 Vir 11  5 08 10 +13 50 5   Præcedens de tribus quæ in dextra borealique ala sunt
+ 508 Vir 12  5 10 10 +11 40 6   Australis reliquarum duarum
+ 509 Vir 13  5 12 10 +16 00 3-2 Borealis ipsarum et vocatur Previndemiatrix
+ 510 Vir 14  5 26 40 -02 00 1   Quæ in extremitate manus sinistræ et vocatur Spica
+ 511 Vir 15  5 24 50 +08 40 3   Quæ sub cingulo juxta dextrum vertebrum
+ 512 Vir 16  5 26 20 +03 20 5   Borealis antecedentis lateris quadrilateræ figuræ quæ est in crure sinistro
+ 513 Vir 17  5 27 15 +00 10 6   Australis antecedentis lateris
+ 514 Vir 18  6 00 00 +01 30 4-5 Borealior de duabus, quæ in sequenti latere sunt
+ 515 Vir 19  5 28 00 -03 00 5   Australior lateris sequentis
+ 516 Vir 20  6 01 40 -01 30 5   Quæ in genu sinistro
+ 517 Vir 21  5 28 00 +08 30 5   Quæ in dextro crure posteriore
+ 518 Vir 22  6 06*40 +07 30 4   Media de tribus quæ sunt in syrmate
+ 519 Vir 23  6 07 20 +02 40 4   Australis ipsarum
+ 520 Vir 24  6 08 20 +11 40 4   Borealis ipsarum
+ 521 Vir 25  6 10 00 +00 30 4   Quæ in extremitate sinistri pedis atque australis
+ 522 Vir 26  6 12 40 +09 50 3   Quæ in extremitate dextri pedis atque borealis
+ 523 Vir~ 1  5 14 40 -03 30 5   Præcedens de tribus quæ ad rectam lineam sub sinistro cubito sunt
+ 524 Vir~ 2  5 19 00 -03 30 5   Media ipsarum
+ 525 Vir~ 3  5 22 15 -03 20 5   Sequens ipsarum
+ 526 Vir~ 4  5 27 10 -07*20 6   Præcedens de tribus quæ quasi ad rectam lineam sub Spica sunt
+ 527 Vir~ 5  5 28 10 -08 20 5   Media ipsarum et duplex
+ 528 Vir~ 6  6 05*00 -07 50 6   Sequens trium
+ 529 Lib  1  6 18 00 +00 40 2   Fulgens earum quæ sunt in extremitate australis forficis
+ 530 Lib  2  6 17 00 +02 30 5   Borealior ipsa et minus splendida
+ 531 Lib  3  6 22 10 +08 50 2   Fulgens earum quæ sunt in extremitate borealis forficis
+ 532 Lib  4  6 17*40 +08 30 5   Præcedens ipsas et obscura
+ 533 Lib  5  6 24 00 -01 40 4   Quæ est in medio australis forficis
+ 534 Lib  6  6 21 20 +01 15 4   Quæ istam præcedit in eadem forfice
+ 535 Lib  7  6 27 50 +04 45 4   Quæ est in medio borealis forficis
+ 536 Lib  8  7 03 00 +03 30 4-5 Quæ istam in eadem forfice sequitur
+ 537 Lib~ 1  6 26 10 +09 00 5   Antecedens de tribus borealibus quæ sunt in forfice boreali
+ 538 Lib~ 2  7 03 40 +06 40 4-5 Australis sequentium duarum
+ 539 Lib~ 3  7 04 20 +09 15 4-5 Borealis ipsarum
+ 540 Lib~ 4  7 03 30 +00 30 6   Sequens de tribus intermediis
+ 541 Lib~ 5  7 00 20 +00 20 5   Borealis reliquarum duarum præcedentium
+ 542 Lib~ 6  7 01 10 -01 30 4   Australis ipsarum
+ 543 Lib~ 7  6 23 00 -07 30 3   Præcedens de tribus australioribus, quæ sunt in forfice australi
+ 544 Lib~ 8  7 01 10 -08*10 4   Borealior duarum reliquarum sequentium
+ 545 Lib~ 9  7 02*00 -09 40 4   Australior ipsarum
+ 546 Sco  1  7 06 20 +01 20 3   Borealis de tribus splendidis, quæ sunt in fronte
+ 547 Sco  2  7 05 40 -01 40 3   Media ipsarum
+ 548 Sco  3  7 05 40 -05 00 3   Australior de tribus
+ 549 Sco  4  7 06 00 -07 50 3   Australior adhuc ista in altero pedum
+ 550 Sco  5  7 07 00 +01 40 4   Borealior duarum, quæ borealissimæ splendidarum adhæret
+ 551 Sco  6  7 06 20 +00 30 4   Australis ipsarum
+ 552 Sco  7  7 10 40 -03 45 3   Præcedens de tribus splendidis, quæ sunt in corpore
+ 553 Sco  8  7 12 40 -04 00 2   Media ipsarum et subrufa quæ vocatur Antares
+ 554 Sco  9  7 14 30 -05 30 3   Sequens de tribus
+ 555 Sco 10  7 09 20 -06*10 5   Præcedens duarum quæ sub ipsis in extremo pede sunt
+ 556 Sco 11  7 10 40 -06 40 5   Sequens ipsarum
+ 557 Sco 12  7 18 30 -11 00 3   Quæ in primo spondilo a corpore
+ 558 Sco 13  7 18 50 -15 00 3   Quæ post hanc in secundo spondilo
+ 559 Sco 14  7 20 00 -18 40 4   Borealis de binis quæ in tertio spondilo sunt
+ 560 Sco 15  7 20 10 -19*00 4   Australior de binis
+ 561 Sco 16  7 23 10 -19 30 3   Quæ deinceps in quarto spondilo est
+ 562 Sco 17  7 28 10 -18 50 3   Quæ post ipsam in quinto spondilo est
+ 563 Sco 18  8 00 30 -16 40 3   Quæ deinceps in sexto spondilo
+ 564 Sco 19  7 29 00 -15 10 3   Quæ in septimo spondilo juxta aculeum
+ 565 Sco 20  7 27 30 -13 20 3   Sequens de duabus quæ in aculeo sunt
+ 566 Sco 21  7 27 00 -13 30 4   Præcedens ipsarum
+ 567 Sco~ 1  8 01 10 -13 15 neb Quæ aculeum sequitur et est nebulosa
+ 568 Sco~ 2  7 25 30 -06 10 5-4 Præcedens duarum, quæ a septentrione aculei sunt
+ 569 Sco~ 3  7 29*30 -04*10 5   Sequens ipsarum
+ 570 Sgr  1  8 04 30 -06 20 3   Quæ in ferro sagittæ
+ 571 Sgr  2  8 07 40 -06 30 3   Quæ in capulo sinistræ manus est
+ 572 Sgr  3  8 08 00 -10 50 3   Quæ in australi parte Sagittarii est
+ 573 Sgr  4  8 09 00 -01 30 3   Australior earum quæ sunt in boreali parte Sagittarii
+ 574 Sgr  5  8 06 40 +02 50 4   Borealior ipsarum et in extremitate arcus
+ 575 Sgr  6  8 15 20 -03 10 3   Quæ in humero sinistro
+ 576 Sgr  7  8 13 00 -03*50 4-3 Quæ hanc præcedit et est in sagitta
+ 577 Sgr  8  8 15 10 +00 45 neb Quæ in oculo est nebulosa et bina
+ 578 Sgr  9  8 15 40 +02 10 4   Præcedens de tribus quæ sunt in capite
+ 579 Sgr 10  8 17 40 +01 30 4   Media ipsarum
+ 580 Sgr 11  8 19 10 +02 00 4   Sequens de tribus
+ 581 Sgr 12  8 21 20 +02 50 5   Australior de tribus, quæ in boreali interscapilio sunt
+ 582 Sgr 13  8 22 20 +04 30 4   Media ipsarum
+ 583 Sgr 14  8 22 50 +06 30 4   Borealis ipsarum
+ 584 Sgr 15  8 25*40 +05 30 6   Obscura quæ tres istas sequitur
+ 585 Sgr 16  8 29 30 +05 50 5   Borealior de duabus quæ in australi interscapilio sunt
+ 586 Sgr 17  8 27 40 +02 00 6   Australior ipsarum
+ 587 Sgr 18  8 22*20 -01 50 5   Quæ in humero dextro
+ 588 Sgr 19  8 24 50 -02 50 4   Quæ in cubito dextro
+ 589 Sgr 20  8 20 00 -02 30 5   De tribus quæ sunt in scapula, quæ prope occiput est
+ 590 Sgr 21  8 17 40 -04 30 4-3 Media ipsarum et in ipsa latitudine scapulæ
+ 591 Sgr 22  8 16 20 -06 45 3   Reliqua et quasi sub axilla
+ 592 Sgr 23  8 17 40 -23 00 2   Quæ in anteriori sinistro talo
+ 593 Sgr 24  8 17 00 -18 00 2-3 Quæ in genu ejusdem pedis
+ 594 Sgr 25  8 06 40 -13 00 3   Quæ in anteriori dextro talo
+ 595 Sgr 26  8 27 20 -13 30 3   Quæ in crure sinistro
+ 596 Sgr 27  8 26*50 -20 10 3   Quæ in posteriore dextro cubito
+ 597 Sgr 28  8 27*40 -04 50 5   Præcedens borealis lateris de quatuor quæ sunt in radice caudæ
+ 598 Sgr 29  8 28 50 -04 50 5   Sequens borealis lateris
+ 599 Sgr 30  8 28 50 -05 50 5   Antecedens australis lateris
+ 600 Sgr 31  8 29 40 -06 30 5   Sequens australis lateris
+ 601 Cap  1  9 07 20 +07 20 3   Borealis de tribus quæ sunt in sequenti cornu
+ 602 Cap  2  9 07 40 +06 40 6   Media ipsarum
+ 603 Cap  3  9 07 20 +05 00 3   Australis de tribus
+ 604 Cap  4  9 06*00 +08 00 6   Quæ in extremitate antecedentis cornu est
+ 605 Cap  5  9 09 00 +00 45 6   Australis de tribus quæ sunt in rictu
+ 606 Cap  6  9 08 40 +01 45 6   Præcedens reliquarum duarum
+ 607 Cap  7  9 08 50 +01 30 6   Sequens ipsarum
+ 608 Cap  8  9 06 10 +00 40 5   Præcedens de tribus quæ sunt sub oculo dextro
+ 609 Cap  9  9 11 40 +03 50 6   Borealior duarum quæ sunt in collo
+ 610 Cap 10  9 11 50 +00*50 5   Australior earum
+ 611 Cap 11  9 10 50 -06 30 4   Quæ sub genu dextro
+ 612 Cap 12  9 11 40 -08 40 4   Quæ est in genu sinistro atque flexo
+ 613 Cap 13  9 16 40 -07 40 4   Quæ in humero sinistro
+ 614 Cap 14  9 20 10 -06 50 4   Præcedens duarum contiguarum quæ sunt sub ventre
+ 615 Cap 15  9 20 20 -06 00 5   Sequens ipsarum
+ 616 Cap 16  9 18 40 -04 15 5   Sequens de tribus quæ sunt in medio corpore
+ 617 Cap 17  9 16 40 -04 00 5   Australior reliquarum duarum antecedentium
+ 618 Cap 18  9 16 40 -02 50 5   Borealior ipsarum
+ 619 Cap 19  9 16 40 +00 00 4   Antecedens duarum, quæ sunt in scapula
+ 620 Cap 20  9 21 00 -00 50 4   Sequens ipsarum
+ 621 Cap 21  9 23 20 -04 45 4   Antecedens duarum, quæ sunt in spina australi
+ 622 Cap 22  9 25 00 -04 30 4   Sequens ipsarum
+ 623 Cap 23  9 24 50 -02 10 3   Antecedens duarum, quæ sunt apud caudam
+ 624 Cap 24  9 26 20 -02 00 3   Sequens ipsarum
+ 625 Cap 25  9 26 50 +00 20 4   Antecedens de quatuor, quæ sunt in boreali caudæ parte
+ 626 Cap 26  9 28 40 +00 00 5   Australis reliquarum trium
+ 627 Cap 27  9 27 40 +02 50 5   Media ipsarum
+ 628 Cap 28  9 28 40 +04 20 5   Borealis ipsarum
+ 629 Aqr  1 10 00 20 +15 45 5   Quæ est in capite Aquarii
+ 630 Aqr  2 10 06 20 +11 00 3   Fulgentior duarum, quæ sunt in humero dextro
+ 631 Aqr  3 10 05 10 +09 40 5   Quæ sub ipsa obscurior
+ 632 Aqr  4  9 26 30 +08 50 3   Quæ in humero sinistro
+ 633 Aqr  5  9 27 20 +06 15 5   Quæ sub ipsa in scapula et quasi sub axilla
+ 634 Aqr  6  9 17 40 +05 30 3   Sequens de tribus, quæ sunt in vestimento manus sinistræ
+ 635 Aqr  7  9 16 10 +08 00 4   Media ipsarum
+ 636 Aqr  8  9 14 40 +08 40 3   Antecedens de tribus
+ 637 Aqr  9 10 09 30 +08 45 3   Quæ in cubito dextro
+ 638 Aqr 10 10 11 40 +10 45 3   Borealis de tribus, quæ sunt in extremitate manus dextræ
+ 639 Aqr 11 10 12 00 +09 00 3   Antecedens duarum reliquarum et borealium
+ 640 Aqr 12 10 13 20 +08 30 3   Sequens ipsarum
+ 641 Aqr 13 10 06 10 +03 00 4   Præcedens duarum contiguarum, quæ sunt in dextro vertebro
+ 642 Aqr 14 10 07 00 +03*10 5   Sequens ipsarum
+ 643 Aqr 15 10 08 40 -00 50 4   Quæ in dextro clune
+ 644 Aqr 16 10 01 40 -01 40 4   Australis duarum quæ sunt in sinistro clune
+ 645 Aqr 17 10 03 10 +00 15 6   Borealior ipsarum
+ 646 Aqr 18 10 11 40 -07 30 3   Australior duarum quæ sunt in tibia dextra
+ 647 Aqr 19 10 11 20 -05 00 4   Borealior ipsarum et est sub poplite
+ 648 Aqr 20 10 04 40 -05 40 5   Quæ in posteriori sinistri cruris parte
+ 649 Aqr 21 10 08 20 -10 00 5   Australior duarum quæ sunt in tibia sinistra
+ 650 Aqr 22 10 07 50 -09 00 5   Borealior ipsarum et est sub genu
+ 651 Aqr 23 10 15 00 +02 00 4   Antecedens duarum quæ sunt in ipso aquæ fluxu à manu
+ 652 Aqr 24 10 14 50 +00 10 4   Quæ istam ex austro sequitur
+ 653 Aqr 25 10 17 40 -01 10 4   Adhuc quæ istam sequitur et est post flexum
+ 654 Aqr 26 10 20 00 -00 30 4   Quæ istam adhuc sequitur
+ 655 Aqr 27 10 20 30 -01 40 4   Quæ est in flexu à meridie istius
+ 656 Aqr 28 10 19 00 -03 30 4   Borealior duarum quæ adhuc à meridie istius sunt
+ 657 Aqr 29 10 19 50 -04 10 4   Australior ipsarum
+ 658 Aqr 30 10 17*50 -08 15 5   Solitaria ad meridiem istarum
+ 659 Aqr 31 10 22*40 -11 00 5   Antecedens duarum contiguarum post ipsam
+ 660 Aqr 32 10 23 10 -10 50 5   Sequens ipsarum
+ 661 Aqr 33 10 21 40 -14 00 5   Borealis de tribus quæ sunt in convolutione sequenti
+ 662 Aqr 34 10 22 10 -14 45 5   Media de tribus
+ 663 Aqr 35 10 23 10 -15 40 5   Sequens ipsarum
+ 664 Aqr 36 10 17 00 -14 10 4   Borealis de tribus quæ deinceps similiter sunt
+ 665 Aqr 37 10 17 30 -15 00 4   Media ipsarum
+ 666 Aqr 38 10 18 20 -15 45 4   Australior ipsis de tribus
+ 667 Aqr 39 10 11 50 -16*15 4   Præcedens de tribus, quæ sunt in reliqua convolutione
+ 668 Aqr 40 10 12*40 -15 20 4   Australior reliquarum duarum
+ 669 Aqr 41 10 13 10 -14 00 4   Borealior ipsarum
+ 670 Aqr 42 10 07 00 -20 20 1   Aquæ ipsius ultima et est in ore Piscis Austrinus
+ 671 Aqr~ 1 10 26 40 -15 30 4-3 Præcedens de tribus, quæ flexum id est curvaturam aquæ sequuntur
+ 672 Aqr~ 2 10 29 40 -14 40 4-3 Borealior reliquarum duarum
+ 673 Aqr~ 3 10 29 00 -18 15 4-3 Australior ipsarum
+ 674 Psc  1 10 21 40 +09 15 4-3 Quæ in antecedentis Piscis ore
+ 675 Psc  2 10 24 10 +07 30 4   Australior duarum quæ sunt in cranio ejus
+ 676 Psc  3 10 26 00 +09 20 4   Borealior ipsarum
+ 677 Psc  4 10 28 10 +09 30 4   Antecedens duarum quæ sunt in dorso
+ 678 Psc  5 11 00 40 +07 30 4   Sequens ipsarum
+ 679 Psc  6 10 26 00 +04 30 4   Antecedens duarum quæ sunt in ventre
+ 680 Psc  7 10 29 40 +03 30 4   Sequens ipsarum
+ 681 Psc  8 11 06 00 +06 20 4   Quæ est in cauda Piscis ejusdem
+ 682 Psc  9 11 11 00 +05 45 6   Prima post caudam in lino
+ 683 Psc 10 11 13 00 +03 45 6   Sequens ipsarum
+ 684 Psc 11 11 17 10 +02 15 4   Antecedens de tribus splendidis, quæ deinceps sunt
+ 685 Psc 12 11 20*30 +01 10 4   Media ipsarum
+ 686 Psc 13 11 23 00 -00 10 4   Sequens de tribus
+ 687 Psc 14 11 22*20 -02 00 6   Borealior duarum parvarum, quæ sub ipsis in flexu sunt
+ 688 Psc 15 11 23*00 -05 00 6   Australior ipsarum
+ 689 Psc 16 11 26 30 -02 20 4   Præcedens de tribus quæ sunt post flexum
+ 690 Psc 17 11 28*40 -04 40 4   Media ipsarum
+ 691 Psc 18  0 00 40 -07 45 4   Sequens de tribus
+ 692 Psc 19  0 02 30 -08 30 3   Quæ est in nodo linorum duorum
+ 693 Psc 20  0 00 30 -01 40 4   Antecedens earum quæ sunt à nodo in boreali lino
+ 694 Psc 21  0 00 10 +01*50 5   Australis de tribus quæ deinceps post ipsam sunt
+ 695 Psc 22  0 00*20 +05 20 3   Media ipsarum
+ 696 Psc 23  0 00 30 +09 00 4   Borealis de tribus et est in extremitate caudæ
+ 697 Psc 24  0 02 00 +21 45 5   Borealior duarum quæ sunt in ore piscis sequentis
+ 698 Psc 25  0 01 40 +21 40 5   Australior ipsarum
+ 699 Psc 26 11 28 40 +20 00 6   Sequens de tribus parvis quæ sunt in capite
+ 700 Psc 27 11 27 40 +19 50 6   Media ipsarum
+ 701 Psc 28 11 27 00 +20 20 6   Antecedens de tribus
+ 702 Psc 29 11 25 40 +14 20 4   Præcedens de tribus quæ in australi spina, post cubitum Andromedæ
+ 703 Psc 30 11 26 40 +13*00 4   Media ipsarum
+ 704 Psc 31 11 27 40 +12 00 4   Sequens ipsarum
+ 705 Psc 32  0 02 10 +17 00 4   Borealior duarum quæ sunt in ventre
+ 706 Psc 33 11 29 50 +15 20 4   Australior ipsarum
+ 707 Psc 34  0 00 00 +11 45 4   Quæ est in spina sequenti juxta caudam
+ 708 Psc~ 1 11 01 10 -02 40 4   Præcedens de duabus borealibus quadrilateræ figuræ quæ est sub Pisce antecedente
+ 709 Psc~ 2 11 02 15 -02 30 4   Sequens earum
+ 710 Psc~ 3 11 00 40 -05 30 4   Præcedens australis lateris
+ 711 Psc~ 4 11 02 20 -05 30 4   Sequens australis lateris
+ 712 Cet  1  0 17 40 -07 45 4   Quæ in extremitate naris
+ 713 Cet  2  0 17 40 -12 20 3   Sequens de tribus quæ sunt in rictu, et est in extrema maxilla
+ 714 Cet  3  0 12 40 -11 30 3   Media ipsarum et est in ore medio
+ 715 Cet  4  0 10 30 -14 00 3   Præcedens de tribus et est in mento
+ 716 Cet  5  0 10*10 -08 10 4   Quæ est in supercilio et in oculo
+ 717 Cet  6  0 12 40 -06 20 4   Borealior hac et est quasi in capillis
+ 718 Cet  7  0 07 20 -04 10 4   Præcedens hanc, et est quasi in juba
+ 719 Cet  8  0 03 00 -24 30 4   Borealis antecedentis lateris quadrilateræ figuræ quæ est in pectore
+ 720 Cet  9  0 03 20 -28 00 4   Australis antecedentis lateris
+ 721 Cet 10  0 06 40 -25 10 4   Borealis sequentis lateris
+ 722 Cet 11  0 07 00 -27 30 3   Australis sequentis lateris
+ 723 Cet 12 11 22 00 -25 20 3   Media de tribus quæ sunt in corpore
+ 724 Cet 13 11 23 00 -30 50 4   Australis ipsarum
+ 725 Cet 14 11 25 00 -20 00 3   Borealis de tribus
+ 726 Cet 15 11 19 40 -15*20 3   Sequens duarum quæ sunt juxta caudam
+ 727 Cet 16 11 15 00 -15 40 3   Antecedens ipsarum
+ 728 Cet 17 11 11 00 -13 40 5   Borealis sequentis lateris figuræ quadrilateræ, quæ est in cauda
+ 729 Cet 18 11 10 40 -14 40 5   Australis sequentis lateris
+ 730 Cet 19 11 09 20 -13 00 5-4 Borealis præcedentis lateris
+ 731 Cet 20 11 09 00 -14 00 5-4 Australis præcedentis lateris
+ 732 Cet 21 11 04 40 -09 40 3-4 De duabus quæ sunt in extremis caudæ, quæ in boreali est
+ 733 Cet 22 11 05 40 -20 20 3   Quæ in extremitate australi caudæ
+ 734 Ori  1  1 27 00 -13*50 neb Nebulosa quæ in capite Orionis est
+ 735 Ori  2  2 02 00 -17 00 1-2 Splendida quæ in humero dextro et est subrufa
+ 736 Ori  3  1 24 00 -17 30 2-1 Quæ in humero sinistro
+ 737 Ori  4  1 25 00 -18 00 4-5 Quæ sub ista sequitur
+ 738 Ori  5  2 04 20 -14 30 4   Quæ est in cubito dextro
+ 739 Ori  6  2 06 20 -11 50 6   Quæ in brachio dextro
+ 740 Ori  7  2 06 30 -10 00 4   Sequens et bina australis lateris figuræ quadrilateræ quæ est in extremitate manus dextræ
+ 741 Ori  8  2 06 00 -09 45 4   Antecedens australis lateris
+ 742 Ori  9  2 07 20 -08 15 6   Sequens borealis lateris
+ 743 Ori 10  2 06 40 -08 15 6   Præcedens borealis lateris
+ 744 Ori 11  2 01 40 -03 45 5   Præcedens de duabus quæ sunt in collorobo
+ 745 Ori 12  2 04*20 -04 15 5   Sequens ipsarum
+ 746 Ori 13  1 27 50 -19 40 4   Sequens de quatuor quæ sunt in scapula quasi ad rectam lineam
+ 747 Ori 14  1 26 20 -20 00 6   Præcedens istam
+ 748 Ori 15  1 25 20 -20*20 6   Quæ adhuc hanc præcedit
+ 749 Ori 16  1 24 10 -20 40 5   Reliqua et antecedens de quatuor
+ 750 Ori 17  1 20 30 -08 00 4   Borealissima earum quæ sunt in pelle manus sinistræ
+ 751 Ori 18  1 19 20 -08 10 4   Secunda a borealissima
+ 752 Ori 19  1 18 00 -10 15 4   Tertia a borealissima
+ 753 Ori 20  1 16 20 -12 50 4   Quarta a borealissima
+ 754 Ori 21  1 15 10 -14 15 4   Quinta a borealissima
+ 755 Ori 22  1 14 50 -15 50 3   Sexta a borealissima
+ 756 Ori 23  1 14 50 -17 10 3   Septima a borealissima
+ 757 Ori 24  1 15 20 -20 20 3   Octava a borealissima
+ 758 Ori 25  1 16 20 -21 30 3   Reliqua et australissima earum quæ sunt in pelle
+ 759 Ori 26  1 25 20 -24 10 2   Antecedens de tribus quæ sunt in cingulo
+ 760 Ori 27  1 27 20 -24 50 2   Media ipsarum
+ 761 Ori 28  1 28 10 -25 40 2   Sequens de tribus
+ 762 Ori 29  1 23 50 -25 50 3   Quæ in ensis capulo
+ 763 Ori 30  1 26 30 -28*40 4   Borealis de tribus conjunctis quæ sunt in ensis extremitate
+ 764 Ori 31  1 26 40 -29 10 3-4 Media ipsarum
+ 765 Ori 32  1 27 00 -29 50 3   Australis de tribus
+ 766 Ori 33  1 27 40 -30 40 4   Sequens de duabus quæ sunt sub ensis extremitate
+ 767 Ori 34  1 26*10 -30 50 4   Præcedens ipsarum
+ 768 Ori 35  1 19 50 -31 30 1   Splendida quæ est in extremitate pedis sinistri communis cum aqua
+ 769 Ori 36  1 21 00 -30 15 4-3 Borealior ipsarum supra talum in tibia
+ 770 Ori 37  1 23 20 -31 10 4   Exterior sub sinistro calcaneo
+ 771 Ori 38  2 00 10 -33 30 3-2 Quæ sub dextro et sequenti genu
+ 772 Eri  1  1 18 20 -31 50 4-3 Quæ post illam quæ est in extremo pede Orionis in principio fluvii
+ 773 Eri  2  1 18 50 -28 15 4   Borealior hac in flexu juxta suram Orionis
+ 774 Eri  3  1 18 00 -29 50 4   Sequens de duabus quæ post istam deinceps sunt
+ 775 Eri  4  1 14 40 -28 15 4   Præcedens ipsarum
+ 776 Eri  5  1 13 10 -25 50 4   Sequens duarum quæ rursus deinceps sunt
+ 777 Eri  6  1 10*10 -25 20 4   Præcedens ipsarum
+ 778 Eri  7  1 06 20 -26 00 5   Sequens de tribus quæ post ipsam sunt
+ 779 Eri  8  1 05*30 -27*00 4   Media ipsarum
+ 780 Eri  9  1 02 50 -27 50 4   Præcedens de tribus
+ 781 Eri 10  0 27 00 -32 50 3   Sequens de quatuor quæ parum deinceps distant
+ 782 Eri 11  0 24 20 -31 00 4   Præcedens istam
+ 783 Eri 12  0 24 10 -28 50 3   Præcedens adhuc istam
+ 784 Eri 13  0 22 00 -28 00 3   Præcedens de quatuor
+ 785 Eri 14  0 17 10 -25 30 3   Sequens de quatuor quæ parum deinceps distantia distant
+ 786 Eri 15  0 14 50 -23 50 4   Præcedens istam
+ 787 Eri 16  0 12 10 -23*50 3   Præcedens adhuc istam
+ 788 Eri 17  0 10 30 -23 15 4   Præcedens de quatuor
+ 789 Eri 18  0 05 10 -32 10 4   Quæ in flexu fluvii est, primumque tangit pectus Ceti
+ 790 Eri 19  0 05 50 -34 50 4   Sequens istam
+ 791 Eri 20  0 08 50 -38 30 4   Præcedens de tribus quæ deinceps sunt
+ 792 Eri 21  0 13 50 -38 10 4   Media ipsarum
+ 793 Eri 22  0 17 30 -39 00 4   Sequens de tribus
+ 794 Eri 23  0 21 20 -41 20 4   Borealis antecedentis lateris de quatuor quæ deinceps quasi quadrangulum faciunt
+ 795 Eri 24  0 21 30 -42 30 5   Australior antecedentis lateris
+ 796 Eri 25  0 22 10 -43 15 4   Antecedens sequentis lateris
+ 797 Eri 26  0 24 40 -43 20 4   Sequens hujus lateris et reliqua de quatuor
+ 798 Eri 27  1 04 10 -50 20 4   Boreali sede duabus contiguis quæ ab istis ad ortum distant
+ 799 Eri 28  1 05 00 -51 45 4   Australior ipsarum
+ 800 Eri 29  0 28 10 -53 50 4   Sequens duarum quæ deinceps post flexum sunt
+ 801 Eri 30  0 25 50 -53 10 4   Præcedens ipsarum
+ 802 Eri 31  0 17 50 -53 00 4   Sequens de tribus quæ deinceps in nonnulla distantia sunt
+ 803 Eri 32  0 14 50 -53 30 4   Media ipsarum
+ 804 Eri 33  0 11 50 -52 00 4   Præcedens de tribus
+ 805 Eri 34  0 00 10 -53 30 1   Ultima fluvii et est splendida
+ 806 Lep  1  1 19*40 -35 00 5   Borealis antecedentis lateris quadrangulæ figuræ quæ in auribus
+ 807 Lep  2  1 19 50 -36 30 5   Australis antecedentis lateris
+ 808 Lep  3  1 21 20 -35 40 5   Borealis sequentis lateris
+ 809 Lep  4  1 21 20 -36 40 5   Australis sequentis lateris
+ 810 Lep  5  1 19 10 -39 15 4-3 Quæ in mento est
+ 811 Lep  6  1 16 10 -45 15 4-3 Quæ in extremitate anterioris sinistri pedis
+ 812 Lep  7  1 25 50 -41 30 3   Quæ in medio corpore
+ 813 Lep  8  1 24*20 -44 20 3   Quæ sub ventre
+ 814 Lep  9  2 01 00 -44 00 4-3 Borealior duarum, quæ sunt in posterioribus pedibus
+ 815 Lep 10  1 29 00 -45 50 4-3 Australior ipsarum
+ 816 Lep 11  2 00 00 -38 20 4-3 Quæ in lumbis
+ 817 Lep 12  2 02 40 -38 10 4-3 Quæ in extremitate caudæ
+ 818 CMa  1  2 17 40 -39 10 1   Quæ in ore fulgentissima est, et vocatur Sirius, et est subrufa
+ 819 CMa  2  2 19 40 -35 00 4   Quæ in auribus
+ 820 CMa  3  2 21 20 -36 30 5   Quæ in capite
+ 821 CMa  4  2 23 20 -37 45 4   Borealis duarum quæ sunt in collo
+ 822 CMa  5  2 20 20 -40 00 4   Australis ipsarum
+ 823 CMa  6  2 20 30 -42 40 5   Quæ in pectore
+ 824 CMa  7  2 16 10 -41 15 5   Borealis duarum quæ sunt in genu dextro
+ 825 CMa  8  2 16 00 -42 30 5   Australior ipsarum
+ 826 CMa  9  2 11 00 -41 20 3   Quæ in extremitate anterioris pedis
+ 827 CMa 10  2 14 40 -46 30 5   Antecedens duarum quæ sunt in genu sinistro
+ 828 CMa 11  2 16 10 -45 50 5   Sequens ipsarum
+ 829 CMa 12  2 24 40 -46 10 4   Sequens duarum quæ sunt in humero sinistro
+ 830 CMa 13  2 21 40 -47 00 5   Præcedens ipsarum
+ 831 CMa 14  2 26 40 -48 45 3-4 Quæ est in cruris sinistri radice
+ 832 CMa 15  2 23 40 -51 30 3   Quæ sub ventre inter crura
+ 833 CMa 16  2 21*00 -55 10 4   Quæ in poplite pedis dextri
+ 834 CMa 17  2 09 40 -53 45 3   Quæ in extremitate pedis dextri
+ 835 CMa 18  3 02 10 -50 40 3-4 Quæ in cauda
+ 836 CMa~ 1  2 19 30 -25 15 4   Quæ a septentrione capite canis
+ 837 CMa~ 2  2 07*00 -61 30 4   Australissima de quatuor quæ sunt sub posterioribus pedibus quasi ad rectam lineam
+ 838 CMa~ 3  2 11 20 -58 45 4   Borealior hac
+ 839 CMa~ 4  2 13 00 -57 00 4   Borealior adhuc ista
+ 840 CMa~ 5  2 14 10 -56 00 4   Reliqua et borealior de quatuor
+ 841 CMa~ 6  1 28 00 -55 30 4   Præcedens de tribus quæ sunt ad occasum rerum istarum quatuor quasi ad rectam lineam
+ 842 CMa~ 7  2 00 20 -57 40 4   Media ipsarum
+ 843 CMa~ 8  2 02 20 -59*30 4   Sequens de tribus
+ 844 CMa~ 9  1 29 00 -59 40 2   Sequens de duabus splendidis quæ sunt sub istis
+ 845 CMa~10  1 26 00 -57 40 2   Præcedens ipsarum
+ 846 CMa~11  1 22 10 -59 30 4   Reliqua et australior supradictis
+ 847 CMi  1  2 25 00 -14 00 4   Quæ in collo
+ 848 CMi  2  2 29*10 -16 10 1   Fulgens quæ est in posterioribus et vocatur Procyon
+ 849 Nav  1  3 10 20 -42 30 5   Præcedens duarum quæ sunt in extremitate navis
+ 850 Nav  2  3 14 20 -43 20 3   Sequens earum
+ 851 Nav  3  3 08 50 -45 00 4   Borealior duarum contiguarum quæ sunt supra scutulum in puppi
+ 852 Nav  4  3 08 40 -46 00 4   Australior ipsarum
+ 853 Nav  5  3 05 20 -45 30 4   Præcedens istarum
+ 854 Nav  6  3 06 20 -47 15 3   Splendida quæ est in medio scutulo
+ 855 Nav  7  3 05 20 -49*30 4   Præcedens de tribus quæ sunt sub scutulo
+ 856 Nav  8  3 09 20 -49*30 4   Sequens ipsarum
+ 857 Nav  9  3 08 30 -49 15 4   Media de tribus
+ 858 Nav 10  3 14 00 -49 50 4   Quæ in χηνίσκου sive anserculo est
+ 859 Nav 11  3 04 00 -53 00 4   Borealior duarum quæ sunt in carina puppis
+ 860 Nav 12  3 04 00 -58 40 3   Australior ipsarum
+ 861 Nav 13  3 10 10 -55*30 5   Borealior earum quæ sunt in foris puppis
+ 862 Nav 14  3 12 10 -58 40 5   Præcedens de tribus quæ deinceps sunt
+ 863 Nav 15  3 13 40 -57 15 4   Media ipsarum
+ 864 Nav 16  3 16 30 -57 45 4   Sequens de tribus
+ 865 Nav 17  3 21 10 -58*20 2   Splendida quæ istas in foris sequitur
+ 866 Nav 18  3 18 10 -60 00 5   Præcedens de duabus obscuris, quæ sunt sub splendida
+ 867 Nav 19  3 21 00 -59 20 5   Sequens ipsarum
+ 868 Nav 20  3 23*00 -56 40 5   Præcedens de duabus quæ sunt supra splendidam dictam
+ 869 Nav 21  3 24 20 -57 40 5   Sequens ipsarum
+ 870 Nav 22  4 05 40 -51 30 4-3 Borealis de tribus quæ sunt in scutulis et est quasi in malo
+ 871 Nav 23  4 06 10 -55 40 4-3 Media ipsarum
+ 872 Nav 24  4 04 00 -57 10 4-3 Australis de tribus
+ 873 Nav 25  4 09 10 -60 00 4-3 Borealior de duabus contiguis quæ sunt sub istis
+ 874 Nav 26  4 09 00 -61 15 4-3 Australior ipsarum
+ 875 Nav 27  4 00 10 -51*30 3   Australis de duabus, quæ sunt in medio malo
+ 876 Nav 28  3 29 20 -49 00 3   Borealior ipsarum
+ 877 Nav 29  3 28 00 -43 20 4   Præcedens de duabus quæ sunt in extremitate mali
+ 878 Nav 30  3 29 00 -43 30 4   Sequens ipsarum
+ 879 Nav 31  4 14*10 -54 30 2   Quæ est sub tertia in sequento scutulo
+ 880 Nav 32  4 17 30 -51 15 2-3 Quæ in abscissione fororum est
+ 881 Nav 33  3 11 10 -63 00 4   Quæ inter gubernacula in carina
+ 882 Nav 34  3 19 00 -64 30 6   Sequens istam obscura
+ 883 Nav 35  4 00 00 -63 50 2   Splendida sequens istam sub foris
+ 884 Nav 36  4 08 30 -69 40 2   Splendida quæ ad meridiem istius est in inferiore carina
+ 885 Nav 37  4 15 10 -65 40 3   Antecedens de tribus, quæ istam sequuntur
+ 886 Nav 38  4 21 20 -65 50 3   Media ipsarum
+ 887 Nav 39  4 26 00 -67 20 2   Sequens de tribus
+ 888 Nav 40  5 01 00 -62 50 3   Præcedens de duabus sequentibus has juxta abscissionem
+ 889 Nav 41  5 08 00 -62*15 3   Sequens ipsarum
+ 890 Nav 42  2 04 00 -65 50 4-3 Antecedens de duabus quæ sunt in boreali et præcedenti gubernaculo
+ 891 Nav 43  2 20 10 -65 40 3-2 Sequens ipsarum
+ 892 Nav 44  2 17 10 -75 00 1   Præcedens duarum reliquarum in gubernaculo et vocatur Canopus
+ 893 Nav 45  2 29 00 -71 45 3-2 Reliqua et sequens ipsarum
+ 894 Hya  1  3 14 00 -15 00 4   Australis duarum præcedentium de quinque quæ sunt in capite et est in naribus
+ 895 Hya  2  3 13 20 -13*10 4   Borealior ipsarum et est supra oculum
+ 896 Hya  3  3 15 20 -11 30 4   Borealis de duabus sequentibus et est quasi in cranio
+ 897 Hya  4  3 15 30 -14*45 4   Australior ipsarum et est in oris hiatu
+ 898 Hya  5  3 17 50 -12*00 4   Quæ omnes istas sequitur et est quasi in mento
+ 899 Hya  6  3 20 20 -11 50 5   Præcedens duarum quæ sunt in radice colli
+ 900 Hya  7  3 23 20 -13 40 4   Sequens ipsarum
+ 901 Hya  8  3 28 50 -15 20 4   Media de tribus quæ deinceps in flexu colli sunt
+ 902 Hya  9  4 00 40 -14 50 4   Sequens de tribus
+ 903 Hya 10  3 28 30 -17 10 4   Australissima ipsarum
+ 904 Hya 11  3 29 10 -19 45 6   Borealis et obscura de duabus contiguis quæ sunt ab austro
+ 905 Hya 12  4 00 00 -23*00 2   Splendida de duabus contiguis
+ 906 Hya 13  4 06 00 -26 30 4   Præcedens de tribus sequentibus post flexum
+ 907 Hya 14  4 08 40 -26 00 4   Media ipsarum
+ 908 Hya 15  4 11 10 -23*15 4   Sequens de tribus
+ 909 Hya 16  4 18 00 -24 40 3   Præcedens de tribus quæ deinceps quasi ad rectam lineam sunt
+ 910 Hya 17  4 20 00 -23 00 4   Media ipsarum
+ 911 Hya 18  4 23 00 -22 10 3   Sequens de tribus
+ 912 Hya 19  5 01 30 -25 45 4-3 Borealis de duabus quæ sunt post basim Crateræ
+ 913 Hya 20  5 02 20 -30 10 4   Australior ipsarum
+ 914 Hya 21  5 12 10 -31 20 4   Præcedens de tribus post istas quæ sunt quasi in triangulo
+ 915 Hya 22  5 14 30 -33 10 4   Media et australior ipsarum
+ 916 Hya 23  5 16 10 -31 20 3   Sequens de tribus
+ 917 Hya 24  6 00 00 -13 40 4-3 Quæ post corvum est prope caudam
+ 918 Hya 25  6 13 30 -17 40 4-3 Quæ in extremitate caudæ
+ 919 Hya~ 1  3 12 30 -23 15 3   Quæ a meridie capitis
+ 920 Hya~ 2  4 11 00 -10*10 3   Sequens eas quæ in collo sunt non multum ab illis distans
+ 921 Crt  1  4 26 20 -23 00 4   Quæ in basi Crateræ est communis cum Hydro
+ 922 Crt  2  5 02 30 -19 30 4   Australior de duabus quæ sunt in medio Crateræ
+ 923 Crt  3  5 00 00 -18 00 4   Borealior ipsarum
+ 924 Crt  4  5 07 00 -18 30 4-3 Quæ est in australi arcu oris
+ 925 Crt  5  4 29 20 -13 40 4   Quæ est in boreali arcu oris
+ 926 Crt  6  5 09 10 -16 10 4-5 Quæ est in ansa australi
+ 927 Crt  7  5 01*40 -11 50 4   Quæ est in ansa boreali
+ 928 Crv  1  5 15 20 -21 40 3   Quæ in rostro communis cum Hydro
+ 929 Crv  2  5 14 20 -19 40 3   Quæ est in collo juxta caput
+ 930 Crv  3  5 16 40 -18 10 5   Quæ in pectore
+ 931 Crv  4  5 13 30 -14 50 3   Quæ in antecedente dextraque ala
+ 932 Crv  5  5 16 40 -12 30 3   Præcedens de duabus quæ sunt in ala sequenti
+ 933 Crv  6  5 17 00 -11 45 4   Sequens ipsarum
+ 934 Crv  7  5 20 30 -18 10 3   Quæ in extremo pede communis cum Hydro
+ 935 Cen  1  6 10 30 -21 40 5-4 Australissima de quatuor quæ sunt in capite
+ 936 Cen  2  6 10 00 -18 50 5-4 Borealior ipsarum
+ 937 Cen  3  6 09 10 -20 30 4-3 Antecedens de duabus reliquis et mediis
+ 938 Cen  4  6 10 00 -20 00 5-4 Sequens ipsarum et reliqua de quatuor
+ 939 Cen  5  6 06 10 -25 40 3   Quæ in sinistro antecedentique humero
+ 940 Cen  6  6 15 40 -22 30 3   Quæ in humero dextro
+ 941 Cen  7  6 09 10 -27 30 4   Quæ in sinistra scapula
+ 942 Cen  8  6 18 10 -22 20 4   Borealior de duabus præcedentibus quæ sunt in Thyrso
+ 943 Cen  9  6 19 10 -23 45 4   Australior ipsarum
+ 944 Cen 10  6 22 00 -18 15 4   De reliquis duabus quæ est in extremo Thyrsi
+ 945 Cen 11  6 22 30 -20 50 4   Reliqua et australior hac
+ 946 Cen 12  6 13 20 -28 20 4-3 Præcedens de tribus quæ sunt in dextro latere
+ 947 Cen 13  6 14 00 -29 20 4-3 Media ipsarum
+ 948 Cen 14  6 15 10 -28 00 4-3 Sequens de tribus
+ 949 Cen 15  6 16 20 -26 30 4-3 Quæ est in dextro brachio
+ 950 Cen 16  6 22 50 -25 15 3   Quæ in dextro cubito
+ 951 Cen 17  6 27 30 -24 00 4   Quæ in extremitate manus dextræ
+ 952 Cen 18  6 18 00 -33 30 3-2 Splendida quæ est in conjunctione humani corporis
+ 953 Cen 19  6 17 40 -31 00 5   Sequens de duabus obscuris, quæ sunt borealiores hac
+ 954 Cen 20  6 16 50 -30 20 5   Præcedens ipsarum
+ 955 Cen 21  6 12 10 -34 50 5   Quæ est in principio scapulæ
+ 956 Cen 22  6 09 00 -37 40 5   Antecedens hanc in dorso equi
+ 957 Cen 23  6 05 50 -40 00 3   Sequens de tribus quæ sunt in lumbis
+ 958 Cen 24  6 05 00 -40 20 4   Media ipsarum
+ 959 Cen 25  6 02 40 -41 00 5   Antecedens de tribus
+ 960 Cen 26  6 02 40 -46 10 3   Præcedens de duabus contiguis quæ sunt in crure dextro
+ 961 Cen 27  6 03 30 -46 45 4   Sequens ipsarum
+ 962 Cen 28  6 18 20 -40 45 4   Quæ in pectore sub axilla equi
+ 963 Cen 29  6 16 20 -43 00 2   Præcedens de duabus quæ sunt sub ventre
+ 964 Cen 30  6 17 40 -43 45 3   Sequens ipsarum
+ 965 Cen 31  6 10 00 -51 10 2   Quæ est in poplite pedis dextri
+ 966 Cen 32  6 15 20 -51 40 2   Quæ est in talo ejusdem pedis
+ 967 Cen 33  6 06 20 -55 10 4   Quæ sub poplite sinistri pedis
+ 968 Cen 34  6 11 10 -55 20 2   Quæ in sura ejusdem pedis
+ 969 Cen 35  7 08 20 -44*10 1   Quæ in extremo anterioris dextri pedis
+ 970 Cen 36  6 24 10 -45 20 2   Quæ in genu sinistri pedis
+ 971 Cen 37  6 14 40 -49 10 4   Quæ est extra sub dextro posteriore pede
+ 972 Lup  1  6 28 00 -24 50 3   Quæ in extremo posteriore pede apud manum Centauri
+ 973 Lup  2  6 25 50 -29 10 3   Quæ in poplite ejusdem pedis
+ 974 Lup  3  7 01 00 -21 15 4   Præcedens de duabus quæ sunt in scapula
+ 975 Lup  4  7 04 10 -21 00 4   Sequens earum
+ 976 Lup  5  7 03 00 -25 10 4   Quæ in medio feræ corpore
+ 977 Lup  6  7 00 10 -27 00 5   Quæ in ventre sub latere
+ 978 Lup  7  7 00 40 -29 00 5   Quæ in crure
+ 979 Lup  8  7 04 40 -28 30 5   Borealior de duabus quæ sunt juxta radicem cruris
+ 980 Lup  9  7 03 40 -30 10 5   Australior ipsarum
+ 981 Lup 10  7 05 40 -33 10 5   Quæ in extremis lumbis
+ 982 Lup 11  6 20 20 -31 20 5   Australis de tribus quæ sunt in extrema cauda
+             6 26*00
+             6 22 00
+ 983 Lup 12  6 21*50 -30 30 4   Media de tribus
+ 984 Lup 13  6 23 00 -29 20 4-3 Borealior ipsarum
+ 985 Lup 14  7 08 50 -17 00 4   Australior de duabus quæ sunt in collo
+ 986 Lup 15  7 09 20 -15 20 4-3 Borealior ipsarum
+ 987 Lup 16  7 05 40 -13 20 4   Præcedens de duabus quæ sunt in rictu
+ 988 Lup 17  7 06 40 -11 50 4   Sequens ipsarum
+ 989 Lup 18  6 27*20 -11*30 4-3 Australior de duabus quæ sunt in anteriore pede
+ 990 Lup 19  6 27*30 -10 00 4-3 Borealior ipsarum
+ 991 Ara  1  7 27 40 -22 40 5   Borealior de duabus quæ sunt in basi
+ 992 Ara  2  8 03*00 -25 45 4   Australior ipsarum
+ 993 Ara  3  7 26*10 -26 30 4-3 Quæ est in media aræ
+ 994 Ara  4  7 20 40 -30 20 5   Borealis de tribus quæ sunt in foco
+ 995 Ara  5  7 25 10 -34 10 4-3 Australior reliquarum et contiguarum duarum
+ 996 Ara  6  7 25 00 -33 20 4   Borealior ipsarum
+ 997 Ara  7  7 20 50 -34*00 4   Quæ est in extremitate
+ 998 CrA  1  8 09 10 -21 30 4   Antecedens extra australem arcum
+ 999 CrA  2  8 11 40 -21 00 5   Quæ ipsam sequitur et est in corona
+1000 CrA  3  8 13 10 -20 20 5   Quæ istam sequitur
+1001 CrA  4  8 14 50 -20 00 4   Sequens adhuc istam
+1002 CrA  5  8 16 10 -18 30 5   Quæ post istam est ante Sagittarii genu
+1003 CrA  6  8 17 00 -17 10 4   Quæ post istam est borealior quam fulgens quæ est in genu
+1004 CrA  7  8 16*50 -16 00 4   Borealior hac
+1005 CrA  8  8 16 30 -15 10 4   Adhuc borealior ista
+1006 CrA  9  8 15 10 -15 20 6   Sequens de duabus præcedentibus istam in boreali arcu
+1007 CrA 10  8 14 40 -14 50 6   Præcedens de duabus obscuris
+1008 CrA 11  8 11 50 -14*40 5   Hanc etiam satis præcedens
+1009 CrA 12  8 09 40 -15 50 5   Adhuc istam præcedens
+1010 CrA 13  8 09 10 -18 30 5   Reliqua et australior quam supradicta
+1011 PsA  1 10 07 00 -20*20 1   Quæ est in ore, est eadem cum principio aquæ
+1012 PsA  2 10 00 40 -20 20 4   Præcedens de tribus quæ sunt in australi capitis circumferentia
+1013 PsA  3 10 04 10 -22 15 4   Media ipsarum
+1014 PsA  4 10 05 20 -22 30 4   Sequens de tribus
+1015 PsA  5 10 04 20 -16 15 4-3 Quæ est ad branchias
+1016 PsA  6  9 25 10 -19 30 5   Quæ est in dorsali australique spina
+1017 PsA  7 10 01 10 -15 10 5   Sequens de duabus quæ sunt in ventre
+1018 PsA  8  9 28 50 -14 40 4   Antecedens ipsarum
+1019 PsA  9  9 25 10 -15 00 4   Sequens de tribus quæ sunt in boreali spina
+1020 PsA 10  9 21 50 -16 30 4   Media ipsarum
+1021 PsA 11  9 21 00 -18 10 4   Præcedens de tribus
+1022 PsA 12  9 20 10 -22 15 4   Quæ in extrema cauda
+1023 PsA~ 1  9 08 00 -22 20 3-4 Præcedens de tribus splendidis antecedentibus Piscem
+1024 PsA~ 2  9 11 10 -22 10 3-4 Media ipsarum
+1025 PsA~ 3  9 14 00 -21 10 3-4 Sequens de tribus
+1026 PsA~ 4  9 12 00 -20 50 5   Præcedens hanc et est obscura
+1027 PsA~ 5  9 13 50 -17 00 4   Australior de duabus reliquis quæ sunt in septentrione
+1028 PsA~ 6  9 13 50 -14 50 4   Borealis ipsarum

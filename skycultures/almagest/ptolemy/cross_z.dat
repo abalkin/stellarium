@@ -1,0 +1,1028 @@
+   1 UMi  1 UMi alp
+   2 UMi  2 UMi del
+   3 UMi  3 UMi eps
+   4 UMi  4 UMi gam
+   5 UMi  5 UMi bet
+   6 UMi  6 UMi eta
+   7 UMi  7 UMi zet
+   8 UMi~ 1 UMi a
+   9 UMa  1 UMa omi
+  10 UMa  2 UMa A
+  11 UMa  3 UMa pi
+  12 UMa  4 UMa rho
+  13 UMa  5 UMa sig
+  14 UMa  6 UMa d
+  15 UMa  7 UMa tau
+  16 UMa  8 UMa h
+  17 UMa  9 UMa ups
+  18 UMa 10 UMa phi
+  19 UMa 11 UMa the
+  20 UMa 12 UMa iot
+  21 UMa 13 UMa kap
+  22 UMa 14 UMa e
+  23 UMa 15 UMa f
+  24 UMa 16 UMa alp
+  25 UMa 17 UMa bet
+  26 UMa 18 UMa del
+  27 UMa 19 UMa gam
+  28 UMa 20 UMa lam
+  29 UMa 21 UMa mu
+  30 UMa 22 UMa psi
+  31 UMa 23 UMa nu
+  32 UMa 24 UMa xi
+  33 UMa 25 UMa eps
+  34 UMa 26 UMa zet
+  35 UMa 27 UMa eta
+  36 UMa~ 1*
+  37 UMa~ 2*
+  38 UMa~ 3*
+  39 UMa~ 4*
+  40 UMa~ 5*
+  41 UMa~ 6*
+  42 UMa~ 7*
+  43 UMa~ 8*
+  44 Dra  1 Dra mu
+  45 Dra  2 Dra nu
+  46 Dra  3 Dra bet
+  47 Dra  4 Dra xi
+  48 Dra  5 Dra gam
+  49 Dra  6 Dra b
+  50 Dra  7 Dra c
+  51 Dra  8 Dra d
+  52 Dra  9 Dra omi
+  53 Dra 10 Dra del
+  54 Dra 11 Dra pi
+  55 Dra 12 Dra eps
+  56 Dra 13 Dra rho
+  57 Dra 14 Dra sig
+  58 Dra 15 Dra ups
+  59 Dra 16 Dra tau
+  60 Dra 17 Dra psi
+  61 Dra 18 Dra chi
+  62 Dra 19 Dra phi
+  63 Dra 20*
+  64 Dra 21 Dra f
+  65 Dra 22 Dra g
+  66 Dra 23 Dra h
+  67 Dra 24 Dra zet
+  68 Dra 25 Dra eta
+  69 Dra 26 Dra the
+  70 Dra 27 Dra iot
+  71 Dra 28 Dra i
+  72 Dra 29 Dra alp
+  73 Dra 30 Dra kap
+  74 Dra 31 Dra lam
+  75 Cep  1 Cep kap
+  76 Cep  2 Cep gam
+  77 Cep  3 Cep bet
+  78 Cep  4 Cep alp
+  79 Cep  5 Cep eta
+  80 Cep  6 Cep the
+  81 Cep  7 Cep xi
+  82 Cep  8 Cep iot
+  83 Cep  9 Cep eps
+  84 Cep 10 Cep zet
+  85 Cep 11 Cep lam
+  86 Cep~ 1*
+  87 Cep~ 2*
+  88 Boo  1 Boo kap
+  89 Boo  2 Boo iot
+  90 Boo  3 Boo the
+  91 Boo  4 Boo lam
+  92 Boo  5 Boo gam
+  93 Boo  6 Boo bet
+  94 Boo  7 Boo del
+  95 Boo  8 Boo mu
+  96 Boo  9 Boo nu
+  97 Boo 10 Boo chi
+  98 Boo 11 Boo psi
+  99 Boo 12 Boo ome
+ 100 Boo 13 Boo psi
+ 101 Boo 14 Boo b
+ 102 Boo 15 Boo c
+ 103 Boo 16 Boo eps
+ 104 Boo 17 Boo sig
+ 105 Boo 18 Boo rho
+ 106 Boo 19 Boo zet
+ 107 Boo 20 Boo eta
+ 108 Boo 21 Boo tau
+ 109 Boo 22 Boo ups
+ 110 Boo~ 1 Boo alp
+ 111 CrB  1 CrB alp
+ 112 CrB  2 CrB bet
+ 113 CrB  3 CrB the
+ 114 CrB  4 CrB pi
+ 115 CrB  5 CrB gam
+ 116 CrB  6 CrB del
+ 117 CrB  7 CrB eps
+ 118 CrB  8 CrB iot
+ 119 Her  1 Her alp
+ 120 Her  2 Her bet
+ 121 Her  3 Her gam
+ 122 Her  4 Her kap
+ 123 Her  5 Her del
+ 124 Her  6 Her lam
+ 125 Her  7 Her mu
+ 126 Her  8 Her omi
+ 127 Her  9 Her nu
+ 128 Her 10 Her xi
+ 129 Her 11 Her zet
+ 130 Her 12 Her eps
+ 131 Her 13 Her d
+ 132 Her 14 Her c
+ 133 Her 15 Her pi
+ 134 Her 16 Her e
+ 135 Her 17 Her rho
+ 136 Her 18 Her the
+ 137 Her 19 Her iot
+ 138 Her 20 Her kap
+ 139 Her 21 Her y
+ 140 Her 22 Her z
+ 141 Her 23 Her eta
+ 142 Her 24 Her sig
+ 143 Her 25 Her tau
+ 144 Her 26 Her phi
+ 145 Her 27 Her ups
+ 146 Her 28 Her chi
+ 147 Her 29*
+ 148 Her~ 1*
+ 149 Lyr  1 Lyr alp
+ 150 Lyr  2 Lyr eps
+ 151 Lyr  3 Lyr zet
+ 152 Lyr  4 Lyr del
+ 153 Lyr  5 Lyr eta
+ 154 Lyr  6 Lyr the
+ 155 Lyr  7 Lyr bet
+ 156 Lyr  8 Lyr nu
+ 157 Lyr  9 Lyr gam
+ 158 Lyr 10 Lyr lam
+ 159 Cyg  1 Cyg bet
+ 160 Cyg  2 Cyg phi
+ 161 Cyg  3 Cyg eta
+ 162 Cyg  4 Cyg gam
+ 163 Cyg  5 Cyg alp
+ 164 Cyg  6 Cyg del
+ 165 Cyg  7 Cyg the
+ 166 Cyg  8 Cyg iot
+ 167 Cyg  9 Cyg kap
+ 168 Cyg 10 Cyg eps
+ 169 Cyg 11 Cyg lam
+ 170 Cyg 12 Cyg zet
+ 171 Cyg 13 Cyg nu
+ 172 Cyg 14 Cyg xi
+ 173 Cyg 15 Cyg omi 1
+ 174 Cyg 16 Cyg omi 2
+ 175 Cyg 17 Cyg ome
+ 176 Cyg~ 1 Cyg tau
+ 177 Cyg~ 2 Cyg sig
+ 178 Cas  1 Cas zet
+ 179 Cas  2 Cas alp
+ 180 Cas  3 Cas eta
+ 181 Cas  4 Cas gam
+ 182 Cas  5 Cas del
+ 183 Cas  6 Cas eps
+ 184 Cas  7 Cas iot
+ 185 Cas  8 Cas the
+ 186 Cas  9 Cas mu
+ 187 Cas 10 Cas sig
+ 188 Cas 11 Cas kap
+ 189 Cas 12 Cas bet
+ 190 Cas 13 Cas rho
+ 191 Per  1 Per chi
+ 192 Per  2 Per eta
+ 193 Per  3 Per gam
+ 194 Per  4 Per the
+ 195 Per  5 Per tau
+ 196 Per  6 Per iot
+ 197 Per  7 Per alp
+ 198 Per  8 Per sig
+ 199 Per  9 Per psi
+ 200 Per 10 Per del
+ 201 Per 11 Per kap
+ 202 Per 12 Per bet
+ 203 Per 13 Per ome
+ 204 Per 14 Per rho
+ 205 Per 15 Per pi
+ 206 Per 16 Per b
+ 207 Per 17 Per lam
+ 208 Per 18 Per c
+ 209 Per 19 Per mu
+ 210 Per 20 Per d
+ 211 Per 21 Per m
+ 212 Per 22 Per nu
+ 213 Per 23 Per eps
+ 214 Per 24 Per xi
+ 215 Per 25 Per omi
+ 216 Per 26 Per zet
+ 217 Per~ 1*
+ 218 Per~ 2*
+ 219 Per~ 3*
+ 220 Aur  1 Aur del
+ 221 Aur  2 Aur xi
+ 222 Aur  3 Aur alp
+ 223 Aur  4 Aur bet
+ 224 Aur  5 Aur nu
+ 225 Aur  6 Aur the
+ 226 Aur  7 Aur eps
+ 227 Aur  8 Aur eta
+ 228 Aur  9 Aur zet
+ 229 Aur 10 Aur iot
+ 230 Aur 11 Aur gam
+ 231 Aur 12 Aur chi
+ 232 Aur 13 Aur phi
+ 233 Aur 14 Aur m
+ 234 Oph  1 Oph alp
+ 235 Oph  2 Oph bet
+ 236 Oph  3 Oph gam
+ 237 Oph  4 Oph iot
+ 238 Oph  5 Oph kap
+ 239 Oph  6 Oph lam
+ 240 Oph  7 Oph del
+ 241 Oph  8 Oph eps
+ 242 Oph  9 Oph mu
+ 243 Oph 10 Oph nu
+ 244 Oph 11 Oph tau
+ 245 Oph 12 Oph eta
+ 246 Oph 13 Oph xi
+ 247 Oph 14 Oph rho
+ 248 Oph 15 Oph the
+ 249 Oph 16*
+ 250 Oph 17*
+ 251 Oph 18*
+ 252 Oph 19 Oph zet
+ 253 Oph 20 Oph phi
+ 254 Oph 21 Oph chi
+ 255 Oph 22 Oph psi
+ 256 Oph 23 Oph ome
+ 257 Oph 24 Oph rho
+ 258 Oph~ 1*
+ 259 Oph~ 2*
+ 260 Oph~ 3*
+ 261 Oph~ 4*
+ 262 Oph~ 5*
+ 263 Ser  1 Ser iot
+ 264 Ser  2 Ser rho
+ 265 Ser  3 Ser gam
+ 266 Ser  4 Ser bet
+ 267 Ser  5 Ser kap
+ 268 Ser  6 Ser pi
+ 269 Ser  7 Ser del
+ 270 Ser  8 Ser lam
+ 271 Ser  9 Ser alp
+ 272 Ser 10 Ser eps
+ 273 Ser 11 Ser mu
+ 274 Ser 12 Ser sig
+ 275 Ser 13 Ser nu
+ 276 Ser 14 Ser xi
+ 277 Ser 15 Ser omi
+ 278 Ser 16 Ser zet
+ 279 Ser 17 Ser eta
+ 280 Ser 18 Ser the
+ 281 Sge  1 Sge gam
+ 282 Sge  2 Sge zet
+ 283 Sge  3 Sge del
+ 284 Sge  4 Sge alp
+ 285 Sge  5 Sge bet
+ 286 Aql  1 Aql tau
+ 287 Aql  2 Aql bet
+ 288 Aql  3 Aql alp
+ 289 Aql  4 Aql omi
+ 290 Aql  5 Aql gam
+ 291 Aql  6 Aql phi
+ 292 Aql  7 Aql mu
+ 293 Aql  8 Aql sig
+ 294 Aql  9 Aql eps
+ 295 Aql~ 1 Aql eta
+ 296 Aql~ 2 Aql the
+ 297 Aql~ 3 Aql del
+ 298 Aql~ 4 Aql nu
+ 299 Aql~ 5 Aql kap
+ 300 Aql~ 6 Aql lam
+ 301 Del  1 Del eps
+ 302 Del  2 Del iot
+ 303 Del  3 Del kap
+ 304 Del  4 Del bet
+ 305 Del  5 Del alp
+ 306 Del  6 Del del
+ 307 Del  7 Del gam
+ 308 Del  8 Del zet
+ 309 Del  9 Del eta
+ 310 Del 10 Del the
+ 311 Equ  1 Equ alp
+ 312 Equ  2 Equ bet
+ 313 Equ  3 Equ gam
+ 314 Equ  4 Equ del
+ 315 Peg  1 Peg del
+ 316 Peg  2 Peg gam
+ 317 Peg  3 Peg bet
+ 318 Peg  4 Peg alp
+ 319 Peg  5 Peg tau
+ 320 Peg  6 Peg ups
+ 321 Peg  7 Peg eta
+ 322 Peg  8 Peg omi
+ 323 Peg  9 Peg mu
+ 324 Peg 10 Peg lam
+ 325 Peg 11 Peg zet
+ 326 Peg 12 Peg xi
+ 327 Peg 13 Peg rho
+ 328 Peg 14 Peg sig
+ 329 Peg 15 Peg the
+ 330 Peg 16 Peg nu
+ 331 Peg 17 Peg eps
+ 332 Peg 18 Peg pi
+ 333 Peg 19 Peg iot
+ 334 Peg 20 Peg kap
+ 335 And  1 And del
+ 336 And  2 And pi
+ 337 And  3 And eps
+ 338 And  4 And sig
+ 339 And  5 And the
+ 340 And  6 And rho
+ 341 And  7 And iot
+ 342 And  8 And kap
+ 343 And  9 And lam
+ 344 And 10 And zet
+ 345 And 11 And eta
+ 346 And 12 And bet
+ 347 And 13 And mu
+ 348 And 14 And nu
+ 349 And 15 And gam
+ 350 And 16 Per phi
+ 351 And 17 Per ups
+ 352 And 18 And ups
+ 353 And 19 And tau
+ 354 And 20 And phi
+ 355 And 21 And xi
+ 356 And 22 And chi
+ 357 And 23 And omi
+ 358 Tri  1 Tri alp
+ 359 Tri  2 Tri bet
+ 360 Tri  3 Tri del
+ 361 Tri  4 Tri gam
+ 362 Ari  1 Ari gam
+ 363 Ari  2 Ari bet
+ 364 Ari  3 Ari eta
+ 365 Ari  4 Ari the
+ 366 Ari  5 Ari iot
+ 367 Ari  6 Ari nu
+ 368 Ari  7 Ari eps
+ 369 Ari  8 Ari del
+ 370 Ari  9 Ari zet
+ 371 Ari 10 Ari tau
+ 372 Ari 11 Ari rho
+ 373 Ari 12 Ari sig
+ 374 Ari 13 Ari xi
+ 375 Ari~ 1 Ari alp
+ 376 Ari~ 2*
+ 377 Ari~ 3*
+ 378 Ari~ 4*
+ 379 Ari~ 5*
+ 380 Tau  1 Tau f
+ 381 Tau  2 Tau s
+ 382 Tau  3 Tau xi
+ 383 Tau  4 Tau omi
+ 384 Tau  5 Tau e
+ 385 Tau  6 Tau lam
+ 386 Tau  7 Tau mu
+ 387 Tau  8 Tau nu
+ 388 Tau  9 Tau c
+ 389 Tau 10 Tau d
+ 390 Tau 11 Tau gam
+ 391 Tau 12 Tau del
+ 392 Tau 13 Tau the
+ 393 Tau 14 Tau alp
+ 394 Tau 15 Tau eps
+ 395 Tau 16 Tau i
+ 396 Tau 17 Tau m
+ 397 Tau 18 Tau l
+ 398 Tau 19 Tau zet
+ 399 Tau 20 Tau tau
+ 400 Tau 21*
+ 401 Tau 22 Tau ups
+ 402 Tau 23 Tau kap
+ 403 Tau 24 Tau ome 1
+ 404 Tau 25 Tau ome 2
+ 405 Tau 26 Tau p
+ 406 Tau 27 Tau psi
+ 407 Tau 28 Tau chi
+ 408 Tau 29 Tau phi
+ 409 Tau 30 Tau d
+ 410 Tau 31 Tau eta
+ 411 Tau 32 Tau o
+ 412 Tau 33 Tau f
+ 413 Tau~ 1*
+ 414 Tau~ 2 Tau iot
+ 415 Tau~ 3*
+ 416 Tau~ 4 Tau o
+ 417 Tau~ 5*
+ 418 Tau~ 6*
+ 419 Tau~ 7*
+ 420 Tau~ 8*
+ 421 Tau~ 9*
+ 422 Tau~10*
+ 423 Tau~11*
+ 424 Gem  1 Gem alp
+ 425 Gem  2 Gem bet
+ 426 Gem  3 Gem the
+ 427 Gem  4 Gem tau
+ 428 Gem  5 Gem b
+ 429 Gem  6 Gem ups
+ 430 Gem  7 Gem kap
+ 431 Gem  8 Gem A
+ 432 Gem  9*
+ 433 Gem 10 Gem eps
+ 434 Gem 11 Gem zet
+ 435 Gem 12 Gem del
+ 436 Gem 13 Gem lam
+ 437 Gem 14 Gem eta
+ 438 Gem 15 Gem mu
+ 439 Gem 16 Gem nu
+ 440 Gem 17 Gem gam
+ 441 Gem 18 Gem xi
+ 442 Gem~ 1 Gem H
+ 443 Gem~ 2*
+ 444 Gem~ 3*
+ 445 Gem~ 4 Gem l
+ 446 Gem~ 5 Gem g
+ 447 Gem~ 6 Gem f
+ 448 Gem~ 7*
+ 449 Cnc  1 Cnc eps
+ 450 Cnc  2 Cnc eta
+ 451 Cnc  3 Cnc the
+ 452 Cnc  4 Cnc gam
+ 453 Cnc  5 Cnc del
+ 454 Cnc  6 Cnc alp
+ 455 Cnc  7 Cnc iot
+ 456 Cnc  8 Cnc mu
+ 457 Cnc  9 Cnc bet
+ 458 Cnc~ 1 Cnc pi
+ 459 Cnc~ 2 Cnc kap
+ 460 Cnc~ 3 Cnc nu
+ 461 Cnc~ 4 Cnc xi
+ 462 Leo  1 Leo kap
+ 463 Leo  2 Leo lam
+ 464 Leo  3 Leo eps
+ 465 Leo  4 Leo mu
+ 466 Leo  5 Leo zet
+ 467 Leo  6 Leo gam
+ 468 Leo  7 Leo eta
+ 469 Leo  8 Leo alp
+ 470 Leo  9 Leo A
+ 471 Leo 10 Leo nu
+ 472 Leo 11 Leo psi
+ 473 Leo 12 Leo xi
+ 474 Leo 13 Leo omi
+ 475 Leo 14 Leo pi
+ 476 Leo 15 Leo rho
+ 477 Leo 16 Leo i
+ 478 Leo 17 Leo K
+ 479 Leo 18 Leo l
+ 480 Leo 19 Leo b
+ 481 Leo 20 Leo del
+ 482 Leo 21 Leo the
+ 483 Leo 22 Leo n
+ 484 Leo 23 Leo iot
+ 485 Leo 24 Leo sig
+ 486 Leo 25 Leo tau
+ 487 Leo 26 Leo ups
+ 488 Leo 27 Leo bet
+ 489 Leo~ 1*
+ 490 Leo~ 2*
+ 491 Leo~ 3 Leo chi
+ 492 Leo~ 4 Leo c
+ 493 Leo~ 5 Leo d
+ 494 Leo~ 6*
+ 495 Leo~ 7 Com h
+ 496 Leo~ 8*
+ 497 Vir  1 Vir nu
+ 498 Vir  2 Vir xi
+ 499 Vir  3 Vir omi
+ 500 Vir  4 Vir pi
+ 501 Vir  5 Vir bet
+ 502 Vir  6 Vir eta
+ 503 Vir  7 Vir gam
+ 504 Vir  8 Vir k
+ 505 Vir  9 Vir the
+ 506 Vir 10 Vir del
+ 507 Vir 11 Vir rho
+ 508 Vir 12 Vir d
+ 509 Vir 13 Vir eps
+ 510 Vir 14 Vir alp
+ 511 Vir 15 Vir zet
+ 512 Vir 16 Vir l
+ 513 Vir 17 Vir h
+ 514 Vir 18 Vir m
+ 515 Vir 19*
+ 516 Vir 20*
+ 517 Vir 21 Vir p
+ 518 Vir 22 Vir iot
+ 519 Vir 23 Vir kap
+ 520 Vir 24 Vir ups
+ 521 Vir 25 Vir lam
+ 522 Vir 26 Vir mu
+ 523 Vir~ 1 Vir chi
+ 524 Vir~ 2 Vir psi
+ 525 Vir~ 3 Vir g
+ 526 Vir~ 4*
+ 527 Vir~ 5*
+ 528 Vir~ 6*
+ 529 Lib  1 Lib alp
+ 530 Lib  2 Lib mu
+ 531 Lib  3 Lib bet
+ 532 Lib  4 Lib del
+ 533 Lib  5 Lib iot
+ 534 Lib  6 Lib nu
+ 535 Lib  7 Lib gam
+ 536 Lib  8 Lib the
+ 537 Lib~ 1 Lib eps
+ 538 Lib~ 2*
+ 539 Lib~ 3 Lib xi
+ 540 Lib~ 4 Lib lam
+ 541 Lib~ 5 Lib eta
+ 542 Lib~ 6*
+ 543 Lib~ 7 Sco gam
+ 544 Lib~ 8*
+ 545 Lib~ 9*
+ 546 Sco  1 Sco bet
+ 547 Sco  2 Sco del
+ 548 Sco  3 Sco pi
+ 549 Sco  4 Sco rho
+ 550 Sco  5 Sco nu
+ 551 Sco  6 Sco ome
+ 552 Sco  7 Sco sig
+ 553 Sco  8 Sco alp
+ 554 Sco  9 Sco tau
+ 555 Sco 10 Sco c
+ 556 Sco 11 Sco c   2
+ 557 Sco 12 Sco eps
+ 558 Sco 13 Sco mu
+ 559 Sco 14 Sco zet
+ 560 Sco 15 Sco zet
+ 561 Sco 16 Sco eta
+ 562 Sco 17 Sco the
+ 563 Sco 18 Sco r
+ 564 Sco 19 Sco kap
+ 565 Sco 20 Sco lam
+ 566 Sco 21 Sco ups
+ 567 Sco~ 1*
+ 568 Sco~ 2*
+ 569 Sco~ 3*
+ 570 Sgr  1 Sgr gam
+ 571 Sgr  2 Sgr del
+ 572 Sgr  3 Sgr eps
+ 573 Sgr  4 Sgr lam
+ 574 Sgr  5 Sgr mu
+ 575 Sgr  6 Sgr sig
+ 576 Sgr  7 Sgr phi
+ 577 Sgr  8 Sgr nu
+ 578 Sgr  9 Sgr xi
+ 579 Sgr 10 Sgr omi
+ 580 Sgr 11 Sgr pi
+ 581 Sgr 12 Sgr d
+ 582 Sgr 13 Sgr rho
+ 583 Sgr 14 Sgr ups
+ 584 Sgr 15 Sgr e
+ 585 Sgr 16 Sgr g
+ 586 Sgr 17 Sgr f
+ 587 Sgr 18 Sgr chi
+ 588 Sgr 19 Sgr h
+ 589 Sgr 20 Sgr psi
+ 590 Sgr 21 Sgr tau
+ 591 Sgr 22 Sgr zet
+ 592 Sgr 23 Sgr bet
+ 593 Sgr 24 Sgr alp
+ 594 Sgr 25 Sgr eta
+ 595 Sgr 26 Sgr the
+ 596 Sgr 27 Sgr iot
+ 597 Sgr 28 Sgr ome
+ 598 Sgr 29 Sgr a
+ 599 Sgr 30 Sgr b
+ 600 Sgr 31 Sgr c
+ 601 Cap  1*
+ 602 Cap  2 Cap alp
+ 603 Cap  3 Cap bet
+ 604 Cap  4 Cap xi
+ 605 Cap  5 Cap omi
+ 606 Cap  6 Cap pi
+ 607 Cap  7 Cap rho
+ 608 Cap  8 Cap sig
+ 609 Cap  9 Cap tau
+ 610 Cap 10 Cap ups
+ 611 Cap 11 Cap psi
+ 612 Cap 12 Cap ome
+ 613 Cap 13 Cap A
+ 614 Cap 14 Cap zet
+ 615 Cap 15 Cap b
+ 616 Cap 16 Cap phi
+ 617 Cap 17 Cap chi
+ 618 Cap 18 Cap eta
+ 619 Cap 19 Cap the
+ 620 Cap 20 Cap iot
+ 621 Cap 21 Cap eps
+ 622 Cap 22 Cap kap
+ 623 Cap 23 Cap gam
+ 624 Cap 24 Cap del
+ 625 Cap 25 Cap d
+ 626 Cap 26 Cap mu
+ 627 Cap 27 Cap lam
+ 628 Cap 28 Cap o
+ 629 Aqr  1 Aqr d
+ 630 Aqr  2 Aqr alp
+ 631 Aqr  3 Aqr omi
+ 632 Aqr  4 Aqr bet
+ 633 Aqr  5 Aqr xi
+ 634 Aqr  6 Aqr nu
+ 635 Aqr  7 Aqr mu
+ 636 Aqr  8 Aqr eps
+ 637 Aqr  9 Aqr gam
+ 638 Aqr 10 Aqr pi
+ 639 Aqr 11 Aqr zet
+ 640 Aqr 12 Aqr eta
+ 641 Aqr 13 Aqr the
+ 642 Aqr 14 Aqr rho
+ 643 Aqr 15 Aqr sig
+ 644 Aqr 16 Aqr iot
+ 645 Aqr 17 Aqr e
+ 646 Aqr 18 Aqr del
+ 647 Aqr 19 Aqr tau
+ 648 Aqr 20 Aqr f
+ 649 Aqr 21 Aqr ups
+ 650 Aqr 22 Aqr g
+ 651 Aqr 23 Aqr kap
+ 652 Aqr 24 Aqr lam
+ 653 Aqr 25 Aqr h
+ 654 Aqr 26 Aqr phi
+ 655 Aqr 27 Aqr chi
+ 656 Aqr 28 Aqr psi
+ 657 Aqr 29 Aqr psi
+ 658 Aqr 30*
+ 659 Aqr 31 Aqr ome
+ 660 Aqr 32 Aqr ome
+ 661 Aqr 33 Aqr A
+ 662 Aqr 34 Aqr A
+ 663 Aqr 35 Aqr A
+ 664 Aqr 36*
+ 665 Aqr 37 Aqr b
+ 666 Aqr 38 Aqr b
+ 667 Aqr 39 Aqr c
+ 668 Aqr 40 Aqr c
+ 669 Aqr 41 Aqr c
+ 670 Aqr 42*
+ 671 Aqr~ 1 Aqr g
+ 672 Aqr~ 2 Aqr f
+ 673 Aqr~ 3 Aqr h
+ 674 Psc  1 Psc bet
+ 675 Psc  2 Psc gam
+ 676 Psc  3 Psc b
+ 677 Psc  4 Psc the
+ 678 Psc  5 Psc iot
+ 679 Psc  6 Psc kap
+ 680 Psc  7 Psc lam
+ 681 Psc  8 Psc ome
+ 682 Psc  9 Psc d
+ 683 Psc 10*
+ 684 Psc 11 Psc del
+ 685 Psc 12 Psc eps
+ 686 Psc 13 Psc zet
+ 687 Psc 14 Psc e
+ 688 Psc 15 Psc f
+ 689 Psc 16 Psc mu
+ 690 Psc 17 Psc nu
+ 691 Psc 18 Psc xi
+ 692 Psc 19 Psc alp
+ 693 Psc 20 Psc omi
+ 694 Psc 21 Psc pi
+ 695 Psc 22 Psc eta
+ 696 Psc 23 Psc rho
+ 697 Psc 24 Psc sig
+ 698 Psc 25 Psc tau
+ 699 Psc 26 Psc h
+ 700 Psc 27 Psc k
+ 701 Psc 28 Psc i
+ 702 Psc 29 Psc psi
+ 703 Psc 30 Psc psi
+ 704 Psc 31 Psc psi
+ 705 Psc 32 Psc ups
+ 706 Psc 33 Psc phi
+ 707 Psc 34 Psc chi
+ 708 Psc~ 1*
+ 709 Psc~ 2*
+ 710 Psc~ 3*
+ 711 Psc~ 4*
+ 712 Cet  1 Cet lam
+ 713 Cet  2 Cet alp
+ 714 Cet  3*
+ 715 Cet  4 Cet del
+ 716 Cet  5*
+ 717 Cet  6 Cet mu
+ 718 Cet  7 Cet xi
+ 719 Cet  8 Cet rho
+ 720 Cet  9 Cet sig
+ 721 Cet 10 Cet eps
+ 722 Cet 11 Cet pi
+ 723 Cet 12 Cet tau
+ 724 Cet 13 Cet ups
+ 725 Cet 14 Cet zet
+ 726 Cet 15 Cet the
+ 727 Cet 16 Cet eta
+ 728 Cet 17*
+ 729 Cet 18 Cet phi
+ 730 Cet 19*
+ 731 Cet 20*
+ 732 Cet 21 Cet iot
+ 733 Cet 22 Cet bet
+ 734 Ori  1 Ori lam
+ 735 Ori  2 Ori alp
+ 736 Ori  3 Ori gam
+ 737 Ori  4 Ori A
+ 738 Ori  5 Ori mu
+ 739 Ori  6 Ori k
+ 740 Ori  7 Ori xi
+ 741 Ori  8 Ori nu
+ 742 Ori  9 Ori f   2
+ 743 Ori 10 Ori f   1
+ 744 Ori 11 Ori chi 1
+ 745 Ori 12 Ori chi 2
+ 746 Ori 13 Ori ome
+ 747 Ori 14 Ori ome
+ 748 Ori 15 Ori n
+ 749 Ori 16 Ori psi
+ 750 Ori 17 Ori omi 1
+ 751 Ori 18 Ori omi 2
+ 752 Ori 19 Ori g
+ 753 Ori 20 Ori pi  1
+ 754 Ori 21 Ori pi  2
+ 755 Ori 22*
+ 756 Ori 23*
+ 757 Ori 24*
+ 758 Ori 25*
+ 759 Ori 26 Ori del
+ 760 Ori 27 Ori eps
+ 761 Ori 28 Ori zet
+ 762 Ori 29 Ori eta
+ 763 Ori 30 Ori c
+ 764 Ori 31 Ori the
+ 765 Ori 32 Ori iot
+ 766 Ori 33 Ori d
+ 767 Ori 34 Ori ups
+ 768 Ori 35 Ori bet
+ 769 Ori 36 Ori tau
+ 770 Ori 37 Ori e
+ 771 Ori 38 Ori kap
+ 772 Eri  1 Eri lam
+ 773 Eri  2 Eri h
+ 774 Eri  3 Eri psi
+ 775 Eri  4 Eri ome
+ 776 Eri  5 Eri mu
+ 777 Eri  6 Eri nu
+ 778 Eri  7 Eri xi
+ 779 Eri  8 Eri omi
+ 780 Eri  9 Eri A
+ 781 Eri 10 Eri gam
+ 782 Eri 11 Eri pi
+ 783 Eri 12 Eri del
+ 784 Eri 13 Eri eps
+ 785 Eri 14 Eri zet
+ 786 Eri 15 Eri rho
+ 787 Eri 16 Eri eta
+ 788 Eri 17 Eri sig
+ 789 Eri 18 Eri tau 1
+ 790 Eri 19 Eri tau 2
+ 791 Eri 20*
+ 792 Eri 21*
+ 793 Eri 22*
+ 794 Eri 23*
+ 795 Eri 24*
+ 796 Eri 25*
+ 797 Eri 26*
+ 798 Eri 27 Eri ups
+ 799 Eri 28 Eri ups
+ 800 Eri 29*
+ 801 Eri 30*
+ 802 Eri 31*
+ 803 Eri 32*
+ 804 Eri 33*
+ 805 Eri 34 Eri alp
+ 806 Lep  1 Lep iot
+ 807 Lep  2 Lep kap
+ 808 Lep  3 Lep nu
+ 809 Lep  4 Lep lam
+ 810 Lep  5 Lep mu
+ 811 Lep  6 Lep eps
+ 812 Lep  7 Lep alp
+ 813 Lep  8 Lep bet
+ 814 Lep  9 Lep del
+ 815 Lep 10 Lep gam
+ 816 Lep 11 Lep zet
+ 817 Lep 12 Lep eta
+ 818 CMa  1 CMa alp
+ 819 CMa  2 CMa the
+ 820 CMa  3 CMa mu
+ 821 CMa  4 CMa gam
+ 822 CMa  5 CMa iot
+ 823 CMa  6 CMa pi
+ 824 CMa  7 CMa nu  1
+ 825 CMa  8 CMa nu  2
+ 826 CMa  9 CMa bet
+ 827 CMa 10 CMa xi  1
+ 828 CMa 11 CMa xi  2
+ 829 CMa 12 CMa omi 1
+ 830 CMa 13 CMa omi 2
+ 831 CMa 14 CMa del
+ 832 CMa 15 CMa eps
+ 833 CMa 16 CMa kap
+ 834 CMa 17 CMa zet
+ 835 CMa 18 CMa eta
+ 836 CMa~ 1*
+ 837 CMa~ 2*
+ 838 CMa~ 3*
+ 839 CMa~ 4*
+ 840 CMa~ 5 CMa lam
+ 841 CMa~ 6*
+ 842 CMa~ 7*
+ 843 CMa~ 8*
+ 844 CMa~ 9*
+ 845 CMa~10*
+ 846 CMa~11*
+ 847 CMi  1 CMi bet
+ 848 CMi  2 CMi alp
+ 849 Nav  1 Nav e
+ 850 Nav  2 Nav b
+ 851 Nav  3 Nav xi
+ 852 Nav  4 Nav omi
+ 853 Nav  5 Nav pi
+ 854 Nav  6 Nav kap
+ 855 Nav  7 Nav rho
+ 856 Nav  8 Nav sig
+ 857 Nav  9 Nav tau
+ 858 Nav 10*
+ 859 Nav 11 Nav ups
+ 860 Nav 12 Nav lam
+ 861 Nav 13 Nav f
+ 862 Nav 14 Nav phi 1
+ 863 Nav 15 Nav phi 2
+ 864 Nav 16 Nav chi
+ 865 Nav 17 Nav bet
+ 866 Nav 18*
+ 867 Nav 19*
+ 868 Nav 20*
+ 869 Nav 21*
+ 870 Nav 22*
+ 871 Nav 23*
+ 872 Nav 24*
+ 873 Nav 25*
+ 874 Nav 26*
+ 875 Nav 27 Nav o   1
+ 876 Nav 28 Nav o   2
+ 877 Nav 29 Nav o   3
+ 878 Nav 30 Nav o   4
+ 879 Nav 31*
+ 880 Nav 32*
+ 881 Nav 33*
+ 882 Nav 34*
+ 883 Nav 35*
+ 884 Nav 36*
+ 885 Nav 37*
+ 886 Nav 38*
+ 887 Nav 39*
+ 888 Nav 40*
+ 889 Nav 41*
+ 890 Nav 42*
+ 891 Nav 43*
+ 892 Nav 44*
+ 893 Nav 45*
+ 894 Hya  1 Hya sig
+ 895 Hya  2 Hya del
+ 896 Hya  3 Hya eps
+ 897 Hya  4 Hya eta
+ 898 Hya  5 Hya zet
+ 899 Hya  6 Hya ome
+ 900 Hya  7 Hya the
+ 901 Hya  8 Hya tau 1
+ 902 Hya  9 Hya iot
+ 903 Hya 10 Hya tau 2
+ 904 Hya 11 Hya A
+ 905 Hya 12 Hya alp
+ 906 Hya 13 Hya kap
+ 907 Hya 14 Hya kap
+ 908 Hya 15 Hya ups
+ 909 Hya 16 Hya mu
+ 910 Hya 17 Hya phi
+ 911 Hya 18 Hya nu
+ 912 Hya 19 Hya b
+ 913 Hya 20 Hya chi
+ 914 Hya 21 Hya xi
+ 915 Hya 22 Hya omi
+ 916 Hya 23 Hya bet
+ 917 Hya 24 Hya gam
+ 918 Hya 25 Hya pi
+ 919 Hya~ 1*
+ 920 Hya~ 2*
+ 921 Crt  1 Crt alp
+ 922 Crt  2 Crt gam
+ 923 Crt  3 Crt del
+ 924 Crt  4 Crt zet
+ 925 Crt  5 Crt eps
+ 926 Crt  6 Crt eta
+ 927 Crt  7 Crt the
+ 928 Crv  1 Crv alp
+ 929 Crv  2 Crv eps
+ 930 Crv  3 Crv zet
+ 931 Crv  4 Crv gam
+ 932 Crv  5 Crv del
+ 933 Crv  6 Crv eta
+ 934 Crv  7 Crv bet
+ 935 Cen  1 Cen g
+ 936 Cen  2 Cen h
+ 937 Cen  3 Cen i
+ 938 Cen  4 Cen k
+ 939 Cen  5 Cen iot
+ 940 Cen  6 Cen the
+ 941 Cen  7 Cen psi
+ 942 Cen  8 Cen l
+ 943 Cen  9 Cen omi
+ 944 Cen 10 Cen pi
+ 945 Cen 11 Cen rho
+ 946 Cen 12 Cen tau
+ 947 Cen 13 Cen ups
+ 948 Cen 14 Cen phi
+ 949 Cen 15 Cen m
+ 950 Cen 16 Cen kap
+ 951 Cen 17 Cen sig
+ 952 Cen 18 Cen lam
+ 953 Cen 19 Cen chi
+ 954 Cen 20 Cen n
+ 955 Cen 21 Cen ome
+ 956 Cen 22 Cen o
+ 957 Cen 23 Cen mu
+ 958 Cen 24 Cen e
+ 959 Cen 25 Cen p
+ 960 Cen 26 Cen bet
+ 961 Cen 27 Cen c
+ 962 Cen 28 Cen A
+ 963 Cen 29 Cen del
+ 964 Cen 30 Cen b
+ 965 Cen 31 Cen eps
+ 966 Cen 32*
+ 967 Cen 33*
+ 968 Cen 34*
+ 969 Cen 35*
+ 970 Cen 36*
+ 971 Cen 37*
+ 972 Lup  1 Lup omi
+ 973 Lup  2 Lup alp
+ 974 Lup  3 Lup zet
+ 975 Lup  4 Lup eta
+ 976 Lup  5 Lup the
+ 977 Lup  6 Lup pi
+ 978 Lup  7 Lup bet
+ 979 Lup  8 Lup xi
+ 980 Lup  9 Lup rho
+ 981 Lup 10 Lup sig
+ 982 Lup 11 Lup tau
+ 983 Lup 12 Lup iot
+ 984 Lup 13 Lup kap
+ 985 Lup 14 Lup nu
+ 986 Lup 15 Lup mu
+ 987 Lup 16 Lup gam
+ 988 Lup 17 Lup lam
+ 989 Lup 18 Lup eps
+ 990 Lup 19 Lup del
+ 991 Ara  1*
+ 992 Ara  2*
+ 993 Ara  3*
+ 994 Ara  4*
+ 995 Ara  5*
+ 996 Ara  6*
+ 997 Ara  7*
+ 998 CrA  1 CrA alp
+ 999 CrA  2 CrA eps
+1000 CrA  3 CrA zet
+1001 CrA  4 CrA bet
+1002 CrA  5 CrA eta
+1003 CrA  6 CrA the
+1004 CrA  7 CrA del
+1005 CrA  8 CrA gam
+1006 CrA  9 CrA nu
+1007 CrA 10 CrA mu
+1008 CrA 11 CrA iot
+1009 CrA 12 CrA kap
+1010 CrA 13 CrA lam
+1011 PsA  1 PsA alp
+1012 PsA  2 PsA bet
+1013 PsA  3 PsA gam
+1014 PsA  4 PsA del
+1015 PsA  5 PsA eps
+1016 PsA  6 PsA mu
+1017 PsA  7 PsA zet
+1018 PsA  8 PsA lam
+1019 PsA  9 PsA eta
+1020 PsA 10 PsA the
+1021 PsA 11 PsA iot
+1022 PsA 12*
+1023 PsA~ 1*
+1024 PsA~ 2*
+1025 PsA~ 3*
+1026 PsA~ 4*
+1027 PsA~ 5*
+1028 PsA~ 6*

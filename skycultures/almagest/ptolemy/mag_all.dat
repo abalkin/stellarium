@@ -1,0 +1,1289 @@
+# Star magnitudes in versions of Ptolemy's catalog.
+# Version letters:
+# t : Toomer
+# p : Peters & Knobel
+# m : Manitius
+# b : Baily
+# h : Halma
+# z : Flamsteed's version of Ptolemy's catalog
+------+----+------+---
+......|PNO |PID   |MAG
+------+----+------+---
+tpmbhz    1 UMi  1 3
+tpmbhz    2 UMi  2 4
+tpmbhz    3 UMi  3 4
+tpmbhz    4 UMi  4 4
+tpmbhz    5 UMi  5 4
+tpmbhz    6 UMi  6 2
+tpmbhz    7 UMi  7 2
+tpmbhz    8 UMi~ 1 4
+------+----+------+---
+tpmbhz    9 UMa  1 4
+tpmbhz   10 UMa  2 5
+tpmbhz   11 UMa  3 5
+tpmbhz   12 UMa  4 5
+tpmbhz   13 UMa  5 5
+tpmbhz   14 UMa  6 5
+tpmbhz   15 UMa  7 4
+tpmbhz   16 UMa  8 4
+tpmbhz   17 UMa  9 4
+tpm      18 UMa 10 4-5
+   bhz             4
+tpmbhz   19 UMa 11 3
+tpmbhz   20 UMa 12 3
+tpmbhz   21 UMa 13 3
+tpmbhz   22 UMa 14 4
+tpmbhz   23 UMa 15 4
+tpmbhz   24 UMa 16 2
+tpmbhz   25 UMa 17 2
+tpmbhz   26 UMa 18 3
+tpmbhz   27 UMa 19 2
+tpmbhz   28 UMa 20 3
+tpmbhz   29 UMa 21 3
+tpm      30 UMa 22 4-3
+   bhz             4
+tpmbhz   31 UMa 23 3
+tpmbhz   32 UMa 24 3
+tpmbhz   33 UMa 25 2
+tpmbhz   34 UMa 26 2
+tpmbhz   35 UMa 27 2
+tpmbhz   36 UMa~ 1 3
+tpmbhz   37 UMa~ 2 5
+tpmbhz   38 UMa~ 3 4
+tpmbhz   39 UMa~ 4 4
+tpmbhz   40 UMa~ 5 obs
+tpmbhz   41 UMa~ 6 obs
+tpmbhz   42 UMa~ 7 obs
+tpmbhz   43 UMa~ 8 obs
+------+----+------+---
+tpmbhz   44 Dra  1 4
+tpm      45 Dra  2 4-3
+   bhz             4
+tpmbhz   46 Dra  3 3
+tpmbhz   47 Dra  4 4
+tpmbhz   48 Dra  5 3
+tpmbhz   49 Dra  6 4
+tpmbhz   50 Dra  7 4
+tpmbhz   51 Dra  8 4
+tpmbhz   52 Dra  9 4
+tpmbhz   53 Dra 10 4
+tpmbhz   54 Dra 11 4
+tpmbhz   55 Dra 12 4
+tpmbhz   56 Dra 13 4
+tpmbhz   57 Dra 14 5
+tpmbhz   58 Dra 15 5
+tpmbhz   59 Dra 16 5
+tpmbhz   60 Dra 17 4
+tpmbhz   61 Dra 18 4
+tpmbhz   62 Dra 19 4
+tpmbhz   63 Dra 20 6
+tpmbhz   64 Dra 21 6
+tpmbhz   65 Dra 22 5
+tpmbhz   66 Dra 23 5
+tpmbhz   67 Dra 24 3
+tpmbhz   68 Dra 25 3
+tpm      69 Dra 26 4-3
+   bhz             4
+tpmbhz   70 Dra 27 3
+tpmbhz   71 Dra 28 4
+tpmbhz   72 Dra 29 3
+tpmbhz   73 Dra 30 3
+tpmbhz   74 Dra 31 3
+------+----+------+---
+tpmbhz   75 Cep  1 4
+tpmbhz   76 Cep  2 4
+tpmbhz   77 Cep  3 4
+tpmbhz   78 Cep  4 3
+tpmbhz   79 Cep  5 4
+tpmbhz   80 Cep  6 4
+tpmbhz   81 Cep  7 5
+tpm      82 Cep  8 4-3
+   bhz             4
+tpmbhz   83 Cep  9 5
+tpmbhz   84 Cep 10 4
+tpmbhz   85 Cep 11 5
+tpmbhz   86 Cep~ 1 5
+tpmbhz   87 Cep~ 2 4
+------+----+------+---
+tpmbhz   88 Boo  1 5
+tpmbhz   89 Boo  2 5
+tpmbhz   90 Boo  3 5
+tpmbhz   91 Boo  4 5
+tpmbh    92 Boo  5 3
+     z             4
+tpm      93 Boo  6 4-3
+   bhz             4
+tpm      94 Boo  7 4-3
+   bhz             4
+tpmbhz   95 Boo  8 4
+tpmbhz   96 Boo  9 4
+tpm      97 Boo 10 4-3
+   bhz             4
+tpmbhz   98 Boo 11 5
+tpmbhz   99 Boo 12 5
+tpmbhz  100 Boo 13 5
+tpmbhz  101 Boo 14 5
+tpmbhz  102 Boo 15 5
+tpmbhz  103 Boo 16 3
+tpmbhz  104 Boo 17 4
+tpm     105 Boo 18 4-3
+   bhz             4
+tpmbhz  106 Boo 19 3
+tpmbhz  107 Boo 20 3
+tpmbhz  108 Boo 21 4
+tpmbhz  109 Boo 22 4
+tpmbhz  110 Boo~ 1 1
+------+----+------+---
+tpm     111 CrB  1 2-1
+   bhz             2
+tpm     112 CrB  2 4-3
+   bhz             4
+tpmbhz  113 CrB  3 5
+tpmbhz  114 CrB  4 6
+tpmbhz  115 CrB  5 4
+tpmbhz  116 CrB  6 4
+tpmbhz  117 CrB  7 4
+tpmbhz  118 CrB  8 4
+------+----+------+---
+tpmbhz  119 Her  1 3
+tpmbhz  120 Her  2 3
+tpmbhz  121 Her  3 3
+tpmbhz  122 Her  4 4
+tpmbhz  123 Her  5 3
+tpm     124 Her  6 4-3
+   bhz             4
+tpm     125 Her  7 4-3
+   bhz             4
+tpm     126 Her  8 4-3
+   bhz             4
+tpm     127 Her  9 4-3
+   bhz             4
+t mbhz  128 Her 10 4
+ p                 4-3
+tpm     129 Her 11 3
+   bhz             4
+t mbhz  130 Her 12 5
+ p                 4-3
+tpmbhz  131 Her 13 5
+t mb z  132 Her 14 3
+ p                 5
+    h              4
+tpmb z  133 Her 15 4
+    h              3
+tpmbhz  134 Her 16 4
+tpm     135 Her 17 4-3
+   bhz             4
+tpmbhz  136 Her 18 4
+tpmbhz  137 Her 19 4
+tpmbhz  138 Her 20 6
+tpmbhz  139 Her 21 6
+tpmbhz  140 Her 22 6
+tpm     141 Her 23 4-3
+   bhz             4
+tpmbhz  142 Her 24 4
+tpm     143 Her 25 4-3
+   bhz             4
+tpmbhz  144 Her 26 4
+tpmbhz  145 Her 27 4
+tpmbhz  146 Her 28 4
+tpmbhz  147 Her 29 4
+tpmbhz  148 Her~ 1 5
+------+----+------+---
+tpmbhz  149 Lyr  1 1
+tpm     150 Lyr  2 4-3
+   bhz             4
+tpm     151 Lyr  3 4-3
+   bhz             4
+tpmbhz  152 Lyr  4 4
+tpmbhz  153 Lyr  5 4
+t mbhz  154 Lyr  6 4
+ p                 4-5
+tpmbhz  155 Lyr  7 3
+tpm     156 Lyr  8 4-5
+   bhz             4
+tpmbhz  157 Lyr  9 3
+tpm     158 Lyr 10 4-5
+   bhz             4
+------+----+------+---
+tpmbh   159 Cyg  1 3
+     z             5
+tpmbh   160 Cyg  2 5
+     z             3
+tpm     161 Cyg  3 4-3
+   bhz             4
+tpmbhz  162 Cyg  4 3
+tpmbhz  163 Cyg  5 2
+tpmbhz  164 Cyg  6 3
+tpmbhz  165 Cyg  7 4
+tpm     166 Cyg  8 4-3
+   bhz             4
+tpm     167 Cyg  9 4-3
+   bhz             4
+tpmbhz  168 Cyg 10 3
+tpm     169 Cyg 11 4-3
+   bhz             4
+tpmbhz  170 Cyg 12 3
+tpm     171 Cyg 13 4-3
+   bhz             4
+tpm     172 Cyg 14 4-3
+   bhz             4
+tpmbhz  173 Cyg 15 4
+tpmbhz  174 Cyg 16 4
+tpmbhz  175 Cyg 17 5
+tpm     176 Cyg~ 1 4-3
+   bhz             4
+tpm     177 Cyg~ 2 4-3
+   bhz             4
+------+----+------+---
+tpm     178 Cas  1 4-3
+   bhz             4
+tpmbhz  179 Cas  2 3
+tpmbhz  180 Cas  3 4
+tpm     181 Cas  4 3-2
+   bhz             3
+tpmbhz  182 Cas  5 3
+tpmbhz  183 Cas  6 4
+tpmbhz  184 Cas  7 4
+tpmbhz  185 Cas  8 4
+tpmbhz  186 Cas  9 5
+tpmbhz  187 Cas 10 6
+tpm     188 Cas 11 4-5
+   bhz             4
+tpmbhz  189 Cas 12 3
+tpmbhz  190 Cas 13 6
+------+----+------+---
+tpmbhz  191 Per  1 neb
+tpmbhz  192 Per  2 4
+tpm     193 Per  3 3-4
+   bhz             3
+tpmbhz  194 Per  4 4
+tpmbhz  195 Per  5 4
+tpmbhz  196 Per  6 4
+tpmbhz  197 Per  7 2
+tpmbhz  198 Per  8 4
+tpmbhz  199 Per  9 4
+tpmbhz  200 Per 10 3
+tpmbhz  201 Per 11 4
+tpmbhz  202 Per 12 2
+tpmbhz  203 Per 13 4
+tpmbhz  204 Per 14 4
+tpmbhz  205 Per 15 4
+tpmbhz  206 Per 16 4
+tpmbhz  207 Per 17 4
+tpmbhz  208 Per 18 4
+tpmbhz  209 Per 19 4
+tpmbhz  210 Per 20 5
+t mbhz  211 Per 21 5
+ p                 5-4
+tpm     212 Per 22 4-3
+   b z             4
+    h              5
+tpmbhz  213 Per 23 3
+tpmbhz  214 Per 24 4
+tpm     215 Per 25 3-4
+   bhz             3
+tpm     216 Per 26 3-2
+   bhz             3
+tpmbhz  217 Per~ 1 5
+tpmbhz  218 Per~ 2 5
+tpmbhz  219 Per~ 3 obs
+------+----+------+---
+tpmbhz  220 Aur  1 4
+tpmbhz  221 Aur  2 4
+tpmbhz  222 Aur  3 1
+tpmbhz  223 Aur  4 2
+tpmbhz  224 Aur  5 4
+tpm     225 Aur  6 4-3
+   bhz             4
+tpm     226 Aur  7 4-3
+   bhz             4
+tpm     227 Aur  8 4-3
+   bhz             4
+tpmbhz  228 Aur  9 4
+tpm     229 Aur 10 3-4
+   bh              3
+     z             6
+tpm     230 Aur 11 3-2
+   bh              3
+     z             6
+tpmbhz  231 Aur 12 5
+tpmbhz  232 Aur 13 5
+tpmbh   233 Aur 14 6
+     z             5
+------+----+------+---
+tpm     234 Oph  1 3-2
+   bhz             3
+tpm     235 Oph  2 4-3
+   bhz             4
+tpmbhz  236 Oph  3 4
+tpmbhz  237 Oph  4 4
+tpmbhz  238 Oph  5 4
+tpmbhz  239 Oph  6 4
+tpmbhz  240 Oph  7 3
+tpmbhz  241 Oph  8 3
+tpmbhz  242 Oph  9 4
+tpm     243 Oph 10 4-5
+   bhz             4
+tpmbhz  244 Oph 11 4
+tpmbhz  245 Oph 12 3
+tpm     246 Oph 13 4-3
+   bhz             4
+tpmbhz  247 Oph 14 4
+tpm     248 Oph 15 4-3
+   bhz             4
+tpmbhz  249 Oph 16 4
+tpmbhz  250 Oph 17 5
+tpmbhz  251 Oph 18 5
+tpmbhz  252 Oph 19 3
+tpm     253 Oph 20 5-4
+   bhz             5
+tpmbhz  254 Oph 21 5
+tpm     255 Oph 22 5-4
+   bhz             5
+tpmbhz  256 Oph 23 5
+tpmbhz  257 Oph 24 4
+tpmbhz  258 Oph~ 1 4
+tpmbhz  259 Oph~ 2 4
+tpmbhz  260 Oph~ 3 4
+tpmbhz  261 Oph~ 4 4
+tpmbhz  262 Oph~ 5 4
+------+----+------+---
+tpmbhz  263 Ser  1 4
+tpmbhz  264 Ser  2 4
+tpmbhz  265 Ser  3 3
+tpmbhz  266 Ser  4 3
+tpmbhz  267 Ser  5 4
+tpmbhz  268 Ser  6 4
+tpmbhz  269 Ser  7 3
+tpmbhz  270 Ser  8 4
+tpmbhz  271 Ser  9 3
+tpmbhz  272 Ser 10 3
+tpmbhz  273 Ser 11 4
+tpmbhz  274 Ser 12 5
+tpmbhz  275 Ser 13 4
+tpm     276 Ser 14 4-3
+   bhz             4
+tpmbhz  277 Ser 15 4
+tpmbhz  278 Ser 16 4
+tpm     279 Ser 17 4-3
+   bhz             4
+tpmbhz  280 Ser 18 4
+------+----+------+---
+tpmbhz  281 Sge  1 4
+tpmbhz  282 Sge  2 6
+tpmbhz  283 Sge  3 5
+tpmbhz  284 Sge  4 5
+tpmbhz  285 Sge  5 5
+------+----+------+---
+tpmbhz  286 Aql  1 4
+tpmbhz  287 Aql  2 3
+tpm     288 Aql  3 2-1
+   bhz             2
+tpm     289 Aql  4 3-4
+   bhz             3
+tpmbhz  290 Aql  5 3
+tpmbhz  291 Aql  6 5
+tpmbhz  292 Aql  7 5
+tpm     293 Aql  8 5-4
+   bhz             5
+tpmbh   294 Aql  9 3
+     z             6
+tpmbhz  295 Aql~ 1 3
+tpmbhz  296 Aql~ 2 3
+tpm     297 Aql~ 3 4-3
+   bhz             4
+tpmbhz  298 Aql~ 4 3
+tpmbhz  299 Aql~ 5 5
+tpmbhz  300 Aql~ 6 3
+------+----+------+---
+tpm     301 Del  1 3-4
+   bh              3
+     z             2
+tpm     302 Del  2 4-5
+   bhz             4
+tpmbhz  303 Del  3 4
+tpm     304 Del  4 3-4
+   bhz             3
+tpm     305 Del  5 3-4
+   bhz             3
+tpm     306 Del  6 3-4
+   bhz             3
+tpm     307 Del  7 3-4
+   bhz             3
+tpmbhz  308 Del  8 6
+tpmbhz  309 Del  9 6
+tpmbhz  310 Del 10 6
+------+----+------+---
+tpmbhz  311 Equ  1 obs
+tpmbhz  312 Equ  2 obs
+tpmbhz  313 Equ  3 obs
+tpmbhz  314 Equ  4 obs
+------+----+------+---
+tpm     315 Peg  1 2-3
+   bhz             2
+tpm     316 Peg  2 2-3
+   bhz             2
+tpm     317 Peg  3 2-3
+   bhz             2
+tpm     318 Peg  4 2-3
+   bhz             2
+tpmbhz  319 Peg  5 4
+tpmbhz  320 Peg  6 4
+tpmbhz  321 Peg  7 3
+tpmbhz  322 Peg  8 5
+tpmbhz  323 Peg  9 4
+tpmbhz  324 Peg 10 4
+tpmbhz  325 Peg 11 3
+tpmbhz  326 Peg 12 4
+tpmbhz  327 Peg 13 5
+tpmbhz  328 Peg 14 5
+tpmbhz  329 Peg 15 3
+tpmbhz  330 Peg 16 4
+tpm     331 Peg 17 3-2
+   bhz             3
+tpm     332 Peg 18 4-3
+   bhz             4
+tpm     333 Peg 19 4-3
+   bhz             4
+tpm     334 Peg 20 4-3
+   bhz             4
+------+----+------+---
+tpmbhz  335 And  1 3
+tpmbhz  336 And  2 4
+tpmbhz  337 And  3 4
+tpmbhz  338 And  4 4
+tpmbhz  339 And  5 4
+tpmbhz  340 And  6 5
+tpmbhz  341 And  7 4
+tpmbhz  342 And  8 4
+tpmbhz  343 And  9 4
+tpmbhz  344 And 10 4
+tpmbhz  345 And 11 4
+tpmbhz  346 And 12 3
+tpmbhz  347 And 13 4
+tpmbhz  348 And 14 4
+tpmbhz  349 And 15 3
+t m     350 And 16 4-5
+ p                 4-3
+   bhz             4
+tpm     351 And 17 4-3
+   bhz             4
+t mbhz  352 And 18 4
+ p                 4-3
+tpmbhz  353 And 19 4
+tpmbhz  354 And 20 5
+tpmbhz  355 And 21 5
+tpmbhz  356 And 22 5
+tpmbhz  357 And 23 3
+------+----+------+---
+tpmbhz  358 Tri  1 3
+tpmbhz  359 Tri  2 3
+tpmbhz  360 Tri  3 4
+tpmbhz  361 Tri  4 3
+------+----+------+---
+tpm     362 Ari  1 3-4
+   bhz             3
+tpmbhz  363 Ari  2 3
+tpmbhz  364 Ari  3 5
+tpmbhz  365 Ari  4 5
+tpmbhz  366 Ari  5 5
+tpmbhz  367 Ari  6 6
+tpmbhz  368 Ari  7 5
+tpmbhz  369 Ari  8 4
+tpmbhz  370 Ari  9 4
+tpmbhz  371 Ari 10 4
+tpmbhz  372 Ari 11 5
+tpmbhz  373 Ari 12 5
+tpm     374 Ari 13 4-3
+   bhz             4
+tpm     375 Ari~ 1 3-2
+   bhz             3
+tpmbhz  376 Ari~ 2 4
+tpmbhz  377 Ari~ 3 5
+tpmbhz  378 Ari~ 4 5
+tpmbhz  379 Ari~ 5 5
+------+----+------+---
+tpmbhz  380 Tau  1 4
+tpmbhz  381 Tau  2 4
+tpmbhz  382 Tau  3 4
+tpmbhz  383 Tau  4 4
+tpmbhz  384 Tau  5 5
+tpmbhz  385 Tau  6 3
+tpmbhz  386 Tau  7 4
+tpmbhz  387 Tau  8 4
+tpmbhz  388 Tau  9 4
+tpmbhz  389 Tau 10 4
+tpm     390 Tau 11 3-4
+   bhz             3
+tpm     391 Tau 12 3-4
+   bhz             3
+tpm     392 Tau 13 3-4
+   bhz             3
+tpmbhz  393 Tau 14 1
+tpm     394 Tau 15 3-4
+   bhz             3
+tpmbhz  395 Tau 16 4
+tpmbhz  396 Tau 17 5
+tpmbhz  397 Tau 18 5
+tpmbhz  398 Tau 19 3
+tpmbhz  399 Tau 20 4
+tpmbh   400 Tau 21 3
+     z             2
+tpmbhz  401 Tau 22 5
+tpmbhz  402 Tau 23 5
+tpmbhz  403 Tau 24 5
+tpmbhz  404 Tau 25 6
+tpmbhz  405 Tau 26 5
+tpmbhz  406 Tau 27 5
+tpmbhz  407 Tau 28 5
+tpmbhz  408 Tau 29 5
+tpmbhz  409 Tau 30 5
+tpmbhz  410 Tau 31 5
+tpmbhz  411 Tau 32 5
+tpmbhz  412 Tau 33 4
+tpmbhz  413 Tau~ 1 4
+tpmbhz  414 Tau~ 2 5
+tpmbhz  415 Tau~ 3 5
+tpmbhz  416 Tau~ 4 5
+tpmbhz  417 Tau~ 5 5
+tpmbhz  418 Tau~ 6 5
+tpmbhz  419 Tau~ 7 5
+tpmbhz  420 Tau~ 8 5
+tpmbhz  421 Tau~ 9 5
+tpmbhz  422 Tau~10 5
+tpmbhz  423 Tau~11 5
+------+----+------+---
+tpmbhz  424 Gem  1 2
+tpmbhz  425 Gem  2 2
+tpmbhz  426 Gem  3 4
+tpmbhz  427 Gem  4 4
+tpmbhz  428 Gem  5 4
+tpmbhz  429 Gem  6 4
+tpmbhz  430 Gem  7 4
+tpmbhz  431 Gem  8 5
+tpmbhz  432 Gem  9 5
+tpmbhz  433 Gem 10 3
+tpmbhz  434 Gem 11 3
+tpmbhz  435 Gem 12 3
+tpmbhz  436 Gem 13 3
+tpm     437 Gem 14 4-3
+   bhz             4
+tpm     438 Gem 15 4-3
+   bhz             4
+tpm     439 Gem 16 4-3
+   bhz             4
+tpm h   440 Gem 17 3
+   b z             4
+tpmbhz  441 Gem 18 4
+tpmbhz  442 Gem~ 1 4
+tpm     443 Gem~ 2 4-3
+   bhz             4
+tpmbhz  444 Gem~ 3 5
+tpmbhz  445 Gem~ 4 5
+tpmbhz  446 Gem~ 5 5
+tpmbhz  447 Gem~ 6 5
+tpmbhz  448 Gem~ 7 4
+------+----+------+---
+tpmbhz  449 Cnc  1 neb
+tpm     450 Cnc  2 4-5
+   bhz             4
+tpm     451 Cnc  3 4-5
+   bhz             4
+tpm     452 Cnc  4 4-3
+   bhz             4
+tpm     453 Cnc  5 4-3
+   bhz             4
+tpmbhz  454 Cnc  6 4
+tpmbhz  455 Cnc  7 4
+tpmbhz  456 Cnc  8 5
+tpm     457 Cnc  9 4-3
+   bhz             4
+tpm     458 Cnc~ 1 4-5
+   bhz             4
+tpm     459 Cnc~ 2 4-5
+   bhz             4
+tpmbhz  460 Cnc~ 3 5
+tpmbhz  461 Cnc~ 4 5
+------+----+------+---
+tpmbhz  462 Leo  1 4
+tpmbhz  463 Leo  2 4
+tpmbhz  464 Leo  3 3
+tpm     465 Leo  4 3-2
+   bhz             3
+tpmbhz  466 Leo  5 3
+tpmbhz  467 Leo  6 2
+tpmbhz  468 Leo  7 3
+tpmbhz  469 Leo  8 1
+tpmbhz  470 Leo  9 4
+tpmbhz  471 Leo 10 5
+tpmbhz  472 Leo 11 5
+t m     473 Leo 12 5
+ p bhz             6
+tpmbhz  474 Leo 13 4
+tpmbhz  475 Leo 14 4
+tpmbhz  476 Leo 15 4
+tpmbhz  477 Leo 16 6
+tpmbhz  478 Leo 17 6
+tpmbhz  479 Leo 18 6
+t mbhz  480 Leo 19 6
+ p                 5
+tpm     481 Leo 20 2-3
+   bhz             2
+tpmbhz  482 Leo 21 5
+tpmbhz  483 Leo 22 3
+tpmbhz  484 Leo 23 3
+tpmbhz  485 Leo 24 4
+tpmbhz  486 Leo 25 4
+tpmbhz  487 Leo 26 5
+tpm     488 Leo 27 1-2
+   bhz             1
+tpmbhz  489 Leo~ 1 5
+tpmbhz  490 Leo~ 2 5
+tpm     491 Leo~ 3 4-5
+   bh              4
+     z             3
+tpmbhz  492 Leo~ 4 5
+tpmbhz  493 Leo~ 5 5
+tpmbhz  494 Leo~ 6 obs
+tpmbhz  495 Leo~ 7 obs
+tpmbhz  496 Leo~ 8 obs
+------+----+------+---
+tpmbhz  497 Vir  1 5
+tpmbhz  498 Vir  2 5
+tpmbhz  499 Vir  3 5
+tpmbhz  500 Vir  4 5
+tpmbhz  501 Vir  5 3
+tpmbhz  502 Vir  6 3
+tpmbhz  503 Vir  7 3
+tpmbhz  504 Vir  8 5
+tpmbhz  505 Vir  9 4
+tpmbhz  506 Vir 10 3
+tpmbhz  507 Vir 11 5
+tpmbhz  508 Vir 12 6
+tpm     509 Vir 13 3-2
+   bhz             5
+tpmbhz  510 Vir 14 1
+tpmbhz  511 Vir 15 3
+tpmbhz  512 Vir 16 5
+tpmbhz  513 Vir 17 6
+tpm     514 Vir 18 4-5
+   bhz             4
+tpmbhz  515 Vir 19 5
+tpmbhz  516 Vir 20 5
+tpmbhz  517 Vir 21 5
+tpmbhz  518 Vir 22 4
+tpmbhz  519 Vir 23 4
+tpmbhz  520 Vir 24 4
+tpmbhz  521 Vir 25 4
+t m     522 Vir 26 4
+ p bhz             3
+tpmbhz  523 Vir~ 1 5
+tpmbhz  524 Vir~ 2 5
+tpmbhz  525 Vir~ 3 5
+tpmbhz  526 Vir~ 4 6
+tpmbhz  527 Vir~ 5 5
+tpmbhz  528 Vir~ 6 6
+------+----+------+---
+tpmbhz  529 Lib  1 2
+tpmbhz  530 Lib  2 5
+tpmbhz  531 Lib  3 2
+tpmbhz  532 Lib  4 5
+tpmbhz  533 Lib  5 4
+tpmbhz  534 Lib  6 4
+tpmbhz  535 Lib  7 4
+tpm     536 Lib  8 4-5
+   bhz             4
+tpmbhz  537 Lib~ 1 5
+tpm     538 Lib~ 2 4-5
+   bhz             4
+tpm     539 Lib~ 3 4-5
+   bhz             4
+tpmbh   540 Lib~ 4 6
+     z             5
+tpmbhz  541 Lib~ 5 5
+tpmbhz  542 Lib~ 6 4
+tpmbhz  543 Lib~ 7 3
+tpmbhz  544 Lib~ 8 4
+tpmbhz  545 Lib~ 9 4
+------+----+------+---
+tpmbhz  546 Sco  1 3
+tpmbhz  547 Sco  2 3
+tpmbhz  548 Sco  3 3
+tpmbhz  549 Sco  4 3
+tpmbhz  550 Sco  5 4
+tpmbhz  551 Sco  6 4
+tpmbhz  552 Sco  7 3
+tpmbhz  553 Sco  8 2
+tpmbhz  554 Sco  9 3
+tpmbhz  555 Sco 10 5
+tpmbhz  556 Sco 11 5
+tpmbhz  557 Sco 12 3
+tpmbhz  558 Sco 13 3
+tpmbhz  559 Sco 14 4
+tpmbhz  560 Sco 15 4
+tpmbhz  561 Sco 16 3
+tpmbhz  562 Sco 17 3
+tpmbhz  563 Sco 18 3
+tpmbhz  564 Sco 19 3
+tpmbhz  565 Sco 20 3
+tpmbhz  566 Sco 21 4
+tpmbhz  567 Sco~ 1 neb
+tp      568 Sco~ 2 5-4
+  mbhz             5
+tpmbhz  569 Sco~ 3 5
+------+----+------+---
+tpmbhz  570 Sgr  1 3
+tpmbhz  571 Sgr  2 3
+tpmbhz  572 Sgr  3 3
+tpmbhz  573 Sgr  4 3
+tpmbhz  574 Sgr  5 4
+tpmbhz  575 Sgr  6 3
+t mbhz  576 Sgr  7 4
+ p                 4-3
+tpmbhz  577 Sgr  8 neb
+tpmbhz  578 Sgr  9 4
+tpmbhz  579 Sgr 10 4
+tpmbhz  580 Sgr 11 4
+tpmbhz  581 Sgr 12 5
+tpmbhz  582 Sgr 13 4
+tpmbhz  583 Sgr 14 4
+tpmbhz  584 Sgr 15 6
+tpmbhz  585 Sgr 16 5
+tpmbhz  586 Sgr 17 6
+tpmbhz  587 Sgr 18 5
+tpmbhz  588 Sgr 19 4
+tpmbhz  589 Sgr 20 5
+tpm     590 Sgr 21 4-3
+   bhz             4
+tpmbhz  591 Sgr 22 3
+tpmbhz  592 Sgr 23 2
+tpm     593 Sgr 24 2-3
+   bhz             2
+tpmbhz  594 Sgr 25 3
+tpmbhz  595 Sgr 26 3
+tpmbhz  596 Sgr 27 3
+tpmbhz  597 Sgr 28 5
+tpmbhz  598 Sgr 29 5
+tpmbhz  599 Sgr 30 5
+tpmbhz  600 Sgr 31 5
+------+----+------+---
+tpmbhz  601 Cap  1 3
+tpmbhz  602 Cap  2 6
+tpmbhz  603 Cap  3 3
+tpmbhz  604 Cap  4 6
+tpmbhz  605 Cap  5 6
+tpmbhz  606 Cap  6 6
+tpmbhz  607 Cap  7 6
+tpmbhz  608 Cap  8 5
+tpmbhz  609 Cap  9 6
+tpmbhz  610 Cap 10 5
+tpmbhz  611 Cap 11 4
+tpmbhz  612 Cap 12 4
+tpmbhz  613 Cap 13 4
+tpmbhz  614 Cap 14 4
+tpmbhz  615 Cap 15 5
+tpmbhz  616 Cap 16 5
+tpmbhz  617 Cap 17 5
+tpmbhz  618 Cap 18 5
+tpmbhz  619 Cap 19 4
+tpmbhz  620 Cap 20 4
+tpmbhz  621 Cap 21 4
+tpmbhz  622 Cap 22 4
+tpmbhz  623 Cap 23 3
+tpmbhz  624 Cap 24 3
+tpmbhz  625 Cap 25 4
+tpmbhz  626 Cap 26 5
+tpmbhz  627 Cap 27 5
+tpmbhz  628 Cap 28 5
+------+----+------+---
+tpmbhz  629 Aqr  1 5
+tpmbhz  630 Aqr  2 3
+tpmbhz  631 Aqr  3 5
+tpmbhz  632 Aqr  4 3
+tpmbhz  633 Aqr  5 5
+tpmbhz  634 Aqr  6 3
+tpmbhz  635 Aqr  7 4
+tpmbhz  636 Aqr  8 3
+tpmbhz  637 Aqr  9 3
+tpmbhz  638 Aqr 10 3
+tpmbhz  639 Aqr 11 3
+tpmbhz  640 Aqr 12 3
+tpmbhz  641 Aqr 13 4
+tpmbhz  642 Aqr 14 5
+tpmbhz  643 Aqr 15 4
+tpmbhz  644 Aqr 16 4
+tpmbhz  645 Aqr 17 6
+tpmbhz  646 Aqr 18 3
+tpmbhz  647 Aqr 19 4
+tpmbhz  648 Aqr 20 5
+tpmbhz  649 Aqr 21 5
+tpmb z  650 Aqr 22 5
+    h              6
+tpmbhz  651 Aqr 23 4
+tpmbhz  652 Aqr 24 4
+tpmbhz  653 Aqr 25 4
+tpmbhz  654 Aqr 26 4
+tpmbhz  655 Aqr 27 4
+tpmbhz  656 Aqr 28 4
+tpmb z  657 Aqr 29 4
+    h              3
+tpmbhz  658 Aqr 30 5
+tpmbhz  659 Aqr 31 5
+tpmbhz  660 Aqr 32 5
+tpmbhz  661 Aqr 33 5
+tpmbhz  662 Aqr 34 5
+tpmbhz  663 Aqr 35 5
+tpmbhz  664 Aqr 36 4
+tpmbhz  665 Aqr 37 4
+tpmbhz  666 Aqr 38 4
+tpmbhz  667 Aqr 39 4
+tpmbhz  668 Aqr 40 4
+tpmbhz  669 Aqr 41 4
+tpmbhz  670 Aqr 42 1
+tpm     671 Aqr~ 1 4-3
+   bhz             4
+tpm     672 Aqr~ 2 4-3
+   bhz             4
+tpm     673 Aqr~ 3 4-3
+   bhz             4
+------+----+------+---
+t mbhz  674 Psc  1 4
+ p                 4-3
+tpmbhz  675 Psc  2 4
+tpmbhz  676 Psc  3 4
+tpmbhz  677 Psc  4 4
+tpmbhz  678 Psc  5 4
+tpmbhz  679 Psc  6 4
+tpmbhz  680 Psc  7 4
+tpmbhz  681 Psc  8 4
+tpmbhz  682 Psc  9 6
+tpmbhz  683 Psc 10 6
+tpmbhz  684 Psc 11 4
+tpmbhz  685 Psc 12 4
+tpmbhz  686 Psc 13 4
+tpmbhz  687 Psc 14 6
+tpmbhz  688 Psc 15 6
+tpmbhz  689 Psc 16 4
+tpmbhz  690 Psc 17 4
+tpmbhz  691 Psc 18 4
+tpmbhz  692 Psc 19 3
+tpmbhz  693 Psc 20 4
+tpmbhz  694 Psc 21 5
+tpmbhz  695 Psc 22 3
+tpmbhz  696 Psc 23 4
+tpmbhz  697 Psc 24 5
+tpmbhz  698 Psc 25 5
+tpmbhz  699 Psc 26 6
+tpmbhz  700 Psc 27 6
+tpmbhz  701 Psc 28 6
+tpmbhz  702 Psc 29 4
+tpmbhz  703 Psc 30 4
+tpmbhz  704 Psc 31 4
+tpmbhz  705 Psc 32 4
+tpmbhz  706 Psc 33 4
+tpmbhz  707 Psc 34 4
+tpmbhz  708 Psc~ 1 4
+tpmbhz  709 Psc~ 2 4
+tpmbhz  710 Psc~ 3 4
+tpmbhz  711 Psc~ 4 4
+------+----+------+---
+tpmbhz  712 Cet  1 4
+tpmbhz  713 Cet  2 3
+tpmbhz  714 Cet  3 3
+tpmbhz  715 Cet  4 3
+tpmbhz  716 Cet  5 4
+tpmbhz  717 Cet  6 4
+tpmbhz  718 Cet  7 4
+tpmbhz  719 Cet  8 4
+tpmbhz  720 Cet  9 4
+tpmbhz  721 Cet 10 4
+tpmbhz  722 Cet 11 3
+tpmbhz  723 Cet 12 3
+tpmbhz  724 Cet 13 4
+tpmbhz  725 Cet 14 3
+tpmbhz  726 Cet 15 3
+tpm h   727 Cet 16 3
+   b z             5
+tpmbhz  728 Cet 17 5
+tpmbhz  729 Cet 18 5
+tpm     730 Cet 19 5-4
+   bhz             5
+tpm     731 Cet 20 5-4
+   bhz             5
+tpm     732 Cet 21 3-4
+   bhz             3
+tpmbhz  733 Cet 22 3
+------+----+------+---
+tpmbhz  734 Ori  1 neb
+tpm     735 Ori  2 1-2
+   bhz             1
+t mbhz  736 Ori  3 2
+ p                 2-1
+tpm     737 Ori  4 4-5
+   bhz             4
+tpmbhz  738 Ori  5 4
+tpmbhz  739 Ori  6 6
+tpmbhz  740 Ori  7 4
+tpmbhz  741 Ori  8 4
+tpmbhz  742 Ori  9 6
+tpmbhz  743 Ori 10 6
+tpmbhz  744 Ori 11 5
+tpmbhz  745 Ori 12 5
+tpmbhz  746 Ori 13 4
+tpmbhz  747 Ori 14 6
+tpmbhz  748 Ori 15 6
+tpmbhz  749 Ori 16 5
+tpmbhz  750 Ori 17 4
+tpmbhz  751 Ori 18 4
+tpmbhz  752 Ori 19 4
+tpmbhz  753 Ori 20 4
+tpmbhz  754 Ori 21 4
+tpmbhz  755 Ori 22 3
+tpmbhz  756 Ori 23 3
+tpmbhz  757 Ori 24 3
+tpmb z  758 Ori 25 3
+    h              2
+tpmbhz  759 Ori 26 2
+tpmbhz  760 Ori 27 2
+tpmb z  761 Ori 28 2
+    h              3
+tpmbhz  762 Ori 29 3
+tpmbhz  763 Ori 30 4
+tpm     764 Ori 31 3-4
+   bhz             3
+tpmbhz  765 Ori 32 3
+tpmbhz  766 Ori 33 4
+tpmbhz  767 Ori 34 4
+tpmbhz  768 Ori 35 1
+tpm     769 Ori 36 4-3
+   bhz             4
+tpmbhz  770 Ori 37 4
+tpm     771 Ori 38 3-2
+   bhz             3
+------+----+------+---
+tpm     772 Eri  1 4-3
+   bhz             4
+tpmbhz  773 Eri  2 4
+tpmbhz  774 Eri  3 4
+tpmbhz  775 Eri  4 4
+tpmbhz  776 Eri  5 4
+tpmbhz  777 Eri  6 4
+tpmbhz  778 Eri  7 5
+tpmbhz  779 Eri  8 4
+tpmbhz  780 Eri  9 4
+tpmbhz  781 Eri 10 3
+tpmbhz  782 Eri 11 4
+tpmbhz  783 Eri 12 3
+tpmbhz  784 Eri 13 3
+tpmbhz  785 Eri 14 3
+tpmbhz  786 Eri 15 4
+tpmbhz  787 Eri 16 3
+tpmbhz  788 Eri 17 4
+tpmbhz  789 Eri 18 4
+tpmbhz  790 Eri 19 4
+tpmbhz  791 Eri 20 4
+tpmbhz  792 Eri 21 4
+tpmbhz  793 Eri 22 4
+tpmbh   794 Eri 23 4
+     z             5
+tpmb z  795 Eri 24 5
+    h              4
+tpmbhz  796 Eri 25 4
+tpmbhz  797 Eri 26 4
+tpmbhz  798 Eri 27 4
+tpmbhz  799 Eri 28 4
+tpmbhz  800 Eri 29 4
+tpmbhz  801 Eri 30 4
+tpmbhz  802 Eri 31 4
+tpmbhz  803 Eri 32 4
+tpmbhz  804 Eri 33 4
+tpmbhz  805 Eri 34 1
+------+----+------+---
+tpmbhz  806 Lep  1 5
+tpmbhz  807 Lep  2 5
+tpmbhz  808 Lep  3 5
+tpmbhz  809 Lep  4 5
+tpm     810 Lep  5 4-3
+   bhz             4
+tpm     811 Lep  6 4-3
+   bhz             4
+tpmbh   812 Lep  7 3
+     z             2
+tpmbh   813 Lep  8 3
+     z             2
+tpm     814 Lep  9 4-3
+   bhz             4
+tpm     815 Lep 10 4-3
+   bhz             4
+tpm     816 Lep 11 4-3
+   bhz             4
+tpm     817 Lep 12 4-3
+   bhz             4
+------+----+------+---
+tpmbhz  818 CMa  1 1
+tpmbhz  819 CMa  2 4
+tpmbhz  820 CMa  3 5
+tpmbhz  821 CMa  4 4
+tpmbhz  822 CMa  5 4
+tpmbhz  823 CMa  6 5
+tpm     824 CMa  7 5
+   bhz             6
+tpmbhz  825 CMa  8 5
+tpmbhz  826 CMa  9 3
+tpmbhz  827 CMa 10 5
+tpmbhz  828 CMa 11 5
+tpmbhz  829 CMa 12 4
+tpmbhz  830 CMa 13 5
+tpm     831 CMa 14 3-4
+   bhz             3
+tpmbhz  832 CMa 15 3
+tpmbhz  833 CMa 16 4
+tpmbhz  834 CMa 17 3
+tpm     835 CMa 18 3-4
+   bhz             3
+tpmbhz  836 CMa~ 1 4
+tpmbhz  837 CMa~ 2 4
+tpmbhz  838 CMa~ 3 4
+tpmbhz  839 CMa~ 4 4
+tpmbhz  840 CMa~ 5 4
+tpmbhz  841 CMa~ 6 4
+tpmbhz  842 CMa~ 7 4
+tpmbhz  843 CMa~ 8 4
+tpmbhz  844 CMa~ 9 2
+tpmbhz  845 CMa~10 2
+tpmbh   846 CMa~11 4
+     z             3
+------+----+------+---
+tpmbhz  847 CMi  1 4
+tpmbhz  848 CMi  2 1
+------+----+------+---
+tpmbhz  849 Nav  1 5
+tpmbhz  850 Nav  2 3
+tpmbhz  851 Nav  3 4
+tpmbhz  852 Nav  4 4
+tpmbhz  853 Nav  5 4
+tpmbhz  854 Nav  6 3
+tpmbhz  855 Nav  7 4
+tpmbhz  856 Nav  8 4
+tpmbhz  857 Nav  9 4
+tpmbhz  858 Nav 10 4
+tpmbhz  859 Nav 11 4
+tpmbhz  860 Nav 12 3
+tpmbhz  861 Nav 13 5
+tpmbhz  862 Nav 14 5
+tpmbhz  863 Nav 15 4
+tpmbhz  864 Nav 16 4
+tpmbhz  865 Nav 17 2
+tpmbhz  866 Nav 18 5
+tpmbhz  867 Nav 19 5
+tpmbhz  868 Nav 20 5
+tpmbhz  869 Nav 21 5
+tpm     870 Nav 22 4-3
+   bhz             4
+tpm     871 Nav 23 4-3
+   bhz             4
+tpm     872 Nav 24 4-3
+   bhz             4
+tpm     873 Nav 25 4-3
+   bhz             4
+tpm     874 Nav 26 4-3
+   bhz             4
+tpmbhz  875 Nav 27 3
+tpmbhz  876 Nav 28 3
+tpmbhz  877 Nav 29 4
+tpmbhz  878 Nav 30 4
+tpmbhz  879 Nav 31 2
+tpm     880 Nav 32 2-3
+   bhz             2
+tpmbh   881 Nav 33 4
+     z             3
+tpmbhz  882 Nav 34 6
+tpmbhz  883 Nav 35 2
+tpmbhz  884 Nav 36 2
+tpm     885 Nav 37 3
+   bhz             2
+tpmbhz  886 Nav 38 3
+tpmbhz  887 Nav 39 2
+tpmbhz  888 Nav 40 3
+tpmbhz  889 Nav 41 3
+tpm     890 Nav 42 4-3
+   bhz             4
+tpm     891 Nav 43 3-2
+   bhz             3
+tpmbhz  892 Nav 44 1
+tpm     893 Nav 45 3-2
+   bhz             3
+------+----+------+---
+tpmbhz  894 Hya  1 4
+tpmbhz  895 Hya  2 4
+tpmbhz  896 Hya  3 4
+tpmbhz  897 Hya  4 4
+tpmbhz  898 Hya  5 4
+tpmbhz  899 Hya  6 5
+tpmbhz  900 Hya  7 4
+tpmbhz  901 Hya  8 4
+tpmbhz  902 Hya  9 4
+tpmbhz  903 Hya 10 4
+tpmbhz  904 Hya 11 6
+tpmbhz  905 Hya 12 2
+tpmbhz  906 Hya 13 4
+tpmbhz  907 Hya 14 4
+tpmbhz  908 Hya 15 4
+tpmbhz  909 Hya 16 3
+tpmbhz  910 Hya 17 4
+tpmbhz  911 Hya 18 3
+tpm     912 Hya 19 4-3
+   bhz             4
+tpmbhz  913 Hya 20 4
+tpmbhz  914 Hya 21 4
+tpmbhz  915 Hya 22 4
+tpmbhz  916 Hya 23 3
+tpm     917 Hya 24 4-3
+   bhz             4
+tpm     918 Hya 25 4-3
+   bhz             4
+tpmbhz  919 Hya~ 1 3
+tpmbhz  920 Hya~ 2 3
+------+----+------+---
+tpmbhz  921 Crt  1 4
+tpmbhz  922 Crt  2 4
+tpmbhz  923 Crt  3 4
+tpm     924 Crt  4 4-3
+   bhz             4
+tpmbhz  925 Crt  5 4
+tpm     926 Crt  6 4-5
+   bhz             4
+tpmbhz  927 Crt  7 4
+------+----+------+---
+tpmbhz  928 Crv  1 3
+tpmbhz  929 Crv  2 3
+tpmbhz  930 Crv  3 5
+tpmbhz  931 Crv  4 3
+tpmbhz  932 Crv  5 3
+tpmbhz  933 Crv  6 4
+tpmbhz  934 Crv  7 3
+------+----+------+---
+tpm     935 Cen  1 5-4
+   bhz             5
+tpm     936 Cen  2 5-4
+   bhz             5
+tpm     937 Cen  3 4-3
+   bhz             4
+tpm     938 Cen  4 5-4
+   bhz             5
+tpmbhz  939 Cen  5 3
+tpmbhz  940 Cen  6 3
+tpmbhz  941 Cen  7 4
+tpmbhz  942 Cen  8 4
+tpmbhz  943 Cen  9 4
+tpmbhz  944 Cen 10 4
+tpmbhz  945 Cen 11 4
+tpm     946 Cen 12 4-3
+   bhz             4
+tpm     947 Cen 13 4-3
+   bhz             4
+tpm     948 Cen 14 4-3
+   bhz             4
+tpm     949 Cen 15 4-3
+   bhz             4
+tpmbhz  950 Cen 16 3
+tpmbhz  951 Cen 17 4
+tpm     952 Cen 18 3-2
+   bhz             3
+tpmbhz  953 Cen 19 5
+tpmbhz  954 Cen 20 5
+tpmbhz  955 Cen 21 5
+tpmbhz  956 Cen 22 5
+tpmbhz  957 Cen 23 3
+tpmbhz  958 Cen 24 4
+tpmbhz  959 Cen 25 5
+tpmbhz  960 Cen 26 3
+tpmbhz  961 Cen 27 4
+tpmbh   962 Cen 28 4
+     z             3
+tpmbhz  963 Cen 29 2
+tpmb    964 Cen 30 3
+    hz            
+tpmbhz  965 Cen 31 2
+tpmbhz  966 Cen 32 2
+tpm     967 Cen 33 4
+   bhz             2
+tpm     968 Cen 34 2
+   bh              4
+     z             3
+tpmbhz  969 Cen 35 1
+tpmbhz  970 Cen 36 2
+tpmbhz  971 Cen 37 4
+------+----+------+---
+tpmbhz  972 Lup  1 3
+tpmbhz  973 Lup  2 3
+tpmbhz  974 Lup  3 4
+tpmbhz  975 Lup  4 4
+tpmbhz  976 Lup  5 4
+tpmbhz  977 Lup  6 5
+tpmbhz  978 Lup  7 5
+tpmbhz  979 Lup  8 5
+tpmbhz  980 Lup  9 5
+tpmbhz  981 Lup 10 5
+tpmbhz  982 Lup 11 5
+tpmbhz  983 Lup 12 4
+tpm     984 Lup 13 4-3
+   bhz             4
+tpmbhz  985 Lup 14 4
+tpm     986 Lup 15 4-3
+   bhz             4
+tpmbhz  987 Lup 16 4
+tpmbhz  988 Lup 17 4
+tpm     989 Lup 18 4-3
+   bhz             4
+tpm     990 Lup 19 4-3
+   bhz             4
+------+----+------+---
+tpmbhz  991 Ara  1 5
+tpmbhz  992 Ara  2 4
+tpm     993 Ara  3 4-3
+   bhz             4
+tpmbhz  994 Ara  4 5
+tpm     995 Ara  5 4-3
+   bhz             4
+tpmbhz  996 Ara  6 4
+tpmbhz  997 Ara  7 4
+------+----+------+---
+tpmbhz  998 CrA  1 4
+tpmbhz  999 CrA  2 5
+tpmbhz 1000 CrA  3 5
+tpmbhz 1001 CrA  4 4
+tpmbhz 1002 CrA  5 5
+tpmbhz 1003 CrA  6 4
+tpmbhz 1004 CrA  7 4
+tpmbhz 1005 CrA  8 4
+tpmbhz 1006 CrA  9 6
+tpmbhz 1007 CrA 10 6
+tpmbhz 1008 CrA 11 5
+tpmbhz 1009 CrA 12 5
+tpmbhz 1010 CrA 13 5
+------+----+------+---
+tpmbhz 1011 PsA  1 1
+tpmbhz 1012 PsA  2 4
+tpmbhz 1013 PsA  3 4
+tpmbhz 1014 PsA  4 4
+tpm    1015 PsA  5 4-3
+   bhz             4
+tpmbhz 1016 PsA  6 5
+tpmbhz 1017 PsA  7 5
+tpmbhz 1018 PsA  8 4
+tpmbhz 1019 PsA  9 4
+tpmbhz 1020 PsA 10 4
+tpmbhz 1021 PsA 11 4
+tpmbhz 1022 PsA 12 4
+tpm    1023 PsA~ 1 3-4
+   bhz             3
+tpm    1024 PsA~ 2 3-4
+   bhz             3
+tpm    1025 PsA~ 3 3-4
+   bhz             3
+tpmbhz 1026 PsA~ 4 5
+tpmbhz 1027 PsA~ 5 4
+tpm h  1028 PsA~ 6 4
+   b z             3
+------+----+------+---
